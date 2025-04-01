@@ -1,0 +1,2 @@
+[start]
+[exit ok, 0.002933 duration 999999]

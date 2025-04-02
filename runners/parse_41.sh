@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod -R u+w /4.1_data /parsed_4.1_data
+chmod -R u+w /4.1_data_ocaml /parsed_4.1_data_ocaml
 
 # Exit immediately on error
 set -e

@@ -4,7 +4,6 @@ import argparse
 import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter
 
-# Rename top-level keys from files
 def normalize_title(name):
     return {
         "BoolListBespoke": "Bool List",
@@ -81,7 +80,7 @@ def plot(parsed_data):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("directory", help="Path to directory containing JSON files")
+    parser.add_argument("--dir", help="Path to directory containing JSON files")
     args = parser.parse_args()
 
     parsed_data = load_data_from_directory(args.directory)

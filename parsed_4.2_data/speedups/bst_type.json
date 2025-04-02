@@ -1,0 +1,5858 @@
+{
+  "delete_4": {
+    "prop_DeleteDelete": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.308234638226547,
+        "baseTypestagedc": 3.811217777168425,
+        "baseTypestagedcsr": 4.040734632264557
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3016150565682862,
+        "baseTypestagedc": 3.79117497815064,
+        "baseTypestagedcsr": 4.027555999406628
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3046212486022803,
+        "baseTypestagedc": 3.765885952744868,
+        "baseTypestagedcsr": 4.001952862163608
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3085264247382993,
+        "baseTypestagedc": 3.7916144938036873,
+        "baseTypestagedcsr": 4.041611796228931
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3071090343496112,
+        "baseTypestagedc": 3.797332529626422,
+        "baseTypestagedcsr": 4.038839984222336
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3047273351670248,
+        "baseTypestagedc": 3.7897633763910865,
+        "baseTypestagedcsr": 4.006783058229817
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3114523024591405,
+        "baseTypestagedc": 3.793325369111071,
+        "baseTypestagedcsr": 4.025828494892818
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.304847523166778,
+        "baseTypestagedc": 3.743742555250163,
+        "baseTypestagedcsr": 3.9760088758971084
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.302510482767067,
+        "baseTypestagedc": 3.776028031014869,
+        "baseTypestagedcsr": 4.008783736190935
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3058820426262576,
+        "baseTypestagedc": 3.787269561544127,
+        "baseTypestagedcsr": 4.025224141441686
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3042771364752135,
+        "baseTypestagedc": 3.750869167429095,
+        "baseTypestagedcsr": 3.973611047345036
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3033300119939901,
+        "baseTypestagedc": 3.7715929234657892,
+        "baseTypestagedcsr": 3.984099897305919
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2980950636051678,
+        "baseTypestagedc": 3.6347489705087144,
+        "baseTypestagedcsr": 3.8408984352106903
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3090985758364633,
+        "baseTypestagedc": 3.803212868904438,
+        "baseTypestagedcsr": 4.030709701620045
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3071382480027147,
+        "baseTypestagedc": 3.790687408211343,
+        "baseTypestagedcsr": 4.020668334781799
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3179581674978664,
+        "baseTypestagedc": 3.840343395807195,
+        "baseTypestagedcsr": 4.075384438344612
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3057493114325756,
+        "baseTypestagedc": 3.7887694010038664,
+        "baseTypestagedcsr": 4.019019098316666
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3044618370502505,
+        "baseTypestagedc": 3.7814770257980976,
+        "baseTypestagedcsr": 4.038689334962264
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3077749155453118,
+        "baseTypestagedc": 3.7873223514476093,
+        "baseTypestagedcsr": 4.025052725651007
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3025986402902476,
+        "baseTypestagedc": 3.778333232977343,
+        "baseTypestagedcsr": 4.018152605298354
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1916567245795615,
+        "baseTypestagedc": 3.808908531484832,
+        "baseTypestagedcsr": 4.0491630417620845
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3015891977350895,
+        "baseTypestagedc": 3.7850991266942766,
+        "baseTypestagedcsr": 4.023243194646905
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3138043142600195,
+        "baseTypestagedc": 3.8143534080263457,
+        "baseTypestagedcsr": 4.054323063405487
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3105400022724303,
+        "baseTypestagedc": 3.80240920839718,
+        "baseTypestagedcsr": 4.027325550753663
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3186896211890502,
+        "baseTypestagedc": 3.815618254442984,
+        "baseTypestagedcsr": 4.059549832110717
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2999139781883897,
+        "baseTypestagedc": 3.7905537729795027,
+        "baseTypestagedcsr": 4.039962068864242
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3017358514539095,
+        "baseTypestagedc": 3.777285434269527,
+        "baseTypestagedcsr": 4.006363842475398
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.308128671712224,
+        "baseTypestagedc": 3.795025007562353,
+        "baseTypestagedcsr": 4.028573116260598
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3078884392998344,
+        "baseTypestagedc": 3.7937430750326384,
+        "baseTypestagedcsr": 4.020907801435411
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.312171623234035,
+        "baseTypestagedc": 3.8054777590985513,
+        "baseTypestagedcsr": 4.039052402942867
+      }
+    },
+    "prop_DeletePost": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8475590551181102,
+        "baseTypestagedc": 6.116788321167883,
+        "baseTypestagedcsr": 6.293991416309012
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.980094466936572,
+        "baseTypestagedc": 7.931081081081081,
+        "baseTypestagedcsr": 8.095172413793104
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2616033755274263,
+        "baseTypestagedc": 2.9170731707317072,
+        "baseTypestagedcsr": 2.9029126213592233
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.4540126239855726,
+        "baseTypestagedc": 6.084905660377359,
+        "baseTypestagedcsr": 6.213872832369942
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1014711429649189,
+        "baseTypestagedc": 3.34351145038168,
+        "baseTypestagedcsr": 3.261355174981385
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1870602368285568,
+        "baseTypestagedc": 3.1934441366574333,
+        "baseTypestagedcsr": 3.2805311833056674
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7904054825813822,
+        "baseTypestagedc": 6.763754045307444,
+        "baseTypestagedcsr": 6.91289966923925
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.26790660862683,
+        "baseTypestagedc": 4.347354138398914,
+        "baseTypestagedcsr": 4.419310344827586
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2048760499897562,
+        "baseTypestagedc": 2.20647823911956,
+        "baseTypestagedcsr": 2.321752862218713
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1610305958132043,
+        "baseTypestagedc": 3.3344005691924576,
+        "baseTypestagedcsr": 3.5236842105263153
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.874046965538274,
+        "baseTypestagedc": 6.495771670190275,
+        "baseTypestagedcsr": 6.448058761804828
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2159566746691977,
+        "baseTypestagedc": 2.4385847049602507,
+        "baseTypestagedcsr": 2.496160458452722
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.046651270207852,
+        "baseTypestagedc": 4.2514071294559095,
+        "baseTypestagedcsr": 4.235514018691588
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1168309602044542,
+        "baseTypestagedc": 3.7749897161661865,
+        "baseTypestagedcsr": 3.8494127516778525
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1002566570420276,
+        "baseTypestagedc": 5.626743232157506,
+        "baseTypestagedcsr": 5.974738675958188
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.28075117370892,
+        "baseTypestagedc": 5.544715447154471,
+        "baseTypestagedcsr": 5.73109243697479
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.136627258532233,
+        "baseTypestagedc": 3.3184630413546077,
+        "baseTypestagedcsr": 3.418651459241865
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2927035006326446,
+        "baseTypestagedc": 3.559814169570267,
+        "baseTypestagedcsr": 4.198630136986302
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1406805485017777,
+        "baseTypestagedc": 4.611909650924025,
+        "baseTypestagedcsr": 4.483033932135728
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8372162485065713,
+        "baseTypestagedc": 7.144018583042974,
+        "baseTypestagedcsr": 7.029714285714286
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1327491785323112,
+        "baseTypestagedc": 3.5033875338753386,
+        "baseTypestagedcsr": 3.7108001435235023
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9306265984654731,
+        "baseTypestagedc": 7.013937282229965,
+        "baseTypestagedcsr": 7.12987012987013
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.124568512681975,
+        "baseTypestagedc": 5.999199359487591,
+        "baseTypestagedcsr": 6.162006578947368
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9109707064905228,
+        "baseTypestagedc": 6.647352647352648,
+        "baseTypestagedcsr": 6.952978056426333
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1724835609509359,
+        "baseTypestagedc": 5.292237442922374,
+        "baseTypestagedcsr": 5.4799054373522464
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.340220385674931,
+        "baseTypestagedc": 5.071641791044776,
+        "baseTypestagedcsr": 5.041543026706232
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1907085691977357,
+        "baseTypestagedc": 2.9013079667063018,
+        "baseTypestagedcsr": 3.0227948463825576
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.190550566185084,
+        "baseTypestagedc": 3.231927072291711,
+        "baseTypestagedcsr": 3.408989266547406
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.289156626506024,
+        "baseTypestagedc": 3.974739970282318,
+        "baseTypestagedcsr": 4.356677524429967
+      }
+    },
+    "prop_DeleteUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.297636137429419,
+        "baseTypestagedc": 3.4228374284752605,
+        "baseTypestagedcsr": 3.724317890496246
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3194323298521888,
+        "baseTypestagedc": 3.8037923066467307,
+        "baseTypestagedcsr": 4.0367111431662455
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2921005842011684,
+        "baseTypestagedc": 3.2037367481893564,
+        "baseTypestagedcsr": 3.395861148197597
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2853434141009292,
+        "baseTypestagedc": 3.1726812816188867,
+        "baseTypestagedcsr": 4.513915547024952
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2142196045435423,
+        "baseTypestagedc": 4.197498545666084,
+        "baseTypestagedcsr": 4.443041871921182
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.32963175481824,
+        "baseTypestagedc": 3.5352239073858023,
+        "baseTypestagedcsr": 3.6736920637881187
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.280176541616355,
+        "baseTypestagedc": 3.175911579382295,
+        "baseTypestagedcsr": 3.3686863153281474
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3299987235943584,
+        "baseTypestagedc": 4.1160873000197515,
+        "baseTypestagedcsr": 4.369378341545235
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3007370863066396,
+        "baseTypestagedc": 3.6880932556203163,
+        "baseTypestagedcsr": 3.847637248088951
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.231418918918919,
+        "baseTypestagedc": 3.9215358931552586,
+        "baseTypestagedcsr": 4.312729498164015
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.885560892907601,
+        "baseTypestagedc": 7.925178147268409,
+        "baseTypestagedcsr": 9.029769959404602
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2445742177285801,
+        "baseTypestagedc": 4.233323450933886,
+        "baseTypestagedcsr": 4.4803890806401006
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2910636466347447,
+        "baseTypestagedc": 3.679674921413785,
+        "baseTypestagedcsr": 3.6403216019417477
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1338762214983713,
+        "baseTypestagedc": 3.942242355605889,
+        "baseTypestagedcsr": 4.119526627218935
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2896795522241498,
+        "baseTypestagedc": 3.4886665486098813,
+        "baseTypestagedcsr": 3.6819923371647505
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1375759176128863,
+        "baseTypestagedc": 6.434652725914862,
+        "baseTypestagedcsr": 6.959612277867529
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2984770237821124,
+        "baseTypestagedc": 3.449104412407165,
+        "baseTypestagedcsr": 3.6308866813833705
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2992700729927007,
+        "baseTypestagedc": 3.6508466491772,
+        "baseTypestagedcsr": 3.722460890005674
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.290038226735893,
+        "baseTypestagedc": 3.595817430025445,
+        "baseTypestagedcsr": 3.846958740961293
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2956064588809613,
+        "baseTypestagedc": 3.7583877995642703,
+        "baseTypestagedcsr": 3.981918904362545
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2721737040301258,
+        "baseTypestagedc": 3.2341378959160814,
+        "baseTypestagedcsr": 3.3395730360710907
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2258359673931127,
+        "baseTypestagedc": 4.322968612496333,
+        "baseTypestagedcsr": 4.573867163252638
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.417827298050139,
+        "baseTypestagedc": 7.02834008097166,
+        "baseTypestagedcsr": 7.614035087719297
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2748967416245984,
+        "baseTypestagedc": 4.215477996965098,
+        "baseTypestagedcsr": 4.475592073465442
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1829532424512677,
+        "baseTypestagedc": 5.978750804893754,
+        "baseTypestagedcsr": 6.575779036827195
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2767801211108791,
+        "baseTypestagedc": 4.079052701801201,
+        "baseTypestagedcsr": 4.348862019914652
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2231404958677685,
+        "baseTypestagedc": 4.321447028423772,
+        "baseTypestagedcsr": 4.699072773250913
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2509109255003084,
+        "baseTypestagedc": 4.029433008306247,
+        "baseTypestagedcsr": 4.237561716672997
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2829578091501153,
+        "baseTypestagedc": 3.2412876852324985,
+        "baseTypestagedcsr": 3.4077576018050935
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2174033917153184,
+        "baseTypestagedc": 6.874411302982732,
+        "baseTypestagedcsr": 7.220115416323165
+      }
+    }
+  },
+  "delete_5": {
+    "prop_DeleteDelete": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2455128845602932,
+        "baseTypestagedc": 2.8904479409800867,
+        "baseTypestagedcsr": 3.0524819524387707
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2538200297224245,
+        "baseTypestagedc": 2.8651191147729667,
+        "baseTypestagedcsr": 3.020459282663671
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.242964349376114,
+        "baseTypestagedc": 2.8763836839250323,
+        "baseTypestagedcsr": 3.0394432869260477
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2414395081777057,
+        "baseTypestagedc": 2.7976238710773615,
+        "baseTypestagedcsr": 2.9269656775605086
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2460904375949042,
+        "baseTypestagedc": 2.880651916857806,
+        "baseTypestagedcsr": 3.034939046538365
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2448361047501502,
+        "baseTypestagedc": 2.863565514957501,
+        "baseTypestagedcsr": 3.0192788472729815
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2356814742839608,
+        "baseTypestagedc": 2.8291090418204865,
+        "baseTypestagedcsr": 3.0045716208407396
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2410353584271678,
+        "baseTypestagedc": 2.8834763158253653,
+        "baseTypestagedcsr": 3.019090161312434
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2463606095488318,
+        "baseTypestagedc": 2.8723987135641513,
+        "baseTypestagedcsr": 3.0169889399244103
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2469733948075536,
+        "baseTypestagedc": 2.866186363706338,
+        "baseTypestagedcsr": 2.997340485474092
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2411792572656555,
+        "baseTypestagedc": 2.7693285742735028,
+        "baseTypestagedcsr": 2.9314404319836544
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.247513313984615,
+        "baseTypestagedc": 2.882089910656421,
+        "baseTypestagedcsr": 3.0238458059247972
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2063283399571996,
+        "baseTypestagedc": 2.4082392432102533,
+        "baseTypestagedcsr": 2.5145934234004588
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2510504596540661,
+        "baseTypestagedc": 2.9015988062575806,
+        "baseTypestagedcsr": 3.0487443830221546
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2473874649057413,
+        "baseTypestagedc": 2.884168891451708,
+        "baseTypestagedcsr": 3.047040052744354
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2454627862595418,
+        "baseTypestagedc": 2.852386649839651,
+        "baseTypestagedcsr": 2.996206665021549
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2158269595116131,
+        "baseTypestagedc": 2.539089976553341,
+        "baseTypestagedcsr": 2.6699668695585177
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2489660983313104,
+        "baseTypestagedc": 2.8959394057927206,
+        "baseTypestagedcsr": 3.0366660352565487
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2488447877105275,
+        "baseTypestagedc": 2.8249989301151195,
+        "baseTypestagedcsr": 2.961363330492127
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2494014849162793,
+        "baseTypestagedc": 2.8941054068634466,
+        "baseTypestagedcsr": 3.0598719100809704
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2434090033672542,
+        "baseTypestagedc": 2.870705952213613,
+        "baseTypestagedcsr": 3.0447196275899837
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2445199674970255,
+        "baseTypestagedc": 2.881297293255571,
+        "baseTypestagedcsr": 3.0589370454397518
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2442186102323551,
+        "baseTypestagedc": 2.8922065434362776,
+        "baseTypestagedcsr": 3.056931016812146
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2408794630839,
+        "baseTypestagedc": 2.8777416470009713,
+        "baseTypestagedcsr": 3.0237807580765677
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2567779314732985,
+        "baseTypestagedc": 2.917819171719287,
+        "baseTypestagedcsr": 3.063302801799515
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2331473214285715,
+        "baseTypestagedc": 2.6731020467411817,
+        "baseTypestagedcsr": 2.7974984808588212
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2336977676984786,
+        "baseTypestagedc": 2.88340476364708,
+        "baseTypestagedcsr": 3.0244710997888133
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2429558366603308,
+        "baseTypestagedc": 2.8908180307877203,
+        "baseTypestagedcsr": 3.050151203411323
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.237922406292922,
+        "baseTypestagedc": 2.893798295777193,
+        "baseTypestagedcsr": 3.0545512876301837
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2174982103395686,
+        "baseTypestagedc": 2.4054236871233554,
+        "baseTypestagedcsr": 2.4674824954267334
+      }
+    },
+    "prop_DeleteInsert": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1443647788608717,
+        "baseTypestagedc": 1.793334174977907,
+        "baseTypestagedcsr": 1.8314853017019084
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8850162866449511,
+        "baseTypestagedc": 2.838155958803335,
+        "baseTypestagedcsr": 2.9124308002013084
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1346334341432893,
+        "baseTypestagedc": 1.6209773539928487,
+        "baseTypestagedcsr": 1.6494845360824744
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1285846438482887,
+        "baseTypestagedc": 1.74037089871612,
+        "baseTypestagedcsr": 1.74435230197312
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9508307900983386,
+        "baseTypestagedc": 2.9808290155440416,
+        "baseTypestagedcsr": 2.97312661498708
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1301229508196722,
+        "baseTypestagedc": 3.373088685015291,
+        "baseTypestagedcsr": 3.2778603268945026
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1409618573797677,
+        "baseTypestagedc": 1.7631983598154792,
+        "baseTypestagedcsr": 1.8624796968056307
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1893344550383251,
+        "baseTypestagedc": 2.1364285114599952,
+        "baseTypestagedcsr": 2.115470945215729
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1580252014046686,
+        "baseTypestagedc": 1.9756828193832598,
+        "baseTypestagedcsr": 2.0424446670917207
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2037533512064342,
+        "baseTypestagedc": 2.0455580865603644,
+        "baseTypestagedcsr": 2.093240093240093
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1997624703087886,
+        "baseTypestagedc": 1.4560392043816661,
+        "baseTypestagedcsr": 1.639668884921279
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0766666666666667,
+        "baseTypestagedc": 3.240802675585284,
+        "baseTypestagedcsr": 3.5045207956600364
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1701088615322008,
+        "baseTypestagedc": 1.661274014155713,
+        "baseTypestagedcsr": 1.6983165977554637
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2017241379310346,
+        "baseTypestagedc": 2.020289855072464,
+        "baseTypestagedcsr": 2.0621301775147933
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1458356315499172,
+        "baseTypestagedc": 1.658470381606259,
+        "baseTypestagedcsr": 1.5960356484326983
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1211119972655805,
+        "baseTypestagedc": 1.5653833916640152,
+        "baseTypestagedcsr": 1.581739270213792
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.116651147041395,
+        "baseTypestagedc": 1.6920215495125706,
+        "baseTypestagedcsr": 1.6870443790766083
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.855874894336433,
+        "baseTypestagedc": 4.2617275962471695,
+        "baseTypestagedcsr": 4.286690530426293
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0841091492776884,
+        "baseTypestagedc": 2.858231062209056,
+        "baseTypestagedcsr": 2.8413967185527973
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1524278788842088,
+        "baseTypestagedc": 1.7310493016593052,
+        "baseTypestagedcsr": 1.8358020002531967
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.119222139117427,
+        "baseTypestagedc": 2.519191919191919,
+        "baseTypestagedcsr": 2.645685997171146
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1713266877380664,
+        "baseTypestagedc": 1.7398579511255567,
+        "baseTypestagedcsr": 1.8193605236656598
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1433033971105038,
+        "baseTypestagedc": 3.2569521690767522,
+        "baseTypestagedcsr": 3.1182108626198084
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0998338870431894,
+        "baseTypestagedc": 2.940053285968028,
+        "baseTypestagedcsr": 2.963742166517458
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1268906592772197,
+        "baseTypestagedc": 1.6005247622171204,
+        "baseTypestagedcsr": 1.625582944703531
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.0427927927927927,
+        "baseTypestagedc": 3.8678038379530917,
+        "baseTypestagedcsr": 3.9264069264069263
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0212987012987012,
+        "baseTypestagedc": 3.620626151012891,
+        "baseTypestagedcsr": 3.7519083969465643
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.7185739265591607,
+        "baseTypestagedc": 1.8072318592719276,
+        "baseTypestagedcsr": 1.857609241587142
+      }
+    },
+    "prop_DeleteModel": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1005315822388995,
+        "baseTypestagedc": 3.212688270196258,
+        "baseTypestagedcsr": 3.088635366388767
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1892584941947433,
+        "baseTypestagedc": 1.9878556971067982,
+        "baseTypestagedcsr": 2.1568272832967317
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1669769989047099,
+        "baseTypestagedc": 2.2194563066347257,
+        "baseTypestagedcsr": 2.241636860929939
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2238455988455987,
+        "baseTypestagedc": 1.9533611630919823,
+        "baseTypestagedcsr": 1.9592838579266534
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1306987643800595,
+        "baseTypestagedc": 1.5725925925925925,
+        "baseTypestagedcsr": 2.7948920484465507
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1843999221941257,
+        "baseTypestagedc": 2.033507736836246,
+        "baseTypestagedcsr": 2.033507736836246
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1919446192573946,
+        "baseTypestagedc": 1.9913260612432646,
+        "baseTypestagedcsr": 2.1587120672460465
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2387119856887299,
+        "baseTypestagedc": 2.6750283300710826,
+        "baseTypestagedcsr": 2.8235198173218072
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2156521739130435,
+        "baseTypestagedc": 2.853061224489796,
+        "baseTypestagedcsr": 2.67816091954023
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.243715048617059,
+        "baseTypestagedc": 2.6473458445040214,
+        "baseTypestagedcsr": 2.792906437379794
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2243347473968376,
+        "baseTypestagedc": 2.396,
+        "baseTypestagedcsr": 2.532466496490108
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.146789775156023,
+        "baseTypestagedc": 1.7904431393486386,
+        "baseTypestagedcsr": 1.9083795703514015
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2231410825199645,
+        "baseTypestagedc": 2.473941134242642,
+        "baseTypestagedcsr": 2.555201304960332
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2499149948996942,
+        "baseTypestagedc": 2.644128753821255,
+        "baseTypestagedcsr": 2.759587112918361
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.230124415423983,
+        "baseTypestagedc": 2.5866163646484015,
+        "baseTypestagedcsr": 2.6106741573033707
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2195393902110807,
+        "baseTypestagedc": 2.459981386691484,
+        "baseTypestagedcsr": 2.474180967238689
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1324837965505878,
+        "baseTypestagedc": 2.7236459709379126,
+        "baseTypestagedcsr": 2.842293906810036
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1685765765765765,
+        "baseTypestagedc": 1.9102262016965124,
+        "baseTypestagedcsr": 2.058136582889058
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.231461561235567,
+        "baseTypestagedc": 2.766338565221247,
+        "baseTypestagedcsr": 2.91170431211499
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1794008027522935,
+        "baseTypestagedc": 2.017038489825938,
+        "baseTypestagedcsr": 2.083175085453855
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2235752924896213,
+        "baseTypestagedc": 2.639402985074627,
+        "baseTypestagedcsr": 2.7125725122713074
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1265403925148334,
+        "baseTypestagedc": 2.655459924690694,
+        "baseTypestagedcsr": 2.800056721497447
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7646062658763757,
+        "baseTypestagedc": 3.063204311611955,
+        "baseTypestagedcsr": 3.1832993890020367
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2240385291429376,
+        "baseTypestagedc": 2.4640152855424247,
+        "baseTypestagedcsr": 2.591084982884358
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1895443925233646,
+        "baseTypestagedc": 1.924858223062382,
+        "baseTypestagedcsr": 2.0714558169103623
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0310356092780137,
+        "baseTypestagedc": 2.9495327102803737,
+        "baseTypestagedcsr": 3.0389985556090515
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1824739732764982,
+        "baseTypestagedc": 1.9357219538378958,
+        "baseTypestagedcsr": 2.0385811192764276
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.6424185167690128,
+        "baseTypestagedc": 1.7150063051702398,
+        "baseTypestagedcsr": 1.7599482368165644
+      }
+    },
+    "prop_DeletePost": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2713432227842085,
+        "baseTypestagedc": 3.409266760730053,
+        "baseTypestagedcsr": 3.629733724226492
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2741827112439472,
+        "baseTypestagedc": 3.5157198931123985,
+        "baseTypestagedcsr": 3.7805565485192627
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2733403769213443,
+        "baseTypestagedc": 3.5634075508228467,
+        "baseTypestagedcsr": 3.838714632174616
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2518841232880142,
+        "baseTypestagedc": 2.981632774762956,
+        "baseTypestagedcsr": 3.090937190900099
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2780415397730855,
+        "baseTypestagedc": 3.6481743029174374,
+        "baseTypestagedcsr": 3.9340207316404325
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2714396923327174,
+        "baseTypestagedc": 3.3148249121531563,
+        "baseTypestagedcsr": 3.50453162530024
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2778467939522113,
+        "baseTypestagedc": 3.608694138939162,
+        "baseTypestagedcsr": 3.8684968510282665
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2741701314754466,
+        "baseTypestagedc": 3.59438280606099,
+        "baseTypestagedcsr": 3.831698893627374
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2714091610154967,
+        "baseTypestagedc": 3.5331745896759927,
+        "baseTypestagedcsr": 3.822872864122784
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2756801075499002,
+        "baseTypestagedc": 3.5894360852437686,
+        "baseTypestagedcsr": 3.8313873493898436
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2800704220937957,
+        "baseTypestagedc": 3.6595920543330225,
+        "baseTypestagedcsr": 3.9453343282644973
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.285028887653741,
+        "baseTypestagedc": 3.642210863594751,
+        "baseTypestagedcsr": 3.949937121487904
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2645700224486272,
+        "baseTypestagedc": 3.3186053757045344,
+        "baseTypestagedcsr": 3.571167327034441
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2621793094449791,
+        "baseTypestagedc": 3.1788046826863834,
+        "baseTypestagedcsr": 3.384117544166521
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2531350618539232,
+        "baseTypestagedc": 2.6222517730496455,
+        "baseTypestagedcsr": 2.7854788586495904
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2771617753815852,
+        "baseTypestagedc": 3.599584278155707,
+        "baseTypestagedcsr": 3.883151390753615
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2743493678093982,
+        "baseTypestagedc": 3.648634127814882,
+        "baseTypestagedcsr": 3.939545381804604
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2761661688728532,
+        "baseTypestagedc": 3.614647065529731,
+        "baseTypestagedcsr": 3.8956164780603375
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.278633660704511,
+        "baseTypestagedc": 3.6271936031701104,
+        "baseTypestagedcsr": 3.907635947823141
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2789555135228081,
+        "baseTypestagedc": 3.5124807247494214,
+        "baseTypestagedcsr": 3.7893013100436677
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2867305017823745,
+        "baseTypestagedc": 3.665399239543726,
+        "baseTypestagedcsr": 3.8646748561355855
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2783570121555474,
+        "baseTypestagedc": 3.6031499687245514,
+        "baseTypestagedcsr": 3.8881374927566688
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2629997904198589,
+        "baseTypestagedc": 3.3064285061115,
+        "baseTypestagedcsr": 3.537272549403248
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2776871242346797,
+        "baseTypestagedc": 3.6443494164665466,
+        "baseTypestagedcsr": 3.944540756595674
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2770419459850124,
+        "baseTypestagedc": 3.559178238863805,
+        "baseTypestagedcsr": 3.8526580313753023
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2814199416844543,
+        "baseTypestagedc": 3.6392015626423873,
+        "baseTypestagedcsr": 3.8960649493325645
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2737056837366347,
+        "baseTypestagedc": 3.5650952621596255,
+        "baseTypestagedcsr": 3.847287046808269
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2736375999360035,
+        "baseTypestagedc": 3.4509568920452374,
+        "baseTypestagedcsr": 3.73136468285151
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.277832150721801,
+        "baseTypestagedc": 3.645278936255606,
+        "baseTypestagedcsr": 3.948680386551048
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2842709702732746,
+        "baseTypestagedc": 3.662256616682528,
+        "baseTypestagedcsr": 3.7965123836377996
+      }
+    },
+    "prop_DeleteUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.25722130697419,
+        "baseTypestagedc": 2.9351282051282053,
+        "baseTypestagedcsr": 3.0912773426951126
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0639758374519495,
+        "baseTypestagedc": 3.075396825396825,
+        "baseTypestagedcsr": 3.1
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0619629874421679,
+        "baseTypestagedc": 3.1458639255996084,
+        "baseTypestagedcsr": 3.255825734549139
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1525152194809356,
+        "baseTypestagedc": 2.5952380952380953,
+        "baseTypestagedcsr": 2.846478501714587
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2553161077515118,
+        "baseTypestagedc": 3.103906696028056,
+        "baseTypestagedcsr": 3.262774348422496
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2157624922539576,
+        "baseTypestagedc": 2.3260400948480275,
+        "baseTypestagedcsr": 2.3941646327934327
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2310138659203664,
+        "baseTypestagedc": 2.5824271132163585,
+        "baseTypestagedcsr": 2.8000578703703702
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1631187262028384,
+        "baseTypestagedc": 1.9711101334506524,
+        "baseTypestagedcsr": 1.9734253413595653
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.7880942538238942,
+        "baseTypestagedc": 2.7430215827338134,
+        "baseTypestagedcsr": 2.9392537773666363
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2337343405141594,
+        "baseTypestagedc": 2.637076411960133,
+        "baseTypestagedcsr": 2.737103448275862
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0838141512298816,
+        "baseTypestagedc": 3.2298642533936652,
+        "baseTypestagedcsr": 3.2225733634311515
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1937958452320958,
+        "baseTypestagedc": 2.277047954715369,
+        "baseTypestagedcsr": 2.3933542882801975
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0931263858093125,
+        "baseTypestagedc": 3.171097770154374,
+        "baseTypestagedcsr": 3.2852065748556196
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.196672012830794,
+        "baseTypestagedc": 3.0100857286938982,
+        "baseTypestagedcsr": 3.0578893442622954
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1987379941925396,
+        "baseTypestagedc": 2.2815389520671694,
+        "baseTypestagedcsr": 2.322765635143908
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2361380536695765,
+        "baseTypestagedc": 2.488366417181907,
+        "baseTypestagedcsr": 2.59409719277415
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2647005429670095,
+        "baseTypestagedc": 2.92020425272464,
+        "baseTypestagedcsr": 3.138083538083538
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1967893717132576,
+        "baseTypestagedc": 2.290011651308124,
+        "baseTypestagedcsr": 2.3939763038423205
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.259039189339119,
+        "baseTypestagedc": 3.2003760282021148,
+        "baseTypestagedcsr": 3.3862833838961555
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1694641207268248,
+        "baseTypestagedc": 2.0252,
+        "baseTypestagedcsr": 2.0570151679306607
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7404626013817963,
+        "baseTypestagedc": 3.0526870389884087,
+        "baseTypestagedcsr": 3.2423055400111918
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2106409202958093,
+        "baseTypestagedc": 2.4808048493012294,
+        "baseTypestagedcsr": 2.5870939420544334
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2599365280119919,
+        "baseTypestagedc": 3.2316137268153486,
+        "baseTypestagedcsr": 3.4607169853804463
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.207575513707817,
+        "baseTypestagedc": 2.361309274024339,
+        "baseTypestagedcsr": 2.3838169879262865
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2584557735923478,
+        "baseTypestagedc": 2.8239198982131994,
+        "baseTypestagedcsr": 2.87805153069854
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2451093844712624,
+        "baseTypestagedc": 2.8989009109181882,
+        "baseTypestagedcsr": 3.0463799379803156
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2096774193548387,
+        "baseTypestagedc": 2.125506072874494,
+        "baseTypestagedcsr": 2.2925764192139737
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1438143814381438,
+        "baseTypestagedc": 2.612380082229328,
+        "baseTypestagedcsr": 2.8939777327935223
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2244309997118985,
+        "baseTypestagedc": 2.395040856579318,
+        "baseTypestagedcsr": 2.601509895939604
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2517836192408915,
+        "baseTypestagedc": 2.975728338295707,
+        "baseTypestagedcsr": 3.1542886820342773
+      }
+    },
+    "prop_UnionDeleteInsert": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.211211645687957,
+        "baseTypestagedc": 2.492236878263259,
+        "baseTypestagedcsr": 2.5862265630569614
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.237004530011325,
+        "baseTypestagedc": 2.853196630314112,
+        "baseTypestagedcsr": 2.9813033094506993
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1676603287141476,
+        "baseTypestagedc": 1.945630285944422,
+        "baseTypestagedcsr": 1.9699605817588692
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.233539415891255,
+        "baseTypestagedc": 2.7085656824206965,
+        "baseTypestagedcsr": 2.8415651673539846
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1230470399459505,
+        "baseTypestagedc": 1.8609012034704733,
+        "baseTypestagedcsr": 1.9166906889593545
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2136950575663126,
+        "baseTypestagedc": 2.503509807780621,
+        "baseTypestagedcsr": 2.6308859014133055
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.050595992898808,
+        "baseTypestagedc": 2.735226147243315,
+        "baseTypestagedcsr": 2.9504985754985755
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2219938067605196,
+        "baseTypestagedc": 2.626104462588078,
+        "baseTypestagedcsr": 2.7158637441443525
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.6625927086597723,
+        "baseTypestagedc": 2.9529795158286776,
+        "baseTypestagedcsr": 3.0806216610004853
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.187668040867539,
+        "baseTypestagedc": 2.290751944684529,
+        "baseTypestagedcsr": 2.389685330448111
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.154836336888562,
+        "baseTypestagedc": 1.7996847685914887,
+        "baseTypestagedcsr": 1.858263056665187
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2288639687957095,
+        "baseTypestagedc": 2.6434527243169543,
+        "baseTypestagedcsr": 2.730217191139035
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2034557094329763,
+        "baseTypestagedc": 2.5293471545273567,
+        "baseTypestagedcsr": 2.6532008353136027
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.161188022199183,
+        "baseTypestagedc": 2.0849759088918094,
+        "baseTypestagedcsr": 2.2016651248843666
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2504018499196299,
+        "baseTypestagedc": 2.8539568113796543,
+        "baseTypestagedcsr": 2.988609173322549
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2219055374592835,
+        "baseTypestagedc": 2.5512032435260266,
+        "baseTypestagedcsr": 2.570703742751713
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2324144112975512,
+        "baseTypestagedc": 2.765083621480488,
+        "baseTypestagedcsr": 2.953048458813776
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2479854794957714,
+        "baseTypestagedc": 2.7260805158591843,
+        "baseTypestagedcsr": 2.8777941311746846
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2274385873460611,
+        "baseTypestagedc": 2.4724373277332985,
+        "baseTypestagedcsr": 2.618137595552467
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2445339731112217,
+        "baseTypestagedc": 2.6078254683424236,
+        "baseTypestagedcsr": 2.799409428775074
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2127082664383317,
+        "baseTypestagedc": 2.4394287354672026,
+        "baseTypestagedcsr": 2.4581284350593
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.23122750778722,
+        "baseTypestagedc": 2.5334785314250152,
+        "baseTypestagedcsr": 2.6770778537611783
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.209884635553225,
+        "baseTypestagedc": 2.240773713175785,
+        "baseTypestagedcsr": 2.4295366795366795
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1641104294478526,
+        "baseTypestagedc": 1.9750929368029735,
+        "baseTypestagedcsr": 2.0508234688625833
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0791240409207161,
+        "baseTypestagedc": 3.043733092876465,
+        "baseTypestagedcsr": 3.112494236975565
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1535469531394702,
+        "baseTypestagedc": 1.7796828118302614,
+        "baseTypestagedcsr": 1.853295640529683
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.175564863429886,
+        "baseTypestagedc": 2.0503138182940632,
+        "baseTypestagedcsr": 2.2397437338428685
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.240446876996105,
+        "baseTypestagedc": 2.886903547381001,
+        "baseTypestagedcsr": 3.0540873909155386
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2631892834204972,
+        "baseTypestagedc": 2.989814975677554,
+        "baseTypestagedcsr": 3.160292902396474
+      }
+    }
+  },
+  "insert_1": {
+    "prop_DeleteInsert": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1803515096890491,
+        "baseTypestagedc": 1.7576164273251913,
+        "baseTypestagedcsr": 1.8848589522164652
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2763005780346819,
+        "baseTypestagedc": 3.9102715466351827,
+        "baseTypestagedcsr": 4.284605433376455
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1484958154263742,
+        "baseTypestagedc": 2.750541711809318,
+        "baseTypestagedcsr": 2.789835164835165
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1580848209679084,
+        "baseTypestagedc": 2.789709172259508,
+        "baseTypestagedcsr": 2.819140919366993
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2037248194602812,
+        "baseTypestagedc": 3.914709517923362,
+        "baseTypestagedcsr": 4.003792667509481
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.9862315145334013,
+        "baseTypestagedc": 4.269315673289183,
+        "baseTypestagedcsr": 4.52927400468384
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3162118780096308,
+        "baseTypestagedc": 4.167725540025413,
+        "baseTypestagedcsr": 4.361702127659575
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.158557004414227,
+        "baseTypestagedc": 2.28958187105184,
+        "baseTypestagedcsr": 2.328574342239445
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.185695348971241,
+        "baseTypestagedc": 2.1765763859500633,
+        "baseTypestagedcsr": 2.2427777172135617
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2228915662650603,
+        "baseTypestagedc": 2.0714285714285716,
+        "baseTypestagedcsr": 2.1090909090909093
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.097418288185171,
+        "baseTypestagedc": 2.9500854700854697,
+        "baseTypestagedcsr": 3.0850911691097602
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.0416666666666665,
+        "baseTypestagedc": 4.394618834080718,
+        "baseTypestagedcsr": 4.3076923076923075
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1569185252617205,
+        "baseTypestagedc": 2.716270371359872,
+        "baseTypestagedcsr": 2.7778688524590165
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2291666666666665,
+        "baseTypestagedc": 2.1633333333333336,
+        "baseTypestagedcsr": 2.0537974683544302
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1265130353817503,
+        "baseTypestagedc": 2.759122006841505,
+        "baseTypestagedcsr": 2.8585351447135263
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1122116349047142,
+        "baseTypestagedc": 2.901864573110893,
+        "baseTypestagedcsr": 3.0235173824130883
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1604262944449686,
+        "baseTypestagedc": 1.8279601842222553,
+        "baseTypestagedcsr": 1.8158205430932706
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1382523678582341,
+        "baseTypestagedc": 3.263688129653964,
+        "baseTypestagedcsr": 3.035030549898167
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7548156301596036,
+        "baseTypestagedc": 3.0866408518877053,
+        "baseTypestagedcsr": 2.930606617647059
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1771838215771306,
+        "baseTypestagedc": 1.9420353336253469,
+        "baseTypestagedcsr": 1.9597760424340653
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0880948713999692,
+        "baseTypestagedc": 2.924254966887417,
+        "baseTypestagedcsr": 3.0153649167733674
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1640707035351767,
+        "baseTypestagedc": 1.8939350797266516,
+        "baseTypestagedcsr": 1.9058739255014328
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2884108867427568,
+        "baseTypestagedc": 4.718649517684887,
+        "baseTypestagedcsr": 4.795751633986928
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.773830669034932,
+        "baseTypestagedc": 2.81578947368421,
+        "baseTypestagedcsr": 3.080719794344473
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.121975806451613,
+        "baseTypestagedc": 3.0020229265003375,
+        "baseTypestagedcsr": 3.108938547486034
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.107752956636005,
+        "baseTypestagedc": 4.20997375328084,
+        "baseTypestagedcsr": 4.311827956989247
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0694830461367426,
+        "baseTypestagedc": 4.613908872901678,
+        "baseTypestagedcsr": 5.228260869565217
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1403658745084628,
+        "baseTypestagedc": 1.9414932324261387,
+        "baseTypestagedcsr": 1.9851190476190474
+      }
+    },
+    "prop_InsertPost": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8735068912710566,
+        "baseTypestagedc": 3.2026178010471202,
+        "baseTypestagedcsr": 5.596523330283623
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.094633346988939,
+        "baseTypestagedc": 3.0317700453857794,
+        "baseTypestagedcsr": 3.0363636363636366
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9054849705608925,
+        "baseTypestagedc": 3.1244918699186988,
+        "baseTypestagedcsr": 3.2586115527292
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1379840196681008,
+        "baseTypestagedc": 2.760685884691849,
+        "baseTypestagedcsr": 2.8060116190957314
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1567460317460316,
+        "baseTypestagedc": 3.755233494363929,
+        "baseTypestagedcsr": 3.9727427597955707
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1379662749105772,
+        "baseTypestagedc": 3.833046471600688,
+        "baseTypestagedcsr": 4.217803030303029
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2235294117647058,
+        "baseTypestagedc": 3.847255369928401,
+        "baseTypestagedcsr": 3.9317073170731707
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.819435736677116,
+        "baseTypestagedc": 5.886409736308317,
+        "baseTypestagedcsr": 6.064785788923721
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8851217906517448,
+        "baseTypestagedc": 6.406040268456376,
+        "baseTypestagedcsr": 6.590333716915996
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2071651090342679,
+        "baseTypestagedc": 3.3879781420765025,
+        "baseTypestagedcsr": 3.4988713318284423
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.800058719906048,
+        "baseTypestagedc": 3.084004024144869,
+        "baseTypestagedcsr": 3.1505652620760536
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.118837571354437,
+        "baseTypestagedc": 3.2059479553903345,
+        "baseTypestagedcsr": 3.304214559386973
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.160624590521948,
+        "baseTypestagedc": 2.8564901908089224,
+        "baseTypestagedcsr": 3.0916230366492146
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1197939500219203,
+        "baseTypestagedc": 2.8372674257150794,
+        "baseTypestagedcsr": 2.9308663224325877
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1536597806681967,
+        "baseTypestagedc": 3.0845550630753493,
+        "baseTypestagedcsr": 3.294610342316096
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1352026651860077,
+        "baseTypestagedc": 3.0732807215332576,
+        "baseTypestagedcsr": 3.3352365415986944
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.751451800232288,
+        "baseTypestagedc": 5.508675799086758,
+        "baseTypestagedcsr": 5.616387337057728
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1850131793648802,
+        "baseTypestagedc": 3.0662552776875605,
+        "baseTypestagedcsr": 3.0873119686069326
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7559407324573666,
+        "baseTypestagedc": 3.047549733139253,
+        "baseTypestagedcsr": 3.183476938672073
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0898100172711573,
+        "baseTypestagedc": 3.0821492007104796,
+        "baseTypestagedcsr": 3.175205855443733
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1733815641761258,
+        "baseTypestagedc": 3.2393250688705235,
+        "baseTypestagedcsr": 3.3169957686882934
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.358251057827927,
+        "baseTypestagedc": 5.706484641638225,
+        "baseTypestagedcsr": 5.726027397260275
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.110381861575179,
+        "baseTypestagedc": 3.4981203007518795,
+        "baseTypestagedcsr": 3.366802351876979
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1167372191468576,
+        "baseTypestagedc": 3.045737122557726,
+        "baseTypestagedcsr": 3.3296116504854365
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2343686970552643,
+        "baseTypestagedc": 3.7731196054254004,
+        "baseTypestagedcsr": 3.873417721518987
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2095323741007193,
+        "baseTypestagedc": 2.940962099125364,
+        "baseTypestagedcsr": 3.002232142857143
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7307164424924513,
+        "baseTypestagedc": 3.1043820777941904,
+        "baseTypestagedcsr": 3.062166100048567
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1330979220426456,
+        "baseTypestagedc": 3.304158415841584,
+        "baseTypestagedcsr": 3.372271624898949
+      }
+    }
+  },
+  "insert_2": {
+    "prop_DeleteInsert": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1243712477689436,
+        "baseTypestagedc": 1.680286129970902,
+        "baseTypestagedcsr": 1.8242727392391733
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.074433656957929,
+        "baseTypestagedc": 1.6781802864363944,
+        "baseTypestagedcsr": 1.649234165861736
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0258153512661345,
+        "baseTypestagedc": 1.5950666462387009,
+        "baseTypestagedcsr": 1.4717274526434831
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1282051282051284,
+        "baseTypestagedc": 1.7280966767371602,
+        "baseTypestagedcsr": 1.6873156342182891
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1420606601248884,
+        "baseTypestagedc": 1.6437168993740972,
+        "baseTypestagedcsr": 1.6613138686131386
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0874453466583387,
+        "baseTypestagedc": 1.5258545135845751,
+        "baseTypestagedcsr": 1.6293869911090315
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1450534759358288,
+        "baseTypestagedc": 1.7515337423312884,
+        "baseTypestagedcsr": 1.681885125184094
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.10979789622976,
+        "baseTypestagedc": 1.5325607964746208,
+        "baseTypestagedcsr": 1.5768261964735517
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.165109468693348,
+        "baseTypestagedc": 1.8958475153165417,
+        "baseTypestagedcsr": 1.9237854017959937
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3005698005698005,
+        "baseTypestagedc": 2.210653753026634,
+        "baseTypestagedcsr": 2.1232558139534885
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1660351143109764,
+        "baseTypestagedc": 1.9369492236676458,
+        "baseTypestagedcsr": 1.9601868563541778
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1182501708817498,
+        "baseTypestagedc": 1.5984367366878358,
+        "baseTypestagedcsr": 1.5730769230769233
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1285422806619814,
+        "baseTypestagedc": 1.8373523622047243,
+        "baseTypestagedcsr": 1.750351617440225
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8674033149171272,
+        "baseTypestagedc": 3.1886792452830193,
+        "baseTypestagedcsr": 2.9753521126760565
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.10002186270223,
+        "baseTypestagedc": 1.5809897879025925,
+        "baseTypestagedcsr": 1.523542770628312
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0256645279560037,
+        "baseTypestagedc": 2.3917557251908397,
+        "baseTypestagedcsr": 2.449343339587242
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1373729476153245,
+        "baseTypestagedc": 1.815651522715926,
+        "baseTypestagedcsr": 1.8122586271334247
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1613878720356516,
+        "baseTypestagedc": 2.966260162601626,
+        "baseTypestagedcsr": 2.954251012145749
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1341783715884437,
+        "baseTypestagedc": 1.5584497097128511,
+        "baseTypestagedcsr": 1.488386033268395
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1248187014759832,
+        "baseTypestagedc": 1.8001092299290005,
+        "baseTypestagedcsr": 1.830856825440911
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0605273412131446,
+        "baseTypestagedc": 2.305845806269416,
+        "baseTypestagedcsr": 2.4690051406108258
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1548578428212235,
+        "baseTypestagedc": 1.8741368487131196,
+        "baseTypestagedcsr": 1.8103082364830723
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.074485413890123,
+        "baseTypestagedc": 2.3589076723016906,
+        "baseTypestagedcsr": 2.827747466874513
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0859374999999998,
+        "baseTypestagedc": 2.7372981488775108,
+        "baseTypestagedcsr": 2.533722201968647
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0932566032167625,
+        "baseTypestagedc": 2.572569444444444,
+        "baseTypestagedcsr": 2.714913887871015
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1354775828460038,
+        "baseTypestagedc": 1.7673830594184574,
+        "baseTypestagedcsr": 1.7858967807869186
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1306173399909214,
+        "baseTypestagedc": 1.4432855280312906,
+        "baseTypestagedcsr": 1.5528366583541147
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1001573741007196,
+        "baseTypestagedc": 1.5398049087476402,
+        "baseTypestagedcsr": 1.5836569579288027
+      }
+    },
+    "prop_InsertDelete": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2270018139414356,
+        "baseTypestagedc": 2.4907943187795896,
+        "baseTypestagedcsr": 2.6895768247656915
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1545346435501032,
+        "baseTypestagedc": 1.88339799877476,
+        "baseTypestagedcsr": 1.938012187434335
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7627217214306483,
+        "baseTypestagedc": 2.6006006006006004,
+        "baseTypestagedcsr": 2.7884084636614532
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1250585041654966,
+        "baseTypestagedc": 1.685457860047679,
+        "baseTypestagedcsr": 1.7150399543378996
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1045709230315541,
+        "baseTypestagedc": 1.9061577608142495,
+        "baseTypestagedcsr": 1.9427385892116185
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7656204165444411,
+        "baseTypestagedc": 2.8675559790376366,
+        "baseTypestagedcsr": 2.9204269771955365
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7509293680297398,
+        "baseTypestagedc": 2.8087155963302752,
+        "baseTypestagedcsr": 2.7844474761255116
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0716346969954167,
+        "baseTypestagedc": 2.91055786076533,
+        "baseTypestagedcsr": 2.9610694183864914
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1424351128930152,
+        "baseTypestagedc": 1.8835672039893308,
+        "baseTypestagedcsr": 1.856440736084124
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1833088383620067,
+        "baseTypestagedc": 2.2258239375542064,
+        "baseTypestagedcsr": 2.294222818191977
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.166325635779012,
+        "baseTypestagedc": 1.701976396985639,
+        "baseTypestagedcsr": 1.7005256428469953
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1107889516252099,
+        "baseTypestagedc": 2.1321031048623316,
+        "baseTypestagedcsr": 2.5802906770648706
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.116535696371844,
+        "baseTypestagedc": 1.7541371158392434,
+        "baseTypestagedcsr": 1.7114300358790364
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.123627732172881,
+        "baseTypestagedc": 1.669507714915503,
+        "baseTypestagedcsr": 1.7030430220356767
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1288631984585742,
+        "baseTypestagedc": 1.7790598809668405,
+        "baseTypestagedcsr": 1.7179216514191882
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.183954243314268,
+        "baseTypestagedc": 1.8885464184440883,
+        "baseTypestagedcsr": 1.8533575317604356
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.180185682873198,
+        "baseTypestagedc": 2.2508008620187545,
+        "baseTypestagedcsr": 2.302293714626154
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.163513215048222,
+        "baseTypestagedc": 2.086336633663366,
+        "baseTypestagedcsr": 2.196220122290161
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1005303204980403,
+        "baseTypestagedc": 1.4948324459755715,
+        "baseTypestagedcsr": 1.495769351300533
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1538325471698114,
+        "baseTypestagedc": 1.9142130490071407,
+        "baseTypestagedcsr": 1.9496861612035468
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1324394408955791,
+        "baseTypestagedc": 1.818135662063363,
+        "baseTypestagedcsr": 1.9098666666666668
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0315424245610345,
+        "baseTypestagedc": 1.5839522118178884,
+        "baseTypestagedcsr": 1.5963228115847705
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8226426248891514,
+        "baseTypestagedc": 2.8519888991674374,
+        "baseTypestagedcsr": 3.1571940604198665
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1116779263752932,
+        "baseTypestagedc": 2.7813038978958264,
+        "baseTypestagedcsr": 2.755639097744361
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0892692560895327,
+        "baseTypestagedc": 2.7204866820124964,
+        "baseTypestagedcsr": 2.61555485298767
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.133265771472004,
+        "baseTypestagedc": 1.7721870047543582,
+        "baseTypestagedcsr": 1.8440291328844305
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1441837244133801,
+        "baseTypestagedc": 2.0200969590127813,
+        "baseTypestagedcsr": 2.079107321055974
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1173812898653437,
+        "baseTypestagedc": 1.702848656676117,
+        "baseTypestagedcsr": 1.6957515461145467
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1198216735253774,
+        "baseTypestagedc": 1.8131038312048862,
+        "baseTypestagedcsr": 1.8513436897607438
+      }
+    },
+    "prop_InsertModel": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.263339070567986,
+        "baseTypestagedc": 2.2378048780487805,
+        "baseTypestagedcsr": 2.471380471380471
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2628951747088186,
+        "baseTypestagedc": 2.3069908814589666,
+        "baseTypestagedcsr": 2.3718749999999997
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2631578947368423,
+        "baseTypestagedc": 2.3726235741444865,
+        "baseTypestagedcsr": 2.269090909090909
+      }
+    },
+    "prop_InsertPost": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0974456007568592,
+        "baseTypestagedc": 3.009636767976279,
+        "baseTypestagedcsr": 3.058380414312618
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1436173795890872,
+        "baseTypestagedc": 2.025411596277738,
+        "baseTypestagedcsr": 2.002476999292286
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1372526722765521,
+        "baseTypestagedc": 2.7734331669439825,
+        "baseTypestagedcsr": 2.6276931161324226
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1770771950500885,
+        "baseTypestagedc": 2.6848118279569895,
+        "baseTypestagedcsr": 3.019652305366591
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.851679104477612,
+        "baseTypestagedc": 5.720461095100864,
+        "baseTypestagedcsr": 5.966933867735471
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1095132743362832,
+        "baseTypestagedc": 5.25130890052356,
+        "baseTypestagedcsr": 4.72
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.165940594059406,
+        "baseTypestagedc": 4.1406469760900135,
+        "baseTypestagedcsr": 4.433734939759036
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1817757735966412,
+        "baseTypestagedc": 2.2861726661987367,
+        "baseTypestagedcsr": 2.3510002062280884
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1287262872628727,
+        "baseTypestagedc": 2.691772309221974,
+        "baseTypestagedcsr": 2.7554707379134857
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3413173652694612,
+        "baseTypestagedc": 2.5673352435530084,
+        "baseTypestagedcsr": 2.6046511627906974
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1842297841200145,
+        "baseTypestagedc": 3.0297215071378423,
+        "baseTypestagedcsr": 3.003015541637671
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2172470978441126,
+        "baseTypestagedc": 3.620221948212084,
+        "baseTypestagedcsr": 3.7496807151979565
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1393503595338457,
+        "baseTypestagedc": 1.9769109422056503,
+        "baseTypestagedcsr": 1.9553191489361703
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1427730102641762,
+        "baseTypestagedc": 1.905316313648478,
+        "baseTypestagedcsr": 1.9482214572576018
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1643066120538326,
+        "baseTypestagedc": 2.909915179877157,
+        "baseTypestagedcsr": 3.0621729763004
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1783542261387614,
+        "baseTypestagedc": 3.351217790328274,
+        "baseTypestagedcsr": 3.385877318116976
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1229589312221673,
+        "baseTypestagedc": 2.8920038228735265,
+        "baseTypestagedcsr": 2.872784810126582
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0726839439976168,
+        "baseTypestagedc": 3.081728712023962,
+        "baseTypestagedcsr": 3.134029590948651
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1397348620566103,
+        "baseTypestagedc": 2.858897543439185,
+        "baseTypestagedcsr": 3.1227094240837694
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1427525622254757,
+        "baseTypestagedc": 3.3727043572200213,
+        "baseTypestagedcsr": 3.3497854077253217
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.833599488981156,
+        "baseTypestagedc": 6.179763186221743,
+        "baseTypestagedcsr": 6.308791208791209
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1073806078147612,
+        "baseTypestagedc": 3.364995602462621,
+        "baseTypestagedcsr": 3.409982174688057
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.213650702609693,
+        "baseTypestagedc": 3.522263836870578,
+        "baseTypestagedcsr": 3.852526172052799
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1219949090223438,
+        "baseTypestagedc": 2.832896929302547,
+        "baseTypestagedcsr": 2.949442379182156
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2008233629229383,
+        "baseTypestagedc": 2.2081854743316773,
+        "baseTypestagedcsr": 2.2796434241055072
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1093343250278913,
+        "baseTypestagedc": 2.8141509433962266,
+        "baseTypestagedcsr": 2.826148744670772
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1389140271493214,
+        "baseTypestagedc": 2.0069102990033225,
+        "baseTypestagedcsr": 2.011454448588173
+      }
+    },
+    "prop_InsertUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.4295154185022025,
+        "baseTypestagedc": 2.5652173913043472,
+        "baseTypestagedcsr": 2.834061135371179
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0780263912794033,
+        "baseTypestagedc": 4.309633027522936,
+        "baseTypestagedcsr": 4.319540229885058
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.4496350364963506,
+        "baseTypestagedc": 4.486631016042781,
+        "baseTypestagedcsr": 4.522911051212938
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2380952380952381,
+        "baseTypestagedc": 2.4210526315789473,
+        "baseTypestagedcsr": 2.345098039215686
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.164066193853428,
+        "baseTypestagedc": 4.252158894645942,
+        "baseTypestagedcsr": 4.517431192660551
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.299236641221374,
+        "baseTypestagedc": 2.836666666666667,
+        "baseTypestagedcsr": 2.9344827586206894
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3836317135549872,
+        "baseTypestagedc": 2.2263374485596708,
+        "baseTypestagedcsr": 2.4260089686098656
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2053979871912168,
+        "baseTypestagedc": 3.8078034682080926,
+        "baseTypestagedcsr": 3.926974664679583
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.053804347826087,
+        "baseTypestagedc": 3.231666666666667,
+        "baseTypestagedcsr": 4.6610576923076925
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.4007220216606497,
+        "baseTypestagedc": 2.842490842490842,
+        "baseTypestagedcsr": 2.5953177257525084
+      }
+    }
+  },
+  "insert_3": {
+    "prop_InsertDelete": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2232927829949074,
+        "baseTypestagedc": 2.5830434124943276,
+        "baseTypestagedcsr": 2.709187279151944
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2309226495955168,
+        "baseTypestagedc": 2.6014392926904493,
+        "baseTypestagedcsr": 2.7286569256483526
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.225563560522661,
+        "baseTypestagedc": 2.606680629927483,
+        "baseTypestagedcsr": 2.707192694438744
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2200600446673744,
+        "baseTypestagedc": 2.5076946231704103,
+        "baseTypestagedcsr": 2.618639739106518
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2189773986795818,
+        "baseTypestagedc": 2.4975932462787886,
+        "baseTypestagedcsr": 2.6251881064812412
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.234614240360594,
+        "baseTypestagedc": 2.622945284056227,
+        "baseTypestagedcsr": 2.7537337175373375
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1944313196085048,
+        "baseTypestagedc": 2.1803228191227206,
+        "baseTypestagedcsr": 2.2440555449876354
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1909396361951106,
+        "baseTypestagedc": 2.1365620453128247,
+        "baseTypestagedcsr": 2.1973065412569475
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1832638500881076,
+        "baseTypestagedc": 2.0917033885427747,
+        "baseTypestagedcsr": 2.1987860394537178
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.224589605266974,
+        "baseTypestagedc": 2.554167580360991,
+        "baseTypestagedcsr": 2.685426488476185
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2049781387836414,
+        "baseTypestagedc": 2.5973369710269565,
+        "baseTypestagedcsr": 2.7149827339289145
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1898440207972272,
+        "baseTypestagedc": 2.1796304527271575,
+        "baseTypestagedcsr": 2.241543685516521
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2198032685006264,
+        "baseTypestagedc": 2.515398478173809,
+        "baseTypestagedcsr": 2.6325837751744663
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2267611240027778,
+        "baseTypestagedc": 2.5764787492329444,
+        "baseTypestagedcsr": 2.6963032593116543
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2302228254722316,
+        "baseTypestagedc": 2.589583815186188,
+        "baseTypestagedcsr": 2.701463303859091
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1620222491463819,
+        "baseTypestagedc": 1.8752221827230715,
+        "baseTypestagedcsr": 1.9629732998418459
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2261872709766037,
+        "baseTypestagedc": 2.5976952600083143,
+        "baseTypestagedcsr": 2.696521756583173
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2236920381166647,
+        "baseTypestagedc": 2.512916194664712,
+        "baseTypestagedcsr": 2.624005566508176
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2251230459286462,
+        "baseTypestagedc": 2.6027061436775383,
+        "baseTypestagedcsr": 2.711332787764201
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2086972343522562,
+        "baseTypestagedc": 2.262712276774853,
+        "baseTypestagedcsr": 2.347586833602585
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.203403278003967,
+        "baseTypestagedc": 2.367703241178162,
+        "baseTypestagedcsr": 2.437288565629229
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.216225609453354,
+        "baseTypestagedc": 2.5202164653593693,
+        "baseTypestagedcsr": 2.627593160706241
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2280939974370508,
+        "baseTypestagedc": 2.5332166301969363,
+        "baseTypestagedcsr": 2.634491798503523
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2281162328056723,
+        "baseTypestagedc": 2.6153511916400536,
+        "baseTypestagedcsr": 2.7251777063430977
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2269694432602074,
+        "baseTypestagedc": 2.581037277147488,
+        "baseTypestagedcsr": 2.7147971360381864
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2041154163555625,
+        "baseTypestagedc": 2.5853671398738585,
+        "baseTypestagedcsr": 2.6866985247375
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2302714035047742,
+        "baseTypestagedc": 2.582046008895691,
+        "baseTypestagedcsr": 2.699163823165473
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2279876705598958,
+        "baseTypestagedc": 2.5881277242438916,
+        "baseTypestagedcsr": 2.7118096871281585
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2088159707996573,
+        "baseTypestagedc": 2.3703122147160856,
+        "baseTypestagedcsr": 2.42087793234625
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.230833263964039,
+        "baseTypestagedc": 2.4897285646932037,
+        "baseTypestagedcsr": 2.553977959719487
+      }
+    },
+    "prop_InsertInsert": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1659589525831564,
+        "baseTypestagedc": 1.7648634172469204,
+        "baseTypestagedcsr": 1.7081389320891656
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1338499471644945,
+        "baseTypestagedc": 1.7013742071881608,
+        "baseTypestagedcsr": 1.7287862513426424
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8017135862913096,
+        "baseTypestagedc": 2.9410589410589414,
+        "baseTypestagedcsr": 2.891944990176817
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0362946912242688,
+        "baseTypestagedc": 3.9200819672131146,
+        "baseTypestagedcsr": 4.105150214592275
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3088480801335558,
+        "baseTypestagedc": 1.6698615548455804,
+        "baseTypestagedcsr": 1.714598141060689
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2038216560509554,
+        "baseTypestagedc": 1.8590163934426231,
+        "baseTypestagedcsr": 1.8529411764705883
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0379971019159555,
+        "baseTypestagedc": 2.9627757352941173,
+        "baseTypestagedcsr": 3.005594405594405
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1496212121212122,
+        "baseTypestagedc": 1.547679755226925,
+        "baseTypestagedcsr": 1.526659959758551
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0910973084886129,
+        "baseTypestagedc": 3.698245614035088,
+        "baseTypestagedcsr": 3.6095890410958904
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.251439539347409,
+        "baseTypestagedc": 2.3120567375886525,
+        "baseTypestagedcsr": 2.3453237410071943
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0589691998142703,
+        "baseTypestagedc": 2.5548917102315163,
+        "baseTypestagedcsr": 2.645784996133024
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1962174940898347,
+        "baseTypestagedc": 1.738831615120275,
+        "baseTypestagedcsr": 1.7569444444444446
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7710330138445156,
+        "baseTypestagedc": 4.891176470588235,
+        "baseTypestagedcsr": 5.0165912518853695
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.6498030634573304,
+        "baseTypestagedc": 2.37568,
+        "baseTypestagedcsr": 2.4049238743116295
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7882754695503698,
+        "baseTypestagedc": 2.8576625738972257,
+        "baseTypestagedcsr": 2.852473899228325
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2766047297297298,
+        "baseTypestagedc": 1.6945067264573992,
+        "baseTypestagedcsr": 1.6582556226001097
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2143693869582195,
+        "baseTypestagedc": 1.692977681001633,
+        "baseTypestagedcsr": 1.6856368563685635
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0792900919305413,
+        "baseTypestagedc": 2.1249371543489195,
+        "baseTypestagedcsr": 2.3578800557880055
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0940156114483954,
+        "baseTypestagedc": 2.7433666811657247,
+        "baseTypestagedcsr": 2.7845474613686534
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1154837834170173,
+        "baseTypestagedc": 2.5183823529411766,
+        "baseTypestagedcsr": 2.5331278890600926
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0554080955540808,
+        "baseTypestagedc": 2.960446719404374,
+        "baseTypestagedcsr": 2.952204176334107
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.842419080068143,
+        "baseTypestagedc": 3.042194092827004,
+        "baseTypestagedcsr": 3.2267528592739927
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0566194837635303,
+        "baseTypestagedc": 2.787785588752197,
+        "baseTypestagedcsr": 2.841468875951634
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2757619738751813,
+        "baseTypestagedc": 2.3692722371967654,
+        "baseTypestagedcsr": 1.9841986455981941
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.254606365159129,
+        "baseTypestagedc": 2.0243243243243243,
+        "baseTypestagedcsr": 2.046448087431694
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0598255089322808,
+        "baseTypestagedc": 2.2926902336728583,
+        "baseTypestagedcsr": 2.3023465703971118
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1911993769470406,
+        "baseTypestagedc": 1.6083070452155626,
+        "baseTypestagedcsr": 1.550430816016219
+      }
+    },
+    "prop_InsertPost": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2511833210206074,
+        "baseTypestagedc": 3.130154543428189,
+        "baseTypestagedcsr": 3.3415294315939756
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2585401736455537,
+        "baseTypestagedc": 3.145097274638963,
+        "baseTypestagedcsr": 3.33821116580196
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2534037129486832,
+        "baseTypestagedc": 3.0978989835481507,
+        "baseTypestagedcsr": 3.283346290537539
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.244152591488657,
+        "baseTypestagedc": 2.9821145068465964,
+        "baseTypestagedcsr": 3.0635050075176475
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2407553535958207,
+        "baseTypestagedc": 2.9746884989236086,
+        "baseTypestagedcsr": 3.163741067092208
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2657340702150064,
+        "baseTypestagedc": 3.224023738872403,
+        "baseTypestagedcsr": 3.4156229565917204
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2216531998027391,
+        "baseTypestagedc": 2.5238244514106585,
+        "baseTypestagedcsr": 2.613536763512417
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2037933120193554,
+        "baseTypestagedc": 2.3798257601639903,
+        "baseTypestagedcsr": 2.4475579761068165
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.155354659248957,
+        "baseTypestagedc": 2.377731132525522,
+        "baseTypestagedcsr": 2.4509244689221084
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2612484681879905,
+        "baseTypestagedc": 3.1183160006550934,
+        "baseTypestagedcsr": 3.297438006689108
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2608191246264724,
+        "baseTypestagedc": 3.174699231481109,
+        "baseTypestagedcsr": 3.3813952292382727
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2032228147461164,
+        "baseTypestagedc": 2.3997687861271677,
+        "baseTypestagedcsr": 2.5415884417598567
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2516399517693781,
+        "baseTypestagedc": 3.01894394194082,
+        "baseTypestagedcsr": 3.174719416386083
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2593498607673268,
+        "baseTypestagedc": 3.1064814262715403,
+        "baseTypestagedcsr": 3.3070624230344423
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2577227296003892,
+        "baseTypestagedc": 3.1356889615518857,
+        "baseTypestagedcsr": 3.338336674326505
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1990083251714005,
+        "baseTypestagedc": 2.2032620922384702,
+        "baseTypestagedcsr": 2.2524149034038636
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2506029482088281,
+        "baseTypestagedc": 3.1292806326166973,
+        "baseTypestagedcsr": 3.323860967590418
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2425682112411147,
+        "baseTypestagedc": 2.9936442548183018,
+        "baseTypestagedcsr": 3.1698342472582253
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.259413281284139,
+        "baseTypestagedc": 3.1719754569717424,
+        "baseTypestagedcsr": 3.3694455540075796
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2352906409763882,
+        "baseTypestagedc": 2.582221398566839,
+        "baseTypestagedcsr": 2.6994510816919597
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.235358589468668,
+        "baseTypestagedc": 2.7331576172904586,
+        "baseTypestagedcsr": 2.864213899016683
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2492333110776648,
+        "baseTypestagedc": 2.9978003475993917,
+        "baseTypestagedcsr": 3.193260052068268
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2568332946725433,
+        "baseTypestagedc": 3.039525968865411,
+        "baseTypestagedcsr": 3.2335446972522695
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2540025476917838,
+        "baseTypestagedc": 3.144295367170207,
+        "baseTypestagedcsr": 3.347476021167521
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.258805647821035,
+        "baseTypestagedc": 3.1283707906135603,
+        "baseTypestagedcsr": 3.3289826957398927
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.248109380761921,
+        "baseTypestagedc": 3.0787035741274598,
+        "baseTypestagedcsr": 3.2962946314858934
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.24990485037318,
+        "baseTypestagedc": 3.074661207908851,
+        "baseTypestagedcsr": 3.258151305722309
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2562234996094086,
+        "baseTypestagedc": 2.979501349440946,
+        "baseTypestagedcsr": 3.3270587672510703
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2372017944740261,
+        "baseTypestagedc": 2.786449480642115,
+        "baseTypestagedcsr": 2.916724325392903
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2454051598493308,
+        "baseTypestagedc": 2.913648038260561,
+        "baseTypestagedcsr": 3.0871299207056726
+      }
+    },
+    "prop_UnionDeleteInsert": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.184072854098043,
+        "baseTypestagedc": 2.0128458498023716,
+        "baseTypestagedcsr": 2.1297630111524164
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1542985642622385,
+        "baseTypestagedc": 1.8624058051911807,
+        "baseTypestagedcsr": 1.923886406227476
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.173261683764859,
+        "baseTypestagedc": 2.0013888888888887,
+        "baseTypestagedcsr": 2.0387662705149974
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1003076100040123,
+        "baseTypestagedc": 2.748747076511861,
+        "baseTypestagedcsr": 2.8213305898491083
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.167871485943775,
+        "baseTypestagedc": 1.7848703391130887,
+        "baseTypestagedcsr": 1.8056504191244955
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1639881928501148,
+        "baseTypestagedc": 2.0756813662416658,
+        "baseTypestagedcsr": 2.120325008961644
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.172859895403248,
+        "baseTypestagedc": 2.8492143095954527,
+        "baseTypestagedcsr": 3.008118602188493
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1930578775575194,
+        "baseTypestagedc": 2.050629447181171,
+        "baseTypestagedcsr": 2.07074754732624
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0712764214320827,
+        "baseTypestagedc": 3.117787315212208,
+        "baseTypestagedcsr": 3.183057448880234
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1014100555476427,
+        "baseTypestagedc": 2.952653684612448,
+        "baseTypestagedcsr": 3.02424716464607
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.148653599560359,
+        "baseTypestagedc": 1.820967039349499,
+        "baseTypestagedcsr": 1.9446425802449994
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1989487675205415,
+        "baseTypestagedc": 2.157768837664456,
+        "baseTypestagedcsr": 2.218061920196714
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2843403568019969,
+        "baseTypestagedc": 2.178309052421865,
+        "baseTypestagedcsr": 2.2333716328354396
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.9022175989408483,
+        "baseTypestagedc": 2.1648513728159746,
+        "baseTypestagedcsr": 2.2348325134691964
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1727029566977518,
+        "baseTypestagedc": 2.0019745773170428,
+        "baseTypestagedcsr": 2.120800104588835
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0993905977945444,
+        "baseTypestagedc": 2.9482490272373543,
+        "baseTypestagedcsr": 3.124536082474227
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1395488121381514,
+        "baseTypestagedc": 1.738918507235339,
+        "baseTypestagedcsr": 1.810339359340311
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7675537938844847,
+        "baseTypestagedc": 3.089064819396339,
+        "baseTypestagedcsr": 3.162613981762918
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1838037030379291,
+        "baseTypestagedc": 1.8821091740497287,
+        "baseTypestagedcsr": 1.807465349252093
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2009163802978235,
+        "baseTypestagedc": 2.8833883388338837,
+        "baseTypestagedcsr": 2.8590128170166347
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0830397584297935,
+        "baseTypestagedc": 3.6723549488054603,
+        "baseTypestagedcsr": 3.7820738137082603
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2169265033407572,
+        "baseTypestagedc": 2.4196619676728908,
+        "baseTypestagedcsr": 2.59860494610019
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.714048672566372,
+        "baseTypestagedc": 2.858856088560886,
+        "baseTypestagedcsr": 3.133468149646107
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1603372434017596,
+        "baseTypestagedc": 1.9963420787083757,
+        "baseTypestagedcsr": 2.0118215329858904
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0813088745661874,
+        "baseTypestagedc": 3.5521172638436487,
+        "baseTypestagedcsr": 3.5008025682182993
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1615836332638758,
+        "baseTypestagedc": 1.768166089965398,
+        "baseTypestagedcsr": 1.855651384475715
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0869433504998485,
+        "baseTypestagedc": 3.0240202275600505,
+        "baseTypestagedcsr": 3.1172893136403133
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.078740157480315,
+        "baseTypestagedc": 4.529411764705882,
+        "baseTypestagedcsr": 4.666666666666667
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.089288688988839,
+        "baseTypestagedc": 3.065635255508673,
+        "baseTypestagedcsr": 3.128708133971292
+      }
+    }
+  },
+  "union_6": {
+    "prop_DeleteUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2719118168160692,
+        "baseTypestagedc": 3.363257625622401,
+        "baseTypestagedcsr": 3.5598914789679026
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0955414012738853,
+        "baseTypestagedc": 3.2506162695152017,
+        "baseTypestagedcsr": 3.3104602510460253
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0816258537397967,
+        "baseTypestagedc": 3.2367896311066797,
+        "baseTypestagedcsr": 3.179725759059745
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1238779174147218,
+        "baseTypestagedc": 2.714103545014027,
+        "baseTypestagedcsr": 2.8454545454545457
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2726872309288018,
+        "baseTypestagedc": 3.319178107572305,
+        "baseTypestagedcsr": 3.477145241746084
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1968654865261021,
+        "baseTypestagedc": 2.283777969018933,
+        "baseTypestagedcsr": 2.360200111172874
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1635935661043546,
+        "baseTypestagedc": 2.0218132242672118,
+        "baseTypestagedcsr": 2.086381541924592
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1314630988347,
+        "baseTypestagedc": 1.8914862914862913,
+        "baseTypestagedcsr": 1.8157639562266243
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1532603522132316,
+        "baseTypestagedc": 2.8240093240093236,
+        "baseTypestagedcsr": 2.968453292496171
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.348699763593381,
+        "baseTypestagedc": 5.312834224598931,
+        "baseTypestagedcsr": 6.132716049382716
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2462456806904345,
+        "baseTypestagedc": 3.2510733739186155,
+        "baseTypestagedcsr": 3.419894840913176
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.233252777071144,
+        "baseTypestagedc": 2.871563255836912,
+        "baseTypestagedcsr": 3.0380176510522743
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.095840316928234,
+        "baseTypestagedc": 3.1530030688294604,
+        "baseTypestagedcsr": 3.147483588621444
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1850785044617644,
+        "baseTypestagedc": 2.2365167341718184,
+        "baseTypestagedcsr": 2.3674827936364666
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2585660222972284,
+        "baseTypestagedc": 2.9833195946273583,
+        "baseTypestagedcsr": 3.092796461066707
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2613147513034515,
+        "baseTypestagedc": 3.210116044399596,
+        "baseTypestagedcsr": 3.386623729174429
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2683270101578754,
+        "baseTypestagedc": 3.2852025613389975,
+        "baseTypestagedcsr": 3.4522560335781742
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.272037271472725,
+        "baseTypestagedc": 3.38000787926541,
+        "baseTypestagedcsr": 3.5746198099450344
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2528654369389634,
+        "baseTypestagedc": 3.183884578739622,
+        "baseTypestagedcsr": 3.2439328803217307
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2082040210497909,
+        "baseTypestagedc": 2.306543019062339,
+        "baseTypestagedcsr": 2.5851217399672795
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2503329739328977,
+        "baseTypestagedc": 2.887510985255346,
+        "baseTypestagedcsr": 3.0637173642768336
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2352574491958608,
+        "baseTypestagedc": 2.609657594381036,
+        "baseTypestagedcsr": 2.637444543034605
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.216790985557848,
+        "baseTypestagedc": 2.635613612925404,
+        "baseTypestagedcsr": 2.736259814418273
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2581274382314693,
+        "baseTypestagedc": 2.9206730769230766,
+        "baseTypestagedcsr": 2.9861111111111107
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2478236208044586,
+        "baseTypestagedc": 2.8748863636363633,
+        "baseTypestagedcsr": 2.960852010064954
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2429990854939568,
+        "baseTypestagedc": 3.085117477455371,
+        "baseTypestagedcsr": 3.265404843841309
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3433179723502304,
+        "baseTypestagedc": 2.8028846153846154,
+        "baseTypestagedcsr": 2.1917293233082704
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1895825704870011,
+        "baseTypestagedc": 1.9223372781065087,
+        "baseTypestagedcsr": 1.9564890093345377
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2052859202306585,
+        "baseTypestagedc": 2.43136874757658,
+        "baseTypestagedcsr": 2.5307234386035717
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2257927919450458,
+        "baseTypestagedc": 2.357097620555505,
+        "baseTypestagedcsr": 2.5477214942303927
+      }
+    },
+    "prop_InsertUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3418259023354564,
+        "baseTypestagedc": 2.5901639344262293,
+        "baseTypestagedcsr": 2.5587044534412957
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2448036951501154,
+        "baseTypestagedc": 2.182186234817814,
+        "baseTypestagedcsr": 2.461187214611872
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.255,
+        "baseTypestagedc": 2.231111111111111,
+        "baseTypestagedcsr": 2.4134615384615383
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.484162895927602,
+        "baseTypestagedc": 4.600558659217877,
+        "baseTypestagedcsr": 5.526845637583893
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2017167381974247,
+        "baseTypestagedc": 2.051282051282051,
+        "baseTypestagedcsr": 2.2310756972111556
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2037892791127542,
+        "baseTypestagedc": 4.0262751159196295,
+        "baseTypestagedcsr": 4.181380417335474
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2617960426179604,
+        "baseTypestagedc": 2.527439024390244,
+        "baseTypestagedcsr": 2.665594855305466
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.435114503816794,
+        "baseTypestagedc": 2.484581497797357,
+        "baseTypestagedcsr": 2.6985645933014353
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2129032258064514,
+        "baseTypestagedc": 3.9050445103857565,
+        "baseTypestagedcsr": 4.1189358372456955
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1723392760669908,
+        "baseTypestagedc": 5.384615384615385,
+        "baseTypestagedcsr": 5.166666666666667
+      }
+    },
+    "prop_UnionDeleteInsert": {
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0698714365567354,
+        "baseTypestagedc": 4.7730673316708225,
+        "baseTypestagedcsr": 4.557142857142857
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.0131004366812224,
+        "baseTypestagedc": 4.508557457212714,
+        "baseTypestagedcsr": 4.519607843137255
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.174019607843137,
+        "baseTypestagedc": 4.820652173913043,
+        "baseTypestagedcsr": 4.997183098591549
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.508771929824561,
+        "baseTypestagedc": 5.207282913165266,
+        "baseTypestagedcsr": 5.178272980501393
+      }
+    },
+    "prop_UnionModel": {
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2184643510054844,
+        "baseTypestagedc": 1.6266015863331298,
+        "baseTypestagedcsr": 1.645679012345679
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0481990603793283,
+        "baseTypestagedc": 2.3107019562715765,
+        "baseTypestagedcsr": 2.1339001062699254
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2958057395143487,
+        "baseTypestagedc": 2.692660550458715,
+        "baseTypestagedcsr": 2.4356846473029043
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8044504383007418,
+        "baseTypestagedc": 2.4539202200825305,
+        "baseTypestagedcsr": 2.7889525794684733
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2295221843003412,
+        "baseTypestagedc": 1.6853801169590643,
+        "baseTypestagedcsr": 1.5144508670520231
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1204886174347584,
+        "baseTypestagedc": 3.0762195121951215,
+        "baseTypestagedcsr": 3.2339743589743586
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.094488188976378,
+        "baseTypestagedc": 2.887240356083086,
+        "baseTypestagedcsr": 2.878698224852071
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.25957235206365,
+        "baseTypestagedc": 1.4072222222222224,
+        "baseTypestagedcsr": 1.6195652173913044
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1787564766839378,
+        "baseTypestagedc": 1.4330708661417322,
+        "baseTypestagedcsr": 1.6495468277945617
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.9790823211875843,
+        "baseTypestagedc": 1.6507394766780432,
+        "baseTypestagedcsr": 1.6832946635730859
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2607361963190185,
+        "baseTypestagedc": 2.140625,
+        "baseTypestagedcsr": 2.2397820163487743
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1341515023275497,
+        "baseTypestagedc": 1.5672514619883042,
+        "baseTypestagedcsr": 1.6164053075995175
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0858505564387917,
+        "baseTypestagedc": 3.4207011686143574,
+        "baseTypestagedcsr": 3.484693877551021
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2254901960784315,
+        "baseTypestagedc": 1.6369047619047616,
+        "baseTypestagedcsr": 1.6224188790560472
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2703213610586013,
+        "baseTypestagedc": 2.3013698630136985,
+        "baseTypestagedcsr": 2.357894736842105
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1803989592367736,
+        "baseTypestagedc": 1.5844004656577417,
+        "baseTypestagedcsr": 1.6740467404674046
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0643435980551053,
+        "baseTypestagedc": 1.189027702335687,
+        "baseTypestagedcsr": 1.1944343397599126
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.11561062851303,
+        "baseTypestagedc": 1.5018056749785038,
+        "baseTypestagedcsr": 1.3445727482678984
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0700162074554296,
+        "baseTypestagedc": 1.3278358809332262,
+        "baseTypestagedcsr": 1.3073267326732674
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.9727366255144033,
+        "baseTypestagedc": 2.7646198830409356,
+        "baseTypestagedcsr": 2.968602825745683
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0653950953678475,
+        "baseTypestagedc": 2.8089080459770117,
+        "baseTypestagedcsr": 3.031007751937985
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1796628029504743,
+        "baseTypestagedc": 3.114047287899861,
+        "baseTypestagedcsr": 3.2449275362318843
+      }
+    },
+    "prop_UnionPost": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2175108170017817,
+        "baseTypestagedc": 4.120241171403961,
+        "baseTypestagedcsr": 4.33689936536718
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1694182996451166,
+        "baseTypestagedc": 7.853886010362694,
+        "baseTypestagedcsr": 7.961134453781512
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7210866057019905,
+        "baseTypestagedc": 8.635627530364372,
+        "baseTypestagedcsr": 9.424153166421208
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1729377713458755,
+        "baseTypestagedc": 5.94862385321101,
+        "baseTypestagedcsr": 6.449602122015915
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1327909723133447,
+        "baseTypestagedc": 6.22422494592646,
+        "baseTypestagedcsr": 6.590076335877863
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2063123548974084,
+        "baseTypestagedc": 3.9647349969065786,
+        "baseTypestagedcsr": 4.328005402971635
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7983055479639245,
+        "baseTypestagedc": 8.143564356435643,
+        "baseTypestagedcsr": 6.783505154639175
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3547311379741558,
+        "baseTypestagedc": 6.410256410256411,
+        "baseTypestagedcsr": 6.3352826510721245
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1585428424833248,
+        "baseTypestagedc": 6.535455861070912,
+        "baseTypestagedcsr": 7.260450160771704
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.3731739707835326,
+        "baseTypestagedc": 6.204861111111111,
+        "baseTypestagedcsr": 6.6679104477611935
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.9956331877729259,
+        "baseTypestagedc": 4.427184466019418,
+        "baseTypestagedcsr": 4.470588235294118
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1794564348521184,
+        "baseTypestagedc": 3.8816178888523516,
+        "baseTypestagedcsr": 4.144662921348315
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1305236672432772,
+        "baseTypestagedc": 8.178612059158134,
+        "baseTypestagedcsr": 8.713939393939395
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.218873707061678,
+        "baseTypestagedc": 4.222517142225171,
+        "baseTypestagedcsr": 4.612225175163083
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.101054389811045,
+        "baseTypestagedc": 3.8918819188191884,
+        "baseTypestagedcsr": 4.070629100733308
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1713440035080027,
+        "baseTypestagedc": 4.103302611367128,
+        "baseTypestagedcsr": 3.87699564586357
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.216009603234774,
+        "baseTypestagedc": 3.7754021184778344,
+        "baseTypestagedcsr": 4.152535059331176
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.141567447337433,
+        "baseTypestagedc": 6.254480286738351,
+        "baseTypestagedcsr": 6.83241973375098
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2773057388332463,
+        "baseTypestagedc": 3.720566885585897,
+        "baseTypestagedcsr": 3.8277382645803697
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2128592941792706,
+        "baseTypestagedc": 3.935415338857021,
+        "baseTypestagedcsr": 4.369898560981364
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1979059741326215,
+        "baseTypestagedc": 3.810612244897959,
+        "baseTypestagedcsr": 4.130242434967262
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1584260731319556,
+        "baseTypestagedc": 4.235106073815751,
+        "baseTypestagedcsr": 4.448412698412699
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1561264822134387,
+        "baseTypestagedc": 6.2854950115118955,
+        "baseTypestagedcsr": 6.853556485355647
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.238656950762913,
+        "baseTypestagedc": 3.20389461626575,
+        "baseTypestagedcsr": 3.366192560175054
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1119767595404728,
+        "baseTypestagedc": 6.242401779095626,
+        "baseTypestagedcsr": 6.747596153846153
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.196042414628037,
+        "baseTypestagedc": 4.300510357250075,
+        "baseTypestagedcsr": 4.591346153846153
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2938144329896906,
+        "baseTypestagedc": 2.91860465116279,
+        "baseTypestagedcsr": 2.8850574712643677
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2188626351621947,
+        "baseTypestagedc": 4.2359081419624225,
+        "baseTypestagedcsr": 4.228551580409865
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.052436767427514,
+        "baseTypestagedc": 5.395319418089817,
+        "baseTypestagedcsr": 6.957585644371941
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2471880445688335,
+        "baseTypestagedc": 4.143508771929825,
+        "baseTypestagedcsr": 4.463806463806464
+      }
+    },
+    "prop_UnionUnionAssoc": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2624610591900312,
+        "baseTypestagedc": 7.557109557109557,
+        "baseTypestagedcsr": 8.931129476584022
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2221514379322898,
+        "baseTypestagedc": 6.115209471766849,
+        "baseTypestagedcsr": 6.865541922290389
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1548260656540914,
+        "baseTypestagedc": 7.882943143812709,
+        "baseTypestagedcsr": 7.856666666666668
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.018244731047499,
+        "baseTypestagedc": 11.881481481481481,
+        "baseTypestagedcsr": 12.62992125984252
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1770921386306001,
+        "baseTypestagedc": 7.246313963573287,
+        "baseTypestagedcsr": 8.56045081967213
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.3524774774774775,
+        "baseTypestagedc": 9.90047393364929,
+        "baseTypestagedcsr": 9.62672811059908
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.2260579064587973,
+        "baseTypestagedc": 9.29767441860465,
+        "baseTypestagedcsr": 9.4739336492891
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3412322274881519,
+        "baseTypestagedc": 7.949438202247191,
+        "baseTypestagedcsr": 8.89937106918239
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2324402606806661,
+        "baseTypestagedc": 7.683972911963883,
+        "baseTypestagedcsr": 8.104761904761904
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.477366255144033,
+        "baseTypestagedc": 7.921052631578948,
+        "baseTypestagedcsr": 9.16751269035533
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3445057276198555,
+        "baseTypestagedc": 8.231168831168832,
+        "baseTypestagedcsr": 9.002840909090908
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9,
+        "baseTypestagedc": 11.19178082191781,
+        "baseTypestagedcsr": 11.719262295081968
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7661111111111112,
+        "baseTypestagedc": 10.868376068376069,
+        "baseTypestagedcsr": 11.497287522603978
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.818181818181818,
+        "baseTypestagedc": 10.26771653543307,
+        "baseTypestagedcsr": 10.584415584415584
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.801489544543111,
+        "baseTypestagedc": 10.292962356792145,
+        "baseTypestagedcsr": 11.311151079136692
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0994668911335579,
+        "baseTypestagedc": 8.736900780379042,
+        "baseTypestagedcsr": 9.419471153846155
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.0310177705977384,
+        "baseTypestagedc": 13.937915742793791,
+        "baseTypestagedcsr": 14.825471698113207
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1375749075608823,
+        "baseTypestagedc": 7.014150943396227,
+        "baseTypestagedcsr": 7.805774278215223
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.74265774934574,
+        "baseTypestagedc": 12.77825159914712,
+        "baseTypestagedcsr": 13.969696969696969
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2482863670982485,
+        "baseTypestagedc": 7.823389021479714,
+        "baseTypestagedcsr": 8.319796954314722
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.157894736842105,
+        "baseTypestagedc": 6.779684282772821,
+        "baseTypestagedcsr": 7.506079027355623
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.476858345021038,
+        "baseTypestagedc": 8.175925925925926,
+        "baseTypestagedcsr": 9.597826086956522
+      }
+    }
+  },
+  "union_7": {
+    "prop_DeleteUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2541753916794913,
+        "baseTypestagedc": 3.277733821250783,
+        "baseTypestagedcsr": 3.461158204382865
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2527769355861194,
+        "baseTypestagedc": 3.0938669933973184,
+        "baseTypestagedcsr": 3.2124960243135314
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.239546919689472,
+        "baseTypestagedc": 3.1095609589431126,
+        "baseTypestagedcsr": 3.229750110897531
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2509476532722372,
+        "baseTypestagedc": 3.3205253998815167,
+        "baseTypestagedcsr": 3.498541961281514
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2648368065380837,
+        "baseTypestagedc": 3.373284753272257,
+        "baseTypestagedcsr": 3.516414728846105
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2574933741359053,
+        "baseTypestagedc": 3.3050628366247756,
+        "baseTypestagedcsr": 3.468721736508894
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2599331622254981,
+        "baseTypestagedc": 3.272716177457741,
+        "baseTypestagedcsr": 3.494494037922721
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2554255842455873,
+        "baseTypestagedc": 3.2158768126775303,
+        "baseTypestagedcsr": 3.3932845070422535
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2600525285135886,
+        "baseTypestagedc": 3.328082544841384,
+        "baseTypestagedcsr": 3.52944065079821
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.225301204819277,
+        "baseTypestagedc": 5.400584795321637,
+        "baseTypestagedcsr": 4.96505376344086
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2672582801949452,
+        "baseTypestagedc": 3.4134698676827364,
+        "baseTypestagedcsr": 3.602826451006821
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.260788241029228,
+        "baseTypestagedc": 3.3378363212973094,
+        "baseTypestagedcsr": 3.4845791107726556
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2619615310085683,
+        "baseTypestagedc": 3.2218971821897187,
+        "baseTypestagedcsr": 3.377666531366978
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1348440199166752,
+        "baseTypestagedc": 2.77672799602188,
+        "baseTypestagedcsr": 2.907576152043739
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2424018257653264,
+        "baseTypestagedc": 2.9778180172023543,
+        "baseTypestagedcsr": 3.1668137687555165
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.258508876615507,
+        "baseTypestagedc": 3.290503604083015,
+        "baseTypestagedcsr": 3.22543626707132
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.263822281020892,
+        "baseTypestagedc": 3.3451895563643435,
+        "baseTypestagedcsr": 3.5216322768931443
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2648821577271259,
+        "baseTypestagedc": 3.353396468352671,
+        "baseTypestagedcsr": 3.5611664820967146
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2561075710119882,
+        "baseTypestagedc": 3.1237376450365275,
+        "baseTypestagedcsr": 3.306598811588434
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2393304117809625,
+        "baseTypestagedc": 2.8633585697345616,
+        "baseTypestagedcsr": 3.0607449297971923
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.228168711766179,
+        "baseTypestagedc": 2.6315345699831365,
+        "baseTypestagedcsr": 2.703228346456693
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2353344397142652,
+        "baseTypestagedc": 2.9362431934142266,
+        "baseTypestagedcsr": 3.1313214449016917
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.199635311871227,
+        "baseTypestagedc": 2.5647264417260383,
+        "baseTypestagedcsr": 2.7546924631822116
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2616379523127808,
+        "baseTypestagedc": 3.365931494220268,
+        "baseTypestagedcsr": 3.539712979831879
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2295351707116413,
+        "baseTypestagedc": 2.59800086918731,
+        "baseTypestagedcsr": 2.6437289934548027
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2531426200297786,
+        "baseTypestagedc": 3.1184134600783553,
+        "baseTypestagedcsr": 3.2534854245880864
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1045874432440894,
+        "baseTypestagedc": 3.0902321506789314,
+        "baseTypestagedcsr": 3.0265980265980263
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2350313183910648,
+        "baseTypestagedc": 3.019112275393868,
+        "baseTypestagedcsr": 3.1783647310157312
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2552940241396147,
+        "baseTypestagedc": 3.327764734212269,
+        "baseTypestagedcsr": 3.4963630613535734
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.253686154922342,
+        "baseTypestagedc": 3.2730567286839403,
+        "baseTypestagedcsr": 3.495542992975452
+      }
+    },
+    "prop_InsertUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3217391304347827,
+        "baseTypestagedc": 2.3657587548638133,
+        "baseTypestagedcsr": 2.6094420600858372
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0924560408394781,
+        "baseTypestagedc": 4.223684210526316,
+        "baseTypestagedcsr": 4.397260273972602
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.001425855513308,
+        "baseTypestagedc": 3.716049382716049,
+        "baseTypestagedcsr": 3.775985663082437
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2318949343339587,
+        "baseTypestagedc": 3.6236203090507724,
+        "baseTypestagedcsr": 3.7779056386651324
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.804907975460123,
+        "baseTypestagedc": 3.072584856396867,
+        "baseTypestagedcsr": 3.1314529004789784
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.9691584667352033,
+        "baseTypestagedc": 2.829759862778731,
+        "baseTypestagedcsr": 3.16044061302682
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.0674646354733404,
+        "baseTypestagedc": 4.960835509138382,
+        "baseTypestagedcsr": 4.871794871794872
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0870985302123026,
+        "baseTypestagedc": 4.644186046511628,
+        "baseTypestagedcsr": 4.80048076923077
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2650103519668738,
+        "baseTypestagedc": 2.5564853556485354,
+        "baseTypestagedcsr": 2.691629955947137
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1258536585365853,
+        "baseTypestagedc": 3.846666666666667,
+        "baseTypestagedcsr": 3.814876033057852
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2958022754021183,
+        "baseTypestagedc": 3.8140877598152425,
+        "baseTypestagedcsr": 3.9843184559710494
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3143865150921208,
+        "baseTypestagedc": 4.010765550239235,
+        "baseTypestagedcsr": 4.039759036144578
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.3216145833333335,
+        "baseTypestagedc": 4.7801608579088475,
+        "baseTypestagedcsr": 5.183139534883721
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1809475806451613,
+        "baseTypestagedc": 3.879139072847682,
+        "baseTypestagedcsr": 4.032702237521515
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2663551401869158,
+        "baseTypestagedc": 2.1593625498007967,
+        "baseTypestagedcsr": 2.5327102803738315
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0779419256240448,
+        "baseTypestagedc": 3.7785714285714285,
+        "baseTypestagedcsr": 3.8472727272727267
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3205741626794258,
+        "baseTypestagedc": 2.5555555555555554,
+        "baseTypestagedcsr": 2.9677419354838706
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.259485924112607,
+        "baseTypestagedc": 3.8587499999999997,
+        "baseTypestagedcsr": 4.211459754433833
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1749260355029587,
+        "baseTypestagedc": 3.4495114006514656,
+        "baseTypestagedcsr": 3.7201405152224822
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9393425957302608,
+        "baseTypestagedc": 3.1120174007612835,
+        "baseTypestagedcsr": 3.060427807486631
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7900958466453676,
+        "baseTypestagedc": 3.0617486338797817,
+        "baseTypestagedcsr": 3.1459854014598543
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.320872274143302,
+        "baseTypestagedc": 2.6835443037974684,
+        "baseTypestagedcsr": 2.625386996904025
+      }
+    },
+    "prop_UnionPost": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2756004825796075,
+        "baseTypestagedc": 3.977145788213838,
+        "baseTypestagedcsr": 4.253504815311471
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2590262926154232,
+        "baseTypestagedc": 3.1798347807667864,
+        "baseTypestagedcsr": 3.367807066741447
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2957522793159952,
+        "baseTypestagedc": 4.405868739106832,
+        "baseTypestagedcsr": 4.783354530508422
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2938817360606374,
+        "baseTypestagedc": 4.216690635310042,
+        "baseTypestagedcsr": 4.5568862275449105
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1215793588741203,
+        "baseTypestagedc": 5.919532324621733,
+        "baseTypestagedcsr": 6.677269200930954
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.269311199047711,
+        "baseTypestagedc": 3.5123297427223363,
+        "baseTypestagedcsr": 3.661963987377019
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3002781756086814,
+        "baseTypestagedc": 4.485451651979763,
+        "baseTypestagedcsr": 4.880899457224089
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2929635484653885,
+        "baseTypestagedc": 4.493275280386615,
+        "baseTypestagedcsr": 4.860817242484773
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2703926411109918,
+        "baseTypestagedc": 3.9857944974733295,
+        "baseTypestagedcsr": 4.139907855601563
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.6625850340136057,
+        "baseTypestagedc": 7.498084291187739,
+        "baseTypestagedcsr": 8.363247863247864
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2572575867289844,
+        "baseTypestagedc": 4.33772427890075,
+        "baseTypestagedcsr": 4.6010599855456515
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2588572919384293,
+        "baseTypestagedc": 3.5877760428284637,
+        "baseTypestagedcsr": 3.8174050632911394
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2817680516057433,
+        "baseTypestagedc": 3.9914142232301955,
+        "baseTypestagedcsr": 4.292010219486703
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0646136209681623,
+        "baseTypestagedc": 4.118322918766378,
+        "baseTypestagedcsr": 4.464816433566433
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.233171336986868,
+        "baseTypestagedc": 3.9979886020784448,
+        "baseTypestagedcsr": 4.264616484891829
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2672403417980502,
+        "baseTypestagedc": 3.5732586748112327,
+        "baseTypestagedcsr": 2.2930095818815333
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2458927464352139,
+        "baseTypestagedc": 3.1845102505694762,
+        "baseTypestagedcsr": 3.326505276225947
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2646605181151436,
+        "baseTypestagedc": 3.3779216411636117,
+        "baseTypestagedcsr": 3.588834301027244
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0608272506082725,
+        "baseTypestagedc": 6.546546546546547,
+        "baseTypestagedcsr": 6.62613981762918
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1891033946618295,
+        "baseTypestagedc": 4.042061219995595,
+        "baseTypestagedcsr": 4.278554778554778
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2751766660097412,
+        "baseTypestagedc": 3.6159188887114797,
+        "baseTypestagedcsr": 3.847846402174836
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2777852516672112,
+        "baseTypestagedc": 3.9519139324774137,
+        "baseTypestagedcsr": 4.184467241487822
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2765314767745974,
+        "baseTypestagedc": 3.3346805234795993,
+        "baseTypestagedcsr": 3.5310780517627878
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2792920420845846,
+        "baseTypestagedc": 3.947945205479452,
+        "baseTypestagedcsr": 4.2954905815944695
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2402928366231118,
+        "baseTypestagedc": 4.086717557251908,
+        "baseTypestagedcsr": 4.383166857704274
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2878157754236097,
+        "baseTypestagedc": 4.0376635390511435,
+        "baseTypestagedcsr": 4.4748816091392865
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7954545454545456,
+        "baseTypestagedc": 9.196353436185134,
+        "baseTypestagedcsr": 9.353780313837376
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2915150330947904,
+        "baseTypestagedc": 4.191051755567885,
+        "baseTypestagedcsr": 4.565773000043173
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2972845924123437,
+        "baseTypestagedc": 4.373815221106933,
+        "baseTypestagedcsr": 4.766977138018628
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2616344544209404,
+        "baseTypestagedc": 3.5208527987768625,
+        "baseTypestagedcsr": 3.6594861834554604
+      }
+    },
+    "prop_UnionUnionAssoc": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.315919374742904,
+        "baseTypestagedc": 7.977556109725686,
+        "baseTypestagedcsr": 8.507978723404255
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1918968692449357,
+        "baseTypestagedc": 4.389284503221432,
+        "baseTypestagedcsr": 6.3920987654321
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1963837267704671,
+        "baseTypestagedc": 7.351851851851851,
+        "baseTypestagedcsr": 8.416961130742049
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8876404494382024,
+        "baseTypestagedc": 11.698259187620891,
+        "baseTypestagedcsr": 12.705882352941178
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1208090131668251,
+        "baseTypestagedc": 7.582185491276402,
+        "baseTypestagedcsr": 8.49485596707819
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.140877598152425,
+        "baseTypestagedc": 8.956521739130435,
+        "baseTypestagedcsr": 8.870813397129186
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.269461077844311,
+        "baseTypestagedc": 8.275109170305676,
+        "baseTypestagedcsr": 8.732718894009217
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.0530815817598858,
+        "baseTypestagedc": 11.90702479338843,
+        "baseTypestagedcsr": 13.688836104513065
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2388170055452865,
+        "baseTypestagedc": 7.866197183098591,
+        "baseTypestagedcsr": 8.055288461538462
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.4048257372654156,
+        "baseTypestagedc": 9.106598984771574,
+        "baseTypestagedcsr": 9.06060606060606
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3043124491456468,
+        "baseTypestagedc": 7.838630806845965,
+        "baseTypestagedcsr": 8.262886597938145
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.0500690607734806,
+        "baseTypestagedc": 12.394572025052192,
+        "baseTypestagedcsr": 13.252232142857142
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9018387553041018,
+        "baseTypestagedc": 11.223706176961601,
+        "baseTypestagedcsr": 11.794736842105264
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8328182073616184,
+        "baseTypestagedc": 9.76497005988024,
+        "baseTypestagedcsr": 10.926298157453937
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.934921557234166,
+        "baseTypestagedc": 11.118530884808013,
+        "baseTypestagedcsr": 11.956912028725315
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.112429460280712,
+        "baseTypestagedc": 8.638202247191012,
+        "baseTypestagedcsr": 9.152380952380952
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9720726783310902,
+        "baseTypestagedc": 12.796943231441047,
+        "baseTypestagedcsr": 13.921615201900238
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1837551652892562,
+        "baseTypestagedc": 7.368971061093247,
+        "baseTypestagedcsr": 8.048287971905179
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8457124641377112,
+        "baseTypestagedc": 11.696969696969697,
+        "baseTypestagedcsr": 12.89532293986637
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1461841633823002,
+        "baseTypestagedc": 7.387990762124711,
+        "baseTypestagedcsr": 7.9183168316831685
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1920640611927813,
+        "baseTypestagedc": 6.789652825051055,
+        "baseTypestagedcsr": 7.437733035048471
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.522111269614836,
+        "baseTypestagedc": 8.666666666666666,
+        "baseTypestagedcsr": 9.87709497206704
+      }
+    },
+    "prop_UnionValid": {
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1486429475460553,
+        "baseTypestagedc": 8.095143706640238,
+        "baseTypestagedcsr": 8.726495726495726
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8753660917670028,
+        "baseTypestagedc": 11.737270875763747,
+        "baseTypestagedcsr": 12.665934065934065
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1866537717601549,
+        "baseTypestagedc": 7.5045871559633035,
+        "baseTypestagedcsr": 8.795698924731182
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.9177113468338154,
+        "baseTypestagedc": 11.4510556621881,
+        "baseTypestagedcsr": 12.15071283095723
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1620810405202602,
+        "baseTypestagedc": 8.094076655052266,
+        "baseTypestagedcsr": 8.900383141762452
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.146694214876033,
+        "baseTypestagedc": 7.628865979381443,
+        "baseTypestagedcsr": 8.283582089552239
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.4329679595278246,
+        "baseTypestagedc": 8.518796992481203,
+        "baseTypestagedcsr": 9.015915119363395
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.4687065368567453,
+        "baseTypestagedc": 9.056122448979593,
+        "baseTypestagedcsr": 9.699453551912569
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3100775193798448,
+        "baseTypestagedc": 7.7701149425287355,
+        "baseTypestagedcsr": 9.073825503355705
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.102981029810298,
+        "baseTypestagedc": 8.107569721115539,
+        "baseTypestagedcsr": 8.550420168067227
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1472033257747545,
+        "baseTypestagedc": 11.305400372439477,
+        "baseTypestagedcsr": 12.440573770491804
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.432,
+        "baseTypestagedc": 4.068181818181818,
+        "baseTypestagedcsr": 4.475
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.102972399150743,
+        "baseTypestagedc": 7.421428571428572,
+        "baseTypestagedcsr": 7.931297709923664
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1494623655913978,
+        "baseTypestagedc": 7.9185185185185185,
+        "baseTypestagedcsr": 8.223076923076924
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.256763925729443,
+        "baseTypestagedc": 8.003378378378379,
+        "baseTypestagedcsr": 9.111538461538462
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.4038817005545285,
+        "baseTypestagedc": 8.392265193370164,
+        "baseTypestagedcsr": 9.014836795252226
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1687358916478554,
+        "baseTypestagedc": 6.781270464963982,
+        "baseTypestagedcsr": 7.465753424657534
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.5624999999999998,
+        "baseTypestagedc": 3.7735849056603774,
+        "baseTypestagedcsr": 4.166666666666666
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1406460296096905,
+        "baseTypestagedc": 7.249786142001711,
+        "baseTypestagedcsr": 7.869080779944289
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.1492864983534576,
+        "baseTypestagedc": 9.064814814814815,
+        "baseTypestagedcsr": 9.458937198067634
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1261931499157778,
+        "baseTypestagedc": 8.22871794871795,
+        "baseTypestagedcsr": 8.934298440979957
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1209469153515066,
+        "baseTypestagedc": 8.538797814207651,
+        "baseTypestagedcsr": 9.290130796670631
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8552188552188553,
+        "baseTypestagedc": 11.457466918714557,
+        "baseTypestagedcsr": 12.653444676409187
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0923706518561824,
+        "baseTypestagedc": 7.959531416400426,
+        "baseTypestagedcsr": 8.81367924528302
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2150178012730608,
+        "baseTypestagedc": 6.450171821305842,
+        "baseTypestagedcsr": 7.15047619047619
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.987590486039297,
+        "baseTypestagedc": 8.429824561403509,
+        "baseTypestagedcsr": 8.07563025210084
+      }
+    }
+  },
+  "union_8": {
+    "prop_DeleteUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2675934119251797,
+        "baseTypestagedc": 3.390468353871861,
+        "baseTypestagedcsr": 3.640021103439398
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.269426643288918,
+        "baseTypestagedc": 3.3842139302457652,
+        "baseTypestagedcsr": 3.640778733869014
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2641660787228395,
+        "baseTypestagedc": 3.3858000516399387,
+        "baseTypestagedcsr": 3.632461793170657
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2732277866282335,
+        "baseTypestagedc": 3.3852555924157555,
+        "baseTypestagedcsr": 3.6398752640579417
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2726597198161511,
+        "baseTypestagedc": 3.3885757609010105,
+        "baseTypestagedcsr": 3.6329944277422146
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2736939125603186,
+        "baseTypestagedc": 3.3791344439167332,
+        "baseTypestagedcsr": 3.632834336264856
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2684284345662955,
+        "baseTypestagedc": 3.375237790238566,
+        "baseTypestagedcsr": 3.6257681939547117
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2697217787343036,
+        "baseTypestagedc": 3.3893231379970796,
+        "baseTypestagedcsr": 3.648388015248108
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2660833257769486,
+        "baseTypestagedc": 3.396641590302571,
+        "baseTypestagedcsr": 3.6456811583530757
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2722139788640892,
+        "baseTypestagedc": 3.388600428044683,
+        "baseTypestagedcsr": 3.6288687472388537
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2674055631860086,
+        "baseTypestagedc": 3.3874873484364287,
+        "baseTypestagedcsr": 3.6371647153544187
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.275702440406164,
+        "baseTypestagedc": 3.3987720564651873,
+        "baseTypestagedcsr": 3.643772178835109
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2700259181800744,
+        "baseTypestagedc": 3.3947372717101816,
+        "baseTypestagedcsr": 3.6370645565827298
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.260295227669054,
+        "baseTypestagedc": 3.390803081872708,
+        "baseTypestagedcsr": 3.6456064529069856
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2716850380672524,
+        "baseTypestagedc": 3.3844946898038244,
+        "baseTypestagedcsr": 3.6391751553103133
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.265095035984499,
+        "baseTypestagedc": 3.2898086497510652,
+        "baseTypestagedcsr": 3.5044345047923326
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.26830361122954,
+        "baseTypestagedc": 3.4022634286736326,
+        "baseTypestagedcsr": 3.652893582583153
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.257229740159506,
+        "baseTypestagedc": 3.3674280532410155,
+        "baseTypestagedcsr": 3.6256430573547065
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2707246851524188,
+        "baseTypestagedc": 3.3828262520699415,
+        "baseTypestagedcsr": 3.6391403756243097
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2687157579181503,
+        "baseTypestagedc": 3.3669841882898917,
+        "baseTypestagedcsr": 3.621471906501382
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1967631514239268,
+        "baseTypestagedc": 3.3821648569455167,
+        "baseTypestagedcsr": 3.6275495231938053
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0,
+        "baseTypestagedc": 2.1441496822316566,
+        "baseTypestagedcsr": 2.303300533693928
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2711667447124264,
+        "baseTypestagedc": 3.3671734333328818,
+        "baseTypestagedcsr": 3.6117738457405486
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2641242658585645,
+        "baseTypestagedc": 3.34919161974323,
+        "baseTypestagedcsr": 3.6199980587325835
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2690102407472443,
+        "baseTypestagedc": 3.386689926031735,
+        "baseTypestagedcsr": 3.621925852264681
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2678120839319174,
+        "baseTypestagedc": 3.386722353598482,
+        "baseTypestagedcsr": 3.6357491822601005
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.265241545726057,
+        "baseTypestagedc": 3.3703314916198392,
+        "baseTypestagedcsr": 3.6319804586104025
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2640356519688754,
+        "baseTypestagedc": 3.384023557478166,
+        "baseTypestagedcsr": 3.6244415380987305
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2707678454433682,
+        "baseTypestagedc": 3.3886638531416935,
+        "baseTypestagedcsr": 3.641787574071128
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2727880025269163,
+        "baseTypestagedc": 3.387342451340175,
+        "baseTypestagedcsr": 3.6407225067817888
+      }
+    },
+    "prop_InsertUnion": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.197727407232053,
+        "baseTypestagedc": 2.1184968072856694,
+        "baseTypestagedcsr": 2.0793177848556454
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2315654838038015,
+        "baseTypestagedc": 2.558645408478557,
+        "baseTypestagedcsr": 2.6727777419146603
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8157413056741916,
+        "baseTypestagedc": 3.155885471898197,
+        "baseTypestagedcsr": 3.1293375394321763
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2281950400070731,
+        "baseTypestagedc": 2.6585330845414092,
+        "baseTypestagedcsr": 2.77760559860035
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1735444127972445,
+        "baseTypestagedc": 1.9795530726256985,
+        "baseTypestagedcsr": 2.1289353520788272
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2258645533141213,
+        "baseTypestagedc": 2.338831615120275,
+        "baseTypestagedcsr": 2.445782050130267
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.8276904474002418,
+        "baseTypestagedc": 2.304994281357225,
+        "baseTypestagedcsr": 3.261057173678533
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3265394622723332,
+        "baseTypestagedc": 3.9017857142857144,
+        "baseTypestagedcsr": 4.078666666666667
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2377199136164185,
+        "baseTypestagedc": 2.852826479819917,
+        "baseTypestagedcsr": 3.002068528342175
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2122989457018458,
+        "baseTypestagedc": 2.449898196625945,
+        "baseTypestagedcsr": 2.5498372814652233
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.184076512234505,
+        "baseTypestagedc": 2.146346954857593,
+        "baseTypestagedcsr": 2.1925022999080035
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1959676525977623,
+        "baseTypestagedc": 2.215245716630758,
+        "baseTypestagedcsr": 2.249869750963843
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1600513259195893,
+        "baseTypestagedc": 1.8772148394241417,
+        "baseTypestagedcsr": 1.9102690519791519
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2291651737728413,
+        "baseTypestagedc": 2.424795024031665,
+        "baseTypestagedcsr": 2.5310609414195073
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2348686309967025,
+        "baseTypestagedc": 2.7892839980778468,
+        "baseTypestagedcsr": 2.966903778165864
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2376933284026888,
+        "baseTypestagedc": 2.7177111196025985,
+        "baseTypestagedcsr": 2.863224637681159
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1894200626959246,
+        "baseTypestagedc": 2.0163411717815864,
+        "baseTypestagedcsr": 2.0804660726525017
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7909653170699584,
+        "baseTypestagedc": 4.420140017502188,
+        "baseTypestagedcsr": 4.661397495056032
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2943428328370907,
+        "baseTypestagedc": 3.8132832080200503,
+        "baseTypestagedcsr": 3.847029077117573
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.213872573196431,
+        "baseTypestagedc": 2.2844485697409502,
+        "baseTypestagedcsr": 2.4034978693181817
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1485121485121486,
+        "baseTypestagedc": 3.000713266761769,
+        "baseTypestagedcsr": 3.0831806522535725
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2298978819969741,
+        "baseTypestagedc": 2.6894797783475313,
+        "baseTypestagedcsr": 2.8407879793832445
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.250247245395418,
+        "baseTypestagedc": 2.9252987776658586,
+        "baseTypestagedcsr": 3.10375205799948
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1193046404037572,
+        "baseTypestagedc": 2.7559544356230585,
+        "baseTypestagedcsr": 2.964723356851095
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2492140400192329,
+        "baseTypestagedc": 2.9258256632376827,
+        "baseTypestagedcsr": 3.14361504095309
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2439563407776648,
+        "baseTypestagedc": 2.8850195051111935,
+        "baseTypestagedcsr": 3.067019827455729
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2177347368421054,
+        "baseTypestagedc": 2.7772528232311595,
+        "baseTypestagedcsr": 2.9078222400965212
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.230251777820488,
+        "baseTypestagedc": 2.59615273190799,
+        "baseTypestagedcsr": 2.681448234590066
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.220573440643863,
+        "baseTypestagedc": 2.559299191374663,
+        "baseTypestagedcsr": 2.6893048457607294
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1337288345074776,
+        "baseTypestagedc": 2.697147897677154,
+        "baseTypestagedcsr": 2.7788548924568315
+      }
+    },
+    "prop_UnionDeleteInsert": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2603397838051797,
+        "baseTypestagedc": 3.170165950814713,
+        "baseTypestagedcsr": 3.3878902845209002
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.257821402216799,
+        "baseTypestagedc": 3.0679329913651334,
+        "baseTypestagedcsr": 3.381993077429232
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0,
+        "baseTypestagedc": 1.383143018232914,
+        "baseTypestagedcsr": 1.471511464472244
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2629273984374383,
+        "baseTypestagedc": 3.1739435594388063,
+        "baseTypestagedcsr": 3.3818787762278806
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2586710094467346,
+        "baseTypestagedc": 3.1779344107585223,
+        "baseTypestagedcsr": 3.385982398499775
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2631305318377992,
+        "baseTypestagedc": 3.174664580960695,
+        "baseTypestagedcsr": 3.380874562399859
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0,
+        "baseTypestagedc": 2.289505095617937,
+        "baseTypestagedcsr": 2.4473740145903466
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3562372928969295,
+        "baseTypestagedc": 3.4133852431964535,
+        "baseTypestagedcsr": 3.6383152932960896
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2590095169356874,
+        "baseTypestagedc": 3.163132052075464,
+        "baseTypestagedcsr": 3.3826872632181417
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2631333214656029,
+        "baseTypestagedc": 3.169858520020514,
+        "baseTypestagedcsr": 3.388865919067059
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.257236613387826,
+        "baseTypestagedc": 3.1737359831511567,
+        "baseTypestagedcsr": 3.3799866727014893
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2548409370936937,
+        "baseTypestagedc": 3.131838111179133,
+        "baseTypestagedcsr": 3.3335078514311114
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0,
+        "baseTypestagedc": 2.151831046833527,
+        "baseTypestagedcsr": 2.2863839131247277
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1138613792459073,
+        "baseTypestagedc": 2.806937570761142,
+        "baseTypestagedcsr": 2.9811571490657576
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2476019271540622,
+        "baseTypestagedc": 3.141621139340322,
+        "baseTypestagedcsr": 3.3478953762607544
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2637071863916236,
+        "baseTypestagedc": 3.1717770341712934,
+        "baseTypestagedcsr": 3.3729946405147366
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.263911884243995,
+        "baseTypestagedc": 3.1716585851850487,
+        "baseTypestagedcsr": 3.3849868012511433
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1428267763170863,
+        "baseTypestagedc": 2.8747493278476726,
+        "baseTypestagedcsr": 3.07059026007746
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2603284122573908,
+        "baseTypestagedc": 3.1417829615165203,
+        "baseTypestagedcsr": 3.333662215206076
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2626022480587982,
+        "baseTypestagedc": 3.163224018517514,
+        "baseTypestagedcsr": 3.3811315983190005
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2579385140106965,
+        "baseTypestagedc": 3.1643233738418663,
+        "baseTypestagedcsr": 3.360172271958583
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2594135938158735,
+        "baseTypestagedc": 3.1711722616194784,
+        "baseTypestagedcsr": 3.3805893950812056
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2569958636061416,
+        "baseTypestagedc": 3.1688944066591063,
+        "baseTypestagedcsr": 3.386249877577849
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2605971332851207,
+        "baseTypestagedc": 3.1704141028615194,
+        "baseTypestagedcsr": 3.372325823406853
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2669751897433816,
+        "baseTypestagedc": 3.173472833874898,
+        "baseTypestagedcsr": 3.387861449783995
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0,
+        "baseTypestagedc": 2.336878754901652,
+        "baseTypestagedcsr": 2.487033642850197
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0,
+        "baseTypestagedc": 1.3703920225643267,
+        "baseTypestagedcsr": 1.4603736375687546
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2606407896931648,
+        "baseTypestagedc": 3.1782347718627104,
+        "baseTypestagedcsr": 3.3866144941990672
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2606241928593296,
+        "baseTypestagedc": 3.176797255235361,
+        "baseTypestagedcsr": 3.3836759354966635
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2587731645285942,
+        "baseTypestagedc": 3.1650811860933596,
+        "baseTypestagedcsr": 3.3723112703656146
+      }
+    },
+    "prop_UnionModel": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.222206834599693,
+        "baseTypestagedc": 2.485874372892195,
+        "baseTypestagedcsr": 2.5976452806173183
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2143751465014034,
+        "baseTypestagedc": 2.4489819447967345,
+        "baseTypestagedcsr": 2.5527593500624937
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2076613303179988,
+        "baseTypestagedc": 2.408347344476313,
+        "baseTypestagedcsr": 2.491640233295815
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2243449878487929,
+        "baseTypestagedc": 2.483493154381735,
+        "baseTypestagedcsr": 2.5705294128600955
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2224704141545122,
+        "baseTypestagedc": 2.4985684623221864,
+        "baseTypestagedcsr": 2.6221180069161063
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2196993882721263,
+        "baseTypestagedc": 2.4939381017809295,
+        "baseTypestagedcsr": 2.5963817123565454
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2283384843775773,
+        "baseTypestagedc": 2.560995972668447,
+        "baseTypestagedcsr": 2.677844965861829
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 2.115834829443447,
+        "baseTypestagedc": 3.2956375838926175,
+        "baseTypestagedcsr": 3.2624294098106517
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2204032031342105,
+        "baseTypestagedc": 2.5426873049104,
+        "baseTypestagedcsr": 2.664228865571174
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2269976896842567,
+        "baseTypestagedc": 2.42415533605429,
+        "baseTypestagedcsr": 2.5796561383670427
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1216003868004352,
+        "baseTypestagedc": 1.5454696868754165,
+        "baseTypestagedcsr": 1.5658116773540331
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2324320921234877,
+        "baseTypestagedc": 2.555032155485417,
+        "baseTypestagedcsr": 2.6659032102311415
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2214723192123762,
+        "baseTypestagedc": 2.536554265429731,
+        "baseTypestagedcsr": 1.8204477947620266
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2164808990842662,
+        "baseTypestagedc": 2.46997370645131,
+        "baseTypestagedcsr": 2.5603144087800844
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2131060140703052,
+        "baseTypestagedc": 2.43538554609335,
+        "baseTypestagedcsr": 2.552255547427457
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2029379760609358,
+        "baseTypestagedc": 2.3635749852308208,
+        "baseTypestagedcsr": 2.4946702693072833
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2246738478061725,
+        "baseTypestagedc": 2.442480942480942,
+        "baseTypestagedcsr": 2.56284911584862
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.0636397469296612,
+        "baseTypestagedc": 1.630347974900171,
+        "baseTypestagedcsr": 1.5913140311804008
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2076848597862726,
+        "baseTypestagedc": 2.318269429338473,
+        "baseTypestagedcsr": 2.455791738068327
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2173480743619214,
+        "baseTypestagedc": 2.4335418224256458,
+        "baseTypestagedcsr": 2.499166651060881
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2204098381677824,
+        "baseTypestagedc": 2.4594697034956843,
+        "baseTypestagedcsr": 2.5862818631447357
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2249452443591973,
+        "baseTypestagedc": 2.401371951219512,
+        "baseTypestagedcsr": 2.5440206712782283
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2291010255530284,
+        "baseTypestagedc": 2.5272087139950905,
+        "baseTypestagedcsr": 2.6492386385992526
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2284530638747728,
+        "baseTypestagedc": 2.525773992100095,
+        "baseTypestagedcsr": 2.6642885407695354
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.216364518755088,
+        "baseTypestagedc": 2.429420133514688,
+        "baseTypestagedcsr": 2.530748184098238
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1623171445289642,
+        "baseTypestagedc": 2.0457260556127705,
+        "baseTypestagedcsr": 2.1563178462874513
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2255127374474648,
+        "baseTypestagedc": 2.5538489111927594,
+        "baseTypestagedcsr": 2.665619066326197
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1035871858814503,
+        "baseTypestagedc": 1.5863780504618779,
+        "baseTypestagedcsr": 1.606310205221276
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 0.6343999240410179,
+        "baseTypestagedc": 1.6105821381222127,
+        "baseTypestagedcsr": 1.6181884233470574
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.220990942060725,
+        "baseTypestagedc": 2.5110828193779686,
+        "baseTypestagedcsr": 2.631468650291691
+      }
+    },
+    "prop_UnionPost": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3080848484707746,
+        "baseTypestagedc": 4.733321289173281,
+        "baseTypestagedcsr": 5.337806016327188
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3103022127807373,
+        "baseTypestagedc": 2.663055076746286,
+        "baseTypestagedcsr": 5.2804700406077325
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3104056190426847,
+        "baseTypestagedc": 4.7336880921428675,
+        "baseTypestagedcsr": 5.3152394313399185
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3094521162980823,
+        "baseTypestagedc": 4.784217187199949,
+        "baseTypestagedcsr": 5.409424152251399
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3059153625733368,
+        "baseTypestagedc": 4.664584416359158,
+        "baseTypestagedcsr": 5.237419502999799
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.295417903703616,
+        "baseTypestagedc": 4.7865085711097946,
+        "baseTypestagedcsr": 5.389927474345302
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3142039929199245,
+        "baseTypestagedc": 4.728915536273963,
+        "baseTypestagedcsr": 5.3463986869817655
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.310526959193089,
+        "baseTypestagedc": 4.781563967069602,
+        "baseTypestagedcsr": 5.406518589434004
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3129516884095331,
+        "baseTypestagedc": 4.7829458314152244,
+        "baseTypestagedcsr": 5.380487968164518
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3069559672827447,
+        "baseTypestagedc": 4.759560117302053,
+        "baseTypestagedcsr": 5.373558271129305
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3097417058144638,
+        "baseTypestagedc": 4.696305986581354,
+        "baseTypestagedcsr": 5.279502020312329
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3138436163372562,
+        "baseTypestagedc": 4.521381499831642,
+        "baseTypestagedcsr": 5.059751305377617
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3103464578315933,
+        "baseTypestagedc": 4.643830756039147,
+        "baseTypestagedcsr": 5.150263428284109
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3155967097487102,
+        "baseTypestagedc": 4.733856557536635,
+        "baseTypestagedcsr": 5.338497118851639
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3150385371142606,
+        "baseTypestagedc": 4.7803934721023,
+        "baseTypestagedcsr": 5.390429495243177
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2753019859414454,
+        "baseTypestagedc": 3.6311289591294775,
+        "baseTypestagedcsr": 4.033745862714059
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3101090823365364,
+        "baseTypestagedc": 4.712812601493992,
+        "baseTypestagedcsr": 5.300085225543313
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3143371463837707,
+        "baseTypestagedc": 4.7608584092935535,
+        "baseTypestagedcsr": 5.376005939661729
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.311077719564196,
+        "baseTypestagedc": 4.52100878868934,
+        "baseTypestagedcsr": 5.069533472731636
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3055864587571273,
+        "baseTypestagedc": 4.597080014367513,
+        "baseTypestagedcsr": 5.328885557955787
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3153624023951127,
+        "baseTypestagedc": 4.66173478989488,
+        "baseTypestagedcsr": 5.243047926220834
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3132212226213562,
+        "baseTypestagedc": 4.774110935961502,
+        "baseTypestagedcsr": 5.3335708973723355
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3085807348863536,
+        "baseTypestagedc": 4.698290694195093,
+        "baseTypestagedcsr": 5.287616548685605
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.310625616594507,
+        "baseTypestagedc": 4.663410996526072,
+        "baseTypestagedcsr": 5.250581067936313
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3098415479790153,
+        "baseTypestagedc": 4.781125209626631,
+        "baseTypestagedcsr": 5.393462692048724
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3163763624932687,
+        "baseTypestagedc": 4.789838210851865,
+        "baseTypestagedcsr": 5.418008481635024
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2858893494323302,
+        "baseTypestagedc": 3.153628568903032,
+        "baseTypestagedcsr": 3.5620007987220443
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3024607919425362,
+        "baseTypestagedc": 4.673410166700967,
+        "baseTypestagedcsr": 5.275841239109391
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.311355552241365,
+        "baseTypestagedc": 4.740874393961264,
+        "baseTypestagedcsr": 5.35957380432435
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3187546223987205,
+        "baseTypestagedc": 4.758892306095171,
+        "baseTypestagedcsr": 5.367283318209759
+      }
+    },
+    "prop_UnionUnionAssoc": {
+      "42": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2554021608643458,
+        "baseTypestagedc": 4.344845494676708,
+        "baseTypestagedcsr": 4.830951349790674
+      },
+      "666": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3226122001799896,
+        "baseTypestagedc": 4.836734109836018,
+        "baseTypestagedcsr": 5.481998053843658
+      },
+      "777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2810810255145046,
+        "baseTypestagedc": 4.352963777987355,
+        "baseTypestagedcsr": 4.821114936748036
+      },
+      "1729": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2981933483161727,
+        "baseTypestagedc": 4.45743853562242,
+        "baseTypestagedcsr": 5.023088071724695
+      },
+      "1984": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2899506280857445,
+        "baseTypestagedc": 3.539483837777587,
+        "baseTypestagedcsr": 3.832250278499814
+      },
+      "2001": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3156250755701009,
+        "baseTypestagedc": 4.825488572864619,
+        "baseTypestagedcsr": 5.4279324220958465
+      },
+      "6174": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.320524347121779,
+        "baseTypestagedc": 4.906732117812062,
+        "baseTypestagedcsr": 5.537791848041156
+      },
+      "12345": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3123984025366753,
+        "baseTypestagedc": 4.906395070759362,
+        "baseTypestagedcsr": 5.568003065166721
+      },
+      "31337": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2994357234517553,
+        "baseTypestagedc": 4.040723734557778,
+        "baseTypestagedcsr": 4.551785714285714
+      },
+      "31415": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3154162870682289,
+        "baseTypestagedc": 4.8732748132546675,
+        "baseTypestagedcsr": 5.480543172823704
+      },
+      "54321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2947097461388248,
+        "baseTypestagedc": 4.065499749149897,
+        "baseTypestagedcsr": 4.483646870773392
+      },
+      "101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3124438297140018,
+        "baseTypestagedc": 4.649505487061374,
+        "baseTypestagedcsr": 5.197859342656637
+      },
+      "112358": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2495092364222076,
+        "baseTypestagedc": 4.415510494485948,
+        "baseTypestagedcsr": 4.8750981932443045
+      },
+      "123321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.28778427037271,
+        "baseTypestagedc": 4.409490333919156,
+        "baseTypestagedcsr": 4.808639245171753
+      },
+      "271828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2945406879937649,
+        "baseTypestagedc": 4.065757997218358,
+        "baseTypestagedcsr": 4.516810877626699
+      },
+      "999999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.316843495257333,
+        "baseTypestagedc": 4.865384150906939,
+        "baseTypestagedcsr": 5.47566494964459
+      },
+      "1618033": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.314471935133252,
+        "baseTypestagedc": 4.8184165590770895,
+        "baseTypestagedcsr": 5.457225515322086
+      },
+      "3141592": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.7590865576386119,
+        "baseTypestagedc": 6.409554677053659,
+        "baseTypestagedcsr": 7.215245169418039
+      },
+      "7777777": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3027228887320632,
+        "baseTypestagedc": 4.598609092796346,
+        "baseTypestagedcsr": 5.13777107735127
+      },
+      "8008135": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2984002259286331,
+        "baseTypestagedc": 4.542514239218877,
+        "baseTypestagedcsr": 5.064703214100571
+      },
+      "8675309": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3264232390432176,
+        "baseTypestagedc": 4.774619307899018,
+        "baseTypestagedcsr": 5.376299376299376
+      },
+      "12121212": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3196714338880322,
+        "baseTypestagedc": 4.914896144783478,
+        "baseTypestagedcsr": 5.519919942180463
+      },
+      "123581321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3118705166292297,
+        "baseTypestagedc": 4.526847105888236,
+        "baseTypestagedcsr": 5.037246991722891
+      },
+      "867530999": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.314896477349111,
+        "baseTypestagedc": 4.576967577713214,
+        "baseTypestagedcsr": 5.161413784105077
+      },
+      "987654321": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.2447836645685681,
+        "baseTypestagedc": 4.252624449712157,
+        "baseTypestagedcsr": 4.760424564063684
+      },
+      "1010101010": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.1606198034769464,
+        "baseTypestagedc": 7.294536817102138,
+        "baseTypestagedcsr": 7.949094046591889
+      },
+      "1234567890": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3165647969052225,
+        "baseTypestagedc": 4.940797305537005,
+        "baseTypestagedcsr": 5.59489717075737
+      },
+      "2718281828": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3218668428794587,
+        "baseTypestagedc": 4.899560819053696,
+        "baseTypestagedcsr": 5.54872203623997
+      },
+      "9876543210": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3103410599922676,
+        "baseTypestagedc": 4.570712401055409,
+        "baseTypestagedcsr": 5.122958630434067
+      },
+      "314159265359": {
+        "baseType": 1.0,
+        "baseTypestaged": 1.3253626878035065,
+        "baseTypestagedc": 4.978497462943272,
+        "baseTypestagedcsr": 5.639147340085849
+      }
+    }
+  }
+}

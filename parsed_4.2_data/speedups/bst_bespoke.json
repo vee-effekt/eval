@@ -1,0 +1,4508 @@
+{
+  "delete_4": {
+    "prop_DeleteDelete": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0958417849898583,
+        "baseBespokestagedc": 3.1547445255474456,
+        "baseBespokestagedcsr": 3.279210925644917
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1291411215478935,
+        "baseBespokestagedc": 1.9573907956318253,
+        "baseBespokestagedcsr": 2.0657542704260137
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.102207526986288,
+        "baseBespokestagedc": 1.6338474845033877,
+        "baseBespokestagedcsr": 1.6783651710350955
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1515520853170824,
+        "baseBespokestagedc": 2.132308343324635,
+        "baseBespokestagedcsr": 2.2455436720142603
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.156223980016653,
+        "baseBespokestagedc": 2.1480502739284564,
+        "baseBespokestagedcsr": 2.2998412807949764
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.157301758162899,
+        "baseBespokestagedc": 2.3085842439280433,
+        "baseBespokestagedcsr": 2.4127767803710354
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1381503716409378,
+        "baseBespokestagedc": 1.8478765374796937,
+        "baseBespokestagedcsr": 1.95903555172838
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1486261813090652,
+        "baseBespokestagedc": 2.2741683991683987,
+        "baseBespokestagedcsr": 2.4620650848729246
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1567269435614593,
+        "baseBespokestagedc": 2.3519239823652787,
+        "baseBespokestagedcsr": 2.479826699160574
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.150723814930457,
+        "baseBespokestagedc": 2.2081946377776434,
+        "baseBespokestagedcsr": 2.3303314811266524
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1356949864905435,
+        "baseBespokestagedc": 2.0859393461992912,
+        "baseBespokestagedcsr": 2.16118501591447
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1797378712609663,
+        "baseBespokestagedc": 2.4814361938639395,
+        "baseBespokestagedcsr": 2.6358483882394617
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1183039200374825,
+        "baseBespokestagedc": 1.7812189054726368,
+        "baseBespokestagedcsr": 1.8548115529076543
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1181386783766556,
+        "baseBespokestagedc": 1.7976542928717831,
+        "baseBespokestagedcsr": 1.8762776325172332
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1690068954890405,
+        "baseBespokestagedc": 2.512938887048692,
+        "baseBespokestagedcsr": 2.659385680483744
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1537440254912374,
+        "baseBespokestagedc": 2.2411347517730498,
+        "baseBespokestagedcsr": 2.328354209926988
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0959355902609371,
+        "baseBespokestagedc": 1.6176975945017185,
+        "baseBespokestagedcsr": 1.7115588547189822
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1538093529482119,
+        "baseBespokestagedc": 1.4834691680762724,
+        "baseBespokestagedcsr": 1.6442815749105164
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1440780847860923,
+        "baseBespokestagedc": 2.043365134431917,
+        "baseBespokestagedcsr": 2.1206120612061206
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0924693520140105,
+        "baseBespokestagedc": 1.72797783933518,
+        "baseBespokestagedcsr": 1.748318385650224
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1557955276006462,
+        "baseBespokestagedc": 2.5270485886866996,
+        "baseBespokestagedcsr": 2.686842370998687
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1393395841826335,
+        "baseBespokestagedc": 2.1049935979513443,
+        "baseBespokestagedcsr": 2.2195044472681067
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1558561469922903,
+        "baseBespokestagedc": 2.0448382881411304,
+        "baseBespokestagedcsr": 2.1444967880085652
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.982333978078659,
+        "baseBespokestagedc": 2.2706408345752607,
+        "baseBespokestagedcsr": 2.378395254448954
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1682663939262814,
+        "baseBespokestagedc": 2.4084421377017273,
+        "baseBespokestagedcsr": 2.500084182170216
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1509396636993077,
+        "baseBespokestagedc": 2.0551042034616747,
+        "baseBespokestagedcsr": 2.2286064506243775
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0904823729152102,
+        "baseBespokestagedc": 1.6711049892868075,
+        "baseBespokestagedcsr": 1.683472093740364
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1232704402515723,
+        "baseBespokestagedc": 1.6615142407327894,
+        "baseBespokestagedcsr": 1.7175617694925283
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.146214442013129,
+        "baseBespokestagedc": 2.0914317655513854,
+        "baseBespokestagedcsr": 2.210210970464135
+      }
+    },
+    "prop_DeletePost": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.953012048192771,
+        "baseBespokestagedc": 4.199481865284974,
+        "baseBespokestagedcsr": 4.29973474801061
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1097876747799067,
+        "baseBespokestagedc": 3.3642072213500787,
+        "baseBespokestagedcsr": 3.5716666666666668
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0089736399326976,
+        "baseBespokestagedc": 3.5908183632734527,
+        "baseBespokestagedcsr": 4.024608501118568
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1674311926605503,
+        "baseBespokestagedc": 3.322454308093995,
+        "baseBespokestagedcsr": 3.322454308093995
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0409323479249575,
+        "baseBespokestagedc": 3.494274809160305,
+        "baseBespokestagedcsr": 3.640159045725646
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0353213665315577,
+        "baseBespokestagedc": 3.694214876033058,
+        "baseBespokestagedcsr": 3.547619047619048
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1517857142857144,
+        "baseBespokestagedc": 2.041139240506329,
+        "baseBespokestagedcsr": 2.193877551020408
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.118279569892473,
+        "baseBespokestagedc": 1.8505338078291813,
+        "baseBespokestagedcsr": 1.933085501858736
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.188050930460333,
+        "baseBespokestagedc": 3.3741307371349096,
+        "baseBespokestagedcsr": 3.5007215007215007
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.192141830378534,
+        "baseBespokestagedc": 3.3621621621621625,
+        "baseBespokestagedcsr": 3.484593837535014
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0558199913457378,
+        "baseBespokestagedc": 3.1003811944091484,
+        "baseBespokestagedcsr": 3.279569892473118
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.1840731070496084,
+        "baseBespokestagedc": 3.768018018018018,
+        "baseBespokestagedcsr": 4.37958115183246
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.1817010309278353,
+        "baseBespokestagedc": 4.588075880758807,
+        "baseBespokestagedcsr": 4.796033994334278
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1352169525731584,
+        "baseBespokestagedc": 3.099173553719008,
+        "baseBespokestagedcsr": 3.2188841201716736
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1698841698841698,
+        "baseBespokestagedc": 2.261194029850746,
+        "baseBespokestagedcsr": 2.179856115107914
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0533286859532938,
+        "baseBespokestagedc": 1.6788888888888889,
+        "baseBespokestagedcsr": 1.7015765765765765
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1157894736842107,
+        "baseBespokestagedc": 2.393548387096774,
+        "baseBespokestagedcsr": 2.3333333333333335
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1814595660749507,
+        "baseBespokestagedc": 2.0305084745762714,
+        "baseBespokestagedcsr": 2.0871080139372826
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0359179019384266,
+        "baseBespokestagedc": 3.7386831275720165,
+        "baseBespokestagedcsr": 3.932900432900433
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1176470588235294,
+        "baseBespokestagedc": 1.988372093023256,
+        "baseBespokestagedcsr": 2.25
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.104327208061648,
+        "baseBespokestagedc": 3.7334669338677355,
+        "baseBespokestagedcsr": 3.809815950920246
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1604361370716512,
+        "baseBespokestagedc": 2.450657894736842,
+        "baseBespokestagedcsr": 2.411003236245955
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1367187500000002,
+        "baseBespokestagedc": 2.1163636363636362,
+        "baseBespokestagedcsr": 2.131868131868132
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1177394034536892,
+        "baseBespokestagedc": 3.39047619047619,
+        "baseBespokestagedcsr": 3.3532182103610673
+      }
+    },
+    "prop_DeleteUnion": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0006686726847207,
+        "baseBespokestagedc": 3.6366950182260025,
+        "baseBespokestagedcsr": 3.985352862849534
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0580155431050065,
+        "baseBespokestagedc": 3.1188066062866278,
+        "baseBespokestagedcsr": 3.15239633817986
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.062424969987995,
+        "baseBespokestagedc": 3.154276985743381,
+        "baseBespokestagedcsr": 3.2829888712241653
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.829707681849082,
+        "baseBespokestagedc": 5.744930629669157,
+        "baseBespokestagedcsr": 6.082485875706214
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0600263852242744,
+        "baseBespokestagedc": 3.112832929782082,
+        "baseBespokestagedcsr": 3.223671013039117
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2046783625730992,
+        "baseBespokestagedc": 2.2888888888888888,
+        "baseBespokestagedcsr": 2.404669260700389
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0939226519337018,
+        "baseBespokestagedc": 3.8976377952755907,
+        "baseBespokestagedcsr": 3.967935871743487
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0809946714031973,
+        "baseBespokestagedc": 3.692961165048544,
+        "baseBespokestagedcsr": 3.6183115338882286
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8816449348044133,
+        "baseBespokestagedc": 5.784172661870504,
+        "baseBespokestagedcsr": 6.5214368482039395
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1753507014028057,
+        "baseBespokestagedc": 4.017123287671233,
+        "baseBespokestagedcsr": 4.385046728971963
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.030755711775044,
+        "baseBespokestagedc": 3.1296691568836716,
+        "baseBespokestagedcsr": 3.1944444444444446
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1085212074894917,
+        "baseBespokestagedc": 3.490974729241877,
+        "baseBespokestagedcsr": 3.6037267080745337
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1172291296625223,
+        "baseBespokestagedc": 3.529741863075196,
+        "baseBespokestagedcsr": 3.7619617224880377
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1136950904392764,
+        "baseBespokestagedc": 3.71551724137931,
+        "baseBespokestagedcsr": 3.896925858951175
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0588882773802972,
+        "baseBespokestagedc": 3.8099009900990097,
+        "baseBespokestagedcsr": 4.059071729957806
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.199745547073791,
+        "baseBespokestagedc": 5.207831325301205,
+        "baseBespokestagedcsr": 5.488888888888889
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0191328769527823,
+        "baseBespokestagedc": 3.091586794462194,
+        "baseBespokestagedcsr": 3.165757906215922
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1996259934548856,
+        "baseBespokestagedc": 3.7624633431085046,
+        "baseBespokestagedcsr": 4.028257456828886
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8502051983584131,
+        "baseBespokestagedc": 5.737009544008483,
+        "baseBespokestagedcsr": 6.071829405162738
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.867182246133154,
+        "baseBespokestagedc": 5.626139817629179,
+        "baseBespokestagedcsr": 5.851422550052687
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.167076167076167,
+        "baseBespokestagedc": 5.582278481012659,
+        "baseBespokestagedcsr": 5.378048780487805
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8026273630246714,
+        "baseBespokestagedc": 3.055947854426942,
+        "baseBespokestagedcsr": 3.1571268237934906
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1864813039309683,
+        "baseBespokestagedc": 3.8793103448275863,
+        "baseBespokestagedcsr": 4.017857142857143
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0693610049153468,
+        "baseBespokestagedc": 3.7366412213740454,
+        "baseBespokestagedcsr": 3.8467583497053046
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.3259493670886076,
+        "baseBespokestagedc": 3.985054347826087,
+        "baseBespokestagedcsr": 4.423831070889895
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2035353535353537,
+        "baseBespokestagedc": 3.9519071310116085,
+        "baseBespokestagedcsr": 4.317028985507247
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1244834710743803,
+        "baseBespokestagedc": 3.805944055944056,
+        "baseBespokestagedcsr": 4.069158878504673
+      }
+    }
+  },
+  "delete_5": {
+    "prop_DeleteDelete": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.158349923122014,
+        "baseBespokestagedc": 2.38625,
+        "baseBespokestagedcsr": 2.576141011437187
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1573092603377986,
+        "baseBespokestagedc": 2.3270874809696687,
+        "baseBespokestagedcsr": 2.4584708017156056
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1527730370729237,
+        "baseBespokestagedc": 2.2950086586729213,
+        "baseBespokestagedcsr": 2.4465111931579195
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1432420543275046,
+        "baseBespokestagedc": 2.2075030967970273,
+        "baseBespokestagedcsr": 2.325008387072725
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1641940945836615,
+        "baseBespokestagedc": 2.420663251646528,
+        "baseBespokestagedcsr": 2.5799072642967547
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1531185249692202,
+        "baseBespokestagedc": 2.4339346660165777,
+        "baseBespokestagedcsr": 2.5938935422858687
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1597235235224517,
+        "baseBespokestagedc": 2.35179414798328,
+        "baseBespokestagedcsr": 2.521236105453064
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1690777625460311,
+        "baseBespokestagedc": 2.3810754289343157,
+        "baseBespokestagedcsr": 2.5477230924235856
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1608753120869437,
+        "baseBespokestagedc": 2.438702126431405,
+        "baseBespokestagedcsr": 2.5889997591003033
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.157404480256435,
+        "baseBespokestagedc": 2.3439142410481653,
+        "baseBespokestagedcsr": 2.4934507499564442
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1636040734201125,
+        "baseBespokestagedc": 2.3584648515933044,
+        "baseBespokestagedcsr": 2.5109988702066857
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1629289803230307,
+        "baseBespokestagedc": 2.408371185997289,
+        "baseBespokestagedcsr": 2.5922031381984794
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1594604939633193,
+        "baseBespokestagedc": 2.412994931533852,
+        "baseBespokestagedcsr": 2.5777402130611753
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0983587742453804,
+        "baseBespokestagedc": 1.4052863436123348,
+        "baseBespokestagedcsr": 1.5243708187320804
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.160768265126789,
+        "baseBespokestagedc": 2.3634290972293224,
+        "baseBespokestagedcsr": 2.516267729048972
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.159315621679065,
+        "baseBespokestagedc": 2.368611205197016,
+        "baseBespokestagedcsr": 2.5393525199951585
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1608616248930237,
+        "baseBespokestagedc": 2.4127344138961115,
+        "baseBespokestagedcsr": 2.5669704501518917
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1557938696075252,
+        "baseBespokestagedc": 2.3270928856174917,
+        "baseBespokestagedcsr": 2.478933866689856
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1604310255814554,
+        "baseBespokestagedc": 2.4252641020194154,
+        "baseBespokestagedcsr": 2.5812972825540834
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1605294386536154,
+        "baseBespokestagedc": 2.4124464624242283,
+        "baseBespokestagedcsr": 2.550693867046759
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0803901782711067,
+        "baseBespokestagedc": 1.5479518072289156,
+        "baseBespokestagedcsr": 1.8291571753986333
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1590465940744492,
+        "baseBespokestagedc": 2.3925016661512126,
+        "baseBespokestagedcsr": 2.5639602462900117
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.152832575984327,
+        "baseBespokestagedc": 2.3539273560663934,
+        "baseBespokestagedcsr": 2.4910849465684763
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1661792112977836,
+        "baseBespokestagedc": 2.439131773178606,
+        "baseBespokestagedcsr": 2.5925756832129174
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1593980920682025,
+        "baseBespokestagedc": 2.4362949896326556,
+        "baseBespokestagedcsr": 2.558230473848687
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1659879264085855,
+        "baseBespokestagedc": 2.448393587472388,
+        "baseBespokestagedcsr": 2.610469590198721
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1532512791463738,
+        "baseBespokestagedc": 2.3709540627096546,
+        "baseBespokestagedcsr": 2.5012753228369586
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1524476998471833,
+        "baseBespokestagedc": 2.275399261301566,
+        "baseBespokestagedcsr": 2.4287856071964016
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1537473544308745,
+        "baseBespokestagedc": 2.365200567817566,
+        "baseBespokestagedcsr": 2.503362372926537
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1601608445459484,
+        "baseBespokestagedc": 2.4377217395881967,
+        "baseBespokestagedcsr": 2.5887506325985385
+      }
+    },
+    "prop_DeleteInsert": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1613867304243874,
+        "baseBespokestagedc": 3.598148148148148,
+        "baseBespokestagedcsr": 3.7151051625239004
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0714285714285714,
+        "baseBespokestagedc": 1.7229729729729732,
+        "baseBespokestagedcsr": 1.3672922252010724
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.3071528751753156,
+        "baseBespokestagedc": 4.0818858560794045,
+        "baseBespokestagedcsr": 4.22879177377892
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.7714470702492715,
+        "baseBespokestagedc": 2.2762063227953413,
+        "baseBespokestagedcsr": 2.781901372648704
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.044224330357143,
+        "baseBespokestagedc": 2.160796766743649,
+        "baseBespokestagedcsr": 2.2303337306317044
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.123728813559322,
+        "baseBespokestagedc": 1.9161849710982657,
+        "baseBespokestagedcsr": 1.8997134670487104
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.111890694239291,
+        "baseBespokestagedc": 1.5939650608787717,
+        "baseBespokestagedcsr": 1.6258099352051836
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.177262180974478,
+        "baseBespokestagedc": 1.4724318049912943,
+        "baseBespokestagedcsr": 2.537
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1621505376344088,
+        "baseBespokestagedc": 1.5308781869688384,
+        "baseBespokestagedcsr": 1.5205402363534046
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0463861920172601,
+        "baseBespokestagedc": 2.989214175654854,
+        "baseBespokestagedcsr": 2.668500687757909
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.0539568345323738,
+        "baseBespokestagedc": 3.5836820083682004,
+        "baseBespokestagedcsr": 3.6759656652360513
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.08802753124434,
+        "baseBespokestagedc": 2.889369889369889,
+        "baseBespokestagedcsr": 2.7669276830953478
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0535218712832033,
+        "baseBespokestagedc": 1.382108183079057,
+        "baseBespokestagedcsr": 2.2901465096236713
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.055388219544846,
+        "baseBespokestagedc": 2.4464701318851825,
+        "baseBespokestagedcsr": 2.3316081330868763
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0885529157667386,
+        "baseBespokestagedc": 2.9217391304347826,
+        "baseBespokestagedcsr": 2.6987951807228914
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0789473684210527,
+        "baseBespokestagedc": 1.642526964560863,
+        "baseBespokestagedcsr": 1.6752226296490307
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0831152839772202,
+        "baseBespokestagedc": 2.3239762219286657,
+        "baseBespokestagedcsr": 2.05220180810732
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.829942784488239,
+        "baseBespokestagedc": 2.7717862301396248,
+        "baseBespokestagedcsr": 2.7704523580365734
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.123038292529818,
+        "baseBespokestagedc": 3.4206500956022943,
+        "baseBespokestagedcsr": 3.2409420289855073
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0509761388286334,
+        "baseBespokestagedc": 2.829197080291971,
+        "baseBespokestagedcsr": 2.9861325115562405
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1479638009049773,
+        "baseBespokestagedc": 1.5164375373580397,
+        "baseBespokestagedcsr": 1.4664739884393065
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0791788856304985,
+        "baseBespokestagedc": 1.7864077669902914,
+        "baseBespokestagedcsr": 1.9116883116883119
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0297872340425531,
+        "baseBespokestagedc": 2.8639053254437874,
+        "baseBespokestagedcsr": 2.722925457102672
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1817427385892116,
+        "baseBespokestagedc": 1.309425287356322,
+        "baseBespokestagedcsr": 1.6762801648028252
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.223730517848165,
+        "baseBespokestagedc": 2.376953125,
+        "baseBespokestagedcsr": 2.581124072110286
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.055120789384144,
+        "baseBespokestagedc": 2.623519458544839,
+        "baseBespokestagedcsr": 2.6860112602858384
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0358599592114206,
+        "baseBespokestagedc": 2.679120879120879,
+        "baseBespokestagedcsr": 2.8256838201205374
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1596774193548387,
+        "baseBespokestagedc": 1.5655960805661404,
+        "baseBespokestagedcsr": 1.552915766738661
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0423070828711773,
+        "baseBespokestagedc": 2.2983927323549964,
+        "baseBespokestagedcsr": 2.3981042654028433
+      }
+    },
+    "prop_DeleteModel": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0493398193189716,
+        "baseBespokestagedc": 1.713961407491487,
+        "baseBespokestagedcsr": 1.6685082872928179
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0753968253968254,
+        "baseBespokestagedc": 1.732551944592435,
+        "baseBespokestagedcsr": 1.7789934354485777
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8184447300771207,
+        "baseBespokestagedc": 3.0906608410704535,
+        "baseBespokestagedcsr": 3.1544035674470456
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2199074074074074,
+        "baseBespokestagedc": 2.0996015936254984,
+        "baseBespokestagedcsr": 2.177685950413223
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9386243386243386,
+        "baseBespokestagedc": 3.6427104722792607,
+        "baseBespokestagedcsr": 4.050228310502283
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8734047983665139,
+        "baseBespokestagedc": 4.723294723294723,
+        "baseBespokestagedcsr": 5.125698324022347
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0383747178329572,
+        "baseBespokestagedc": 3.5867446393762186,
+        "baseBespokestagedcsr": 3.8253638253638256
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1484374999999998,
+        "baseBespokestagedc": 2.0940170940170937,
+        "baseBespokestagedcsr": 2.0880681818181817
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1287593984962405,
+        "baseBespokestagedc": 3.017587939698492,
+        "baseBespokestagedcsr": 3.1194805194805197
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0964805825242718,
+        "baseBespokestagedc": 4.173210161662817,
+        "baseBespokestagedcsr": 3.796218487394958
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.7306201550387598,
+        "baseBespokestagedc": 2.2848484848484847,
+        "baseBespokestagedcsr": 2.211143695014663
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0350148367952523,
+        "baseBespokestagedc": 4.093896713615024,
+        "baseBespokestagedcsr": 3.7586206896551726
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1107292859870181,
+        "baseBespokestagedc": 1.64257481648786,
+        "baseBespokestagedcsr": 1.5547835382148585
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.110704960835509,
+        "baseBespokestagedc": 3.3234375,
+        "baseBespokestagedcsr": 3.5391014975041597
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1398373983739838,
+        "baseBespokestagedc": 2.1974921630094046,
+        "baseBespokestagedcsr": 2.0557184750733137
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8462788430289245,
+        "baseBespokestagedc": 3.0026427061310783,
+        "baseBespokestagedcsr": 3.0510204081632657
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0911966262519768,
+        "baseBespokestagedc": 3.410214168039538,
+        "baseBespokestagedcsr": 3.1081081081081074
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2552877520905066,
+        "baseBespokestagedc": 3.18601747815231,
+        "baseBespokestagedcsr": 3.3534822601839687
+      }
+    },
+    "prop_DeletePost": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9995133030499674,
+        "baseBespokestagedc": 2.795372050816697,
+        "baseBespokestagedcsr": 3.056051587301587
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1470968753675463,
+        "baseBespokestagedc": 2.0221853618080035,
+        "baseBespokestagedcsr": 2.212902737861141
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0467877094972067,
+        "baseBespokestagedc": 2.9008224479922595,
+        "baseBespokestagedcsr": 3.0010010010010006
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.261261261261261,
+        "baseBespokestagedc": 2.0648967551622417,
+        "baseBespokestagedcsr": 2.1739130434782608
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1380699398680603,
+        "baseBespokestagedc": 1.9536981358989778,
+        "baseBespokestagedcsr": 2.016551153408503
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0797187471463792,
+        "baseBespokestagedc": 1.5967589466576637,
+        "baseBespokestagedcsr": 1.6843304843304843
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1019762087490408,
+        "baseBespokestagedc": 1.981713102734409,
+        "baseBespokestagedcsr": 2.0766519027388592
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0609771819002192,
+        "baseBespokestagedc": 2.348074179743224,
+        "baseBespokestagedcsr": 2.5253145136544948
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1468549422336327,
+        "baseBespokestagedc": 1.892195276924706,
+        "baseBespokestagedcsr": 1.953000327904689
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0180242634315424,
+        "baseBespokestagedc": 2.383928571428571,
+        "baseBespokestagedcsr": 2.4974489795918364
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.096196486440389,
+        "baseBespokestagedc": 2.889838129496403,
+        "baseBespokestagedcsr": 2.9713361072584377
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0966619409717746,
+        "baseBespokestagedc": 2.3901685393258427,
+        "baseBespokestagedcsr": 2.5460801915020945
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1295410793019935,
+        "baseBespokestagedc": 1.9447236180904524,
+        "baseBespokestagedcsr": 1.9124172011355272
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1518143743694784,
+        "baseBespokestagedc": 2.209276416090067,
+        "baseBespokestagedcsr": 2.3025728778341383
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1106192628488887,
+        "baseBespokestagedc": 1.9575394218134035,
+        "baseBespokestagedcsr": 2.089323281907433
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1208053691275168,
+        "baseBespokestagedc": 1.9609791346761811,
+        "baseBespokestagedcsr": 2.0320104829651813
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0451559934318555,
+        "baseBespokestagedc": 2.873589164785553,
+        "baseBespokestagedcsr": 2.886621315192744
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1119018151815183,
+        "baseBespokestagedc": 1.9327716027249913,
+        "baseBespokestagedcsr": 1.955027654365763
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0845180900088245,
+        "baseBespokestagedc": 1.5947231833910034,
+        "baseBespokestagedcsr": 1.6408544726301737
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1580677879203307,
+        "baseBespokestagedc": 2.4058303232379363,
+        "baseBespokestagedcsr": 2.592196192899733
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1577606050641238,
+        "baseBespokestagedc": 2.2175624606340545,
+        "baseBespokestagedcsr": 2.378885135135135
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1457418428073054,
+        "baseBespokestagedc": 2.0832835820895523,
+        "baseBespokestagedcsr": 2.118700667880996
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0575850278927479,
+        "baseBespokestagedc": 2.8682284040995607,
+        "baseBespokestagedcsr": 2.959214501510574
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0922794704099537,
+        "baseBespokestagedc": 1.703994027622247,
+        "baseBespokestagedcsr": 1.820901475867571
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1053328916859888,
+        "baseBespokestagedc": 1.7010322416210018,
+        "baseBespokestagedcsr": 1.8015926575786207
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.080920564216778,
+        "baseBespokestagedc": 2.977505112474438,
+        "baseBespokestagedcsr": 3.1177730192719486
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1477953138889354,
+        "baseBespokestagedc": 2.340378236038439,
+        "baseBespokestagedcsr": 2.4995434457065633
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1232477360129016,
+        "baseBespokestagedc": 1.9193428722840487,
+        "baseBespokestagedcsr": 1.9570949962174429
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1259563456345636,
+        "baseBespokestagedc": 1.912017577378678,
+        "baseBespokestagedcsr": 2.038394948569101
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.101606105478984,
+        "baseBespokestagedc": 1.5237119899164961,
+        "baseBespokestagedcsr": 1.5593356981618833
+      }
+    },
+    "prop_DeleteUnion": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0990437158469946,
+        "baseBespokestagedc": 1.7273215244229736,
+        "baseBespokestagedcsr": 1.9189028026237327
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0844651952461801,
+        "baseBespokestagedc": 2.54228855721393,
+        "baseBespokestagedcsr": 2.4465368656240027
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0874628344895936,
+        "baseBespokestagedc": 2.481062747314867,
+        "baseBespokestagedcsr": 2.5621716287215412
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1354115327747658,
+        "baseBespokestagedc": 1.5430341594105825,
+        "baseBespokestagedcsr": 1.6546956365595258
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1469707319636384,
+        "baseBespokestagedc": 2.0680246328754146,
+        "baseBespokestagedcsr": 2.191126279863481
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1709697092905063,
+        "baseBespokestagedc": 1.7041420118343196,
+        "baseBespokestagedcsr": 1.6685979142526073
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1850675138999207,
+        "baseBespokestagedc": 3.3986332574031892,
+        "baseBespokestagedcsr": 3.3986332574031892
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1222531977697605,
+        "baseBespokestagedc": 1.7849504434011474,
+        "baseBespokestagedcsr": 1.8837049270575281
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0519585626416315,
+        "baseBespokestagedc": 2.849188952213941,
+        "baseBespokestagedcsr": 3.1095693779904305
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1062794918330308,
+        "baseBespokestagedc": 1.8575085324232083,
+        "baseBespokestagedcsr": 1.9146877748460862
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.049266247379455,
+        "baseBespokestagedc": 2.7456896551724137,
+        "baseBespokestagedcsr": 2.6067708333333335
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0860685630926332,
+        "baseBespokestagedc": 3.209051724137931,
+        "baseBespokestagedcsr": 2.371019108280255
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0854964308890331,
+        "baseBespokestagedc": 3.0891043397968607,
+        "baseBespokestagedcsr": 3.080570902394107
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1649797570850202,
+        "baseBespokestagedc": 1.8707842340511986,
+        "baseBespokestagedcsr": 1.8547065932590305
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0903086862885858,
+        "baseBespokestagedc": 2.5046174142480213,
+        "baseBespokestagedcsr": 2.5288045288045287
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0930539273153577,
+        "baseBespokestagedc": 2.5156829679595276,
+        "baseBespokestagedcsr": 2.571182350913478
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.5915882678472606,
+        "baseBespokestagedc": 2.972609819121447,
+        "baseBespokestagedcsr": 3.24056338028169
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.077656675749319,
+        "baseBespokestagedc": 1.7096541786743518,
+        "baseBespokestagedcsr": 1.7057216791259344
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0956194065002356,
+        "baseBespokestagedc": 1.5205098872364764,
+        "baseBespokestagedcsr": 1.5801630434782608
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0444372886813718,
+        "baseBespokestagedc": 2.992158671586716,
+        "baseBespokestagedcsr": 2.851428571428571
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.706876111440427,
+        "baseBespokestagedc": 3.089592274678112,
+        "baseBespokestagedcsr": 3.1231019522776573
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1504424778761062,
+        "baseBespokestagedc": 4.826732673267326,
+        "baseBespokestagedcsr": 5.118110236220472
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0662282219914618,
+        "baseBespokestagedc": 1.5388842631140716,
+        "baseBespokestagedcsr": 1.59768326417704
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0674957281184736,
+        "baseBespokestagedc": 1.6531902381652455,
+        "baseBespokestagedcsr": 1.7162698412698414
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0900221729490023,
+        "baseBespokestagedc": 2.572026508545518,
+        "baseBespokestagedcsr": 2.6941907197661674
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1220699603317708,
+        "baseBespokestagedc": 3.2193481634764614,
+        "baseBespokestagedcsr": 3.3207043756670225
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.109288299155609,
+        "baseBespokestagedc": 1.5663430420711972,
+        "baseBespokestagedcsr": 2.61994301994302
+      }
+    },
+    "prop_UnionDeleteInsert": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0747185261003072,
+        "baseBespokestagedc": 1.723194748358862,
+        "baseBespokestagedcsr": 1.6030534351145036
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.9663677130044843,
+        "baseBespokestagedc": 3.708245243128964,
+        "baseBespokestagedcsr": 3.8549450549450546
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0321839080459771,
+        "baseBespokestagedc": 3.427480916030534,
+        "baseBespokestagedcsr": 3.66530612244898
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1711899791231735,
+        "baseBespokestagedc": 3.045602605863192,
+        "baseBespokestagedcsr": 3.3313539192399055
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0578034682080926,
+        "baseBespokestagedc": 2.609248554913295,
+        "baseBespokestagedcsr": 2.646989835809226
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.0296370296370294,
+        "baseBespokestagedc": 2.879074161549362,
+        "baseBespokestagedcsr": 2.84414372375175
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.048752176436448,
+        "baseBespokestagedc": 3.5570866141732282,
+        "baseBespokestagedcsr": 3.5570866141732282
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9885868749061422,
+        "baseBespokestagedc": 2.45909600298842,
+        "baseBespokestagedcsr": 2.7112850082372324
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1631305987741631,
+        "baseBespokestagedc": 3.057001239157373,
+        "baseBespokestagedcsr": 3.1426751592356688
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.094361334867664,
+        "baseBespokestagedc": 1.6210227272727273,
+        "baseBespokestagedcsr": 3.0546038543897214
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.0860606060606064,
+        "baseBespokestagedc": 4.368020304568528,
+        "baseBespokestagedcsr": 4.249382716049383
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.2216216216216216,
+        "baseBespokestagedc": 4.151515151515152,
+        "baseBespokestagedcsr": 4.20460358056266
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8574690150032616,
+        "baseBespokestagedc": 2.9879328436516266,
+        "baseBespokestagedcsr": 2.980115122972266
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1912350597609562,
+        "baseBespokestagedc": 2.8805394990366087,
+        "baseBespokestagedcsr": 3.3938706015891036
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.3265895953757225,
+        "baseBespokestagedc": 2.359897172236504,
+        "baseBespokestagedcsr": 2.615384615384615
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8816137566137563,
+        "baseBespokestagedc": 3.0542136339237786,
+        "baseBespokestagedcsr": 2.9497148781752203
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0273618998451213,
+        "baseBespokestagedc": 3.0615384615384618,
+        "baseBespokestagedcsr": 2.987987987987988
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2046925566343043,
+        "baseBespokestagedc": 1.5583464154892728,
+        "baseBespokestagedcsr": 1.2737382378100943
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0471745290881813,
+        "baseBespokestagedc": 2.7821080602302923,
+        "baseBespokestagedcsr": 2.846397825101948
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1338155515370705,
+        "baseBespokestagedc": 1.9779179810725551,
+        "baseBespokestagedcsr": 2.0557377049180325
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1656891495601174,
+        "baseBespokestagedc": 2.2585227272727275,
+        "baseBespokestagedcsr": 2.5000000000000004
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1330472103004292,
+        "baseBespokestagedc": 1.4505494505494503,
+        "baseBespokestagedcsr": 2.1119999999999997
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.028109627547435,
+        "baseBespokestagedc": 2.991820040899796,
+        "baseBespokestagedcsr": 2.9979508196721314
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0476683937823834,
+        "baseBespokestagedc": 3.1251931993817617,
+        "baseBespokestagedcsr": 3.271844660194175
+      }
+    }
+  },
+  "insert_1": {
+    "prop_DeleteInsert": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0746527777777777,
+        "baseBespokestagedc": 3.6627218934911245,
+        "baseBespokestagedcsr": 3.691848906560636
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2302771855010661,
+        "baseBespokestagedc": 2.1370370370370373,
+        "baseBespokestagedcsr": 2.1291512915129154
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.244309559939302,
+        "baseBespokestagedc": 2.2969187675070026,
+        "baseBespokestagedcsr": 2.336182336182336
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0155189136760427,
+        "baseBespokestagedc": 1.6734150239744274,
+        "baseBespokestagedcsr": 1.6778846153846154
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0694855115316382,
+        "baseBespokestagedc": 2.3133994243684044,
+        "baseBespokestagedcsr": 2.1516954193932185
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0717863105175292,
+        "baseBespokestagedc": 1.9753846153846155,
+        "baseBespokestagedcsr": 1.9337349397590362
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.026181818181818,
+        "baseBespokestagedc": 1.5979614949037373,
+        "baseBespokestagedcsr": 1.62183908045977
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0951492537313432,
+        "baseBespokestagedc": 2.7238979118329465,
+        "baseBespokestagedcsr": 2.775413711583924
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0934906072520751,
+        "baseBespokestagedc": 2.8475540386803186,
+        "baseBespokestagedcsr": 2.8638443935926774
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9753224901850813,
+        "baseBespokestagedc": 3.1908256880733945,
+        "baseBespokestagedcsr": 2.9931153184165233
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.1213235294117645,
+        "baseBespokestagedc": 4.171084337349397,
+        "baseBespokestagedcsr": 4.092198581560283
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0244436952124074,
+        "baseBespokestagedc": 2.958617332035054,
+        "baseBespokestagedcsr": 2.7978821362799264
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0715178447437856,
+        "baseBespokestagedc": 2.310871518418688,
+        "baseBespokestagedcsr": 2.3654199877375843
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1275239107332624,
+        "baseBespokestagedc": 2.785995623632385,
+        "baseBespokestagedcsr": 2.8318505338078293
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.021606648199446,
+        "baseBespokestagedc": 3.0229508196721313,
+        "baseBespokestagedcsr": 3.027914614121511
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.100747597009612,
+        "baseBespokestagedc": 1.677699403147043,
+        "baseBespokestagedcsr": 1.6020725388601036
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1000957854406133,
+        "baseBespokestagedc": 2.401882188915999,
+        "baseBespokestagedcsr": 2.5541141586360268
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.81483913328956,
+        "baseBespokestagedc": 2.740704015865146,
+        "baseBespokestagedcsr": 2.906414300736067
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0880923450789795,
+        "baseBespokestagedc": 3.7944915254237293,
+        "baseBespokestagedcsr": 3.818763326226013
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0517529215358932,
+        "baseBespokestagedc": 3.309982486865149,
+        "baseBespokestagedcsr": 2.957746478873239
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1570605187319885,
+        "baseBespokestagedc": 2.74373576309795,
+        "baseBespokestagedcsr": 2.6946308724832213
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.268976897689769,
+        "baseBespokestagedc": 2.222543352601156,
+        "baseBespokestagedcsr": 2.0783783783783787
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0472267984623833,
+        "baseBespokestagedc": 2.8210059171597637,
+        "baseBespokestagedcsr": 2.961180124223602
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0912515696944327,
+        "baseBespokestagedc": 2.8398692810457518,
+        "baseBespokestagedcsr": 2.7327044025157234
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1376101860920667,
+        "baseBespokestagedc": 2.802171290711701,
+        "baseBespokestagedcsr": 2.8573185731857316
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0475271834444055,
+        "baseBespokestagedc": 2.7768479776847976,
+        "baseBespokestagedcsr": 2.842931937172775
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0576154125772448,
+        "baseBespokestagedc": 2.6117594254937164,
+        "baseBespokestagedcsr": 2.8220174587778857
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2169770463404073,
+        "baseBespokestagedc": 1.5397260273972602,
+        "baseBespokestagedcsr": 3.1256952169076753
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0557393317896129,
+        "baseBespokestagedc": 2.635425268373245,
+        "baseBespokestagedcsr": 2.6673631424989552
+      }
+    },
+    "prop_InsertPost": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1443873179091688,
+        "baseBespokestagedc": 2.8628081457663455,
+        "baseBespokestagedcsr": 2.8175105485232073
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0912884715701616,
+        "baseBespokestagedc": 2.9340813464235627,
+        "baseBespokestagedcsr": 3.071953010279002
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1205593348450493,
+        "baseBespokestagedc": 1.6408411732152741,
+        "baseBespokestagedcsr": 1.5847140566541957
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1387696709585122,
+        "baseBespokestagedc": 2.094736842105263,
+        "baseBespokestagedcsr": 2.128342245989305
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1149425287356323,
+        "baseBespokestagedc": 3.668067226890756,
+        "baseBespokestagedcsr": 3.995423340961098
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1541353383458646,
+        "baseBespokestagedc": 2.0604026845637584,
+        "baseBespokestagedcsr": 2.046666666666667
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.024603608529251,
+        "baseBespokestagedc": 3.1077943615257047,
+        "baseBespokestagedcsr": 3.0924092409240926
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1795407098121085,
+        "baseBespokestagedc": 1.9824561403508771,
+        "baseBespokestagedcsr": 2.1814671814671813
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1732745961820852,
+        "baseBespokestagedc": 2.0861618798955615,
+        "baseBespokestagedcsr": 1.9631449631449631
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.107485604606526,
+        "baseBespokestagedc": 1.831746031746032,
+        "baseBespokestagedcsr": 1.9042904290429046
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9872235872235873,
+        "baseBespokestagedc": 2.8577524893314368,
+        "baseBespokestagedcsr": 2.737057220708447
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1514195583596214,
+        "baseBespokestagedc": 2.0,
+        "baseBespokestagedcsr": 2.134502923976608
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.9800936768149882,
+        "baseBespokestagedc": 4.074698795180723,
+        "baseBespokestagedcsr": 4.175308641975309
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.9238875878220139,
+        "baseBespokestagedc": 3.8120649651972154,
+        "baseBespokestagedcsr": 3.959036144578313
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1421232876712328,
+        "baseBespokestagedc": 1.8579387186629526,
+        "baseBespokestagedcsr": 2.065015479876161
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9525368248772503,
+        "baseBespokestagedc": 3.396887159533074,
+        "baseBespokestagedcsr": 3.563265306122449
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1399682791435368,
+        "baseBespokestagedc": 1.5701802293828508,
+        "baseBespokestagedcsr": 1.6695702671312427
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.071193144363876,
+        "baseBespokestagedc": 1.7159450897571276,
+        "baseBespokestagedcsr": 1.742627345844504
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1142191142191142,
+        "baseBespokestagedc": 3.771203155818541,
+        "baseBespokestagedcsr": 3.669865642994242
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2075637642919965,
+        "baseBespokestagedc": 2.857440166493236,
+        "baseBespokestagedcsr": 2.981541802388708
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.034279778393352,
+        "baseBespokestagedc": 1.5913692061800746,
+        "baseBespokestagedcsr": 1.663140311804009
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.186746987951807,
+        "baseBespokestagedc": 2.2197183098591546,
+        "baseBespokestagedcsr": 1.9650872817955112
+      }
+    }
+  },
+  "insert_2": {
+    "prop_DeleteInsert": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.021058622652248,
+        "baseBespokestagedc": 3.3913043478260874,
+        "baseBespokestagedcsr": 3.5595238095238098
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1933333333333334,
+        "baseBespokestagedc": 1.7959866220735787,
+        "baseBespokestagedcsr": 2.0976562500000004
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1770401106500692,
+        "baseBespokestagedc": 2.0857843137254903,
+        "baseBespokestagedcsr": 2.055555555555556
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.843381389252949,
+        "baseBespokestagedc": 2.785148514851485,
+        "baseBespokestagedcsr": 2.897013388259526
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0241617357001973,
+        "baseBespokestagedc": 2.7916666666666665,
+        "baseBespokestagedcsr": 2.583333333333333
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.3345008756567425,
+        "baseBespokestagedc": 2.45016077170418,
+        "baseBespokestagedcsr": 2.2280701754385963
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.119074706105423,
+        "baseBespokestagedc": 1.5747065101387407,
+        "baseBespokestagedcsr": 1.5806106052490627
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0868066951099444,
+        "baseBespokestagedc": 2.554184342460471,
+        "baseBespokestagedcsr": 2.7804366078925273
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0174291938997821,
+        "baseBespokestagedc": 3.0927152317880795,
+        "baseBespokestagedcsr": 3.0774299835255357
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0128342245989306,
+        "baseBespokestagedc": 2.9733124018838306,
+        "baseBespokestagedcsr": 2.9501557632398754
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.142150803461063,
+        "baseBespokestagedc": 3.842572062084257,
+        "baseBespokestagedcsr": 3.95662100456621
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0158971757145274,
+        "baseBespokestagedc": 2.4659277504105095,
+        "baseBespokestagedcsr": 2.8201877934272304
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1439037153322869,
+        "baseBespokestagedc": 2.7427854454203264,
+        "baseBespokestagedcsr": 2.85378590078329
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0324119776242184,
+        "baseBespokestagedc": 2.2876412686839225,
+        "baseBespokestagedcsr": 2.5110044017607045
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9789372905696505,
+        "baseBespokestagedc": 2.7486559139784945,
+        "baseBespokestagedcsr": 2.741286863270777
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1878198567041967,
+        "baseBespokestagedc": 2.7467455621301777,
+        "baseBespokestagedcsr": 2.5477497255762898
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0611353711790394,
+        "baseBespokestagedc": 1.5960591133004927,
+        "baseBespokestagedcsr": 1.6021978021978023
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.7532864567410578,
+        "baseBespokestagedc": 2.9111675126903553,
+        "baseBespokestagedcsr": 2.7745524915336235
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0984848484848484,
+        "baseBespokestagedc": 3.597328244274809,
+        "baseBespokestagedcsr": 3.785140562248996
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0307529162248144,
+        "baseBespokestagedc": 2.685082872928177,
+        "baseBespokestagedcsr": 2.990769230769231
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1080246913580247,
+        "baseBespokestagedc": 1.9564032697547684,
+        "baseBespokestagedcsr": 1.8845144356955381
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0453091684434968,
+        "baseBespokestagedc": 2.8215827338129498,
+        "baseBespokestagedcsr": 2.9667170953101363
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1406952965235173,
+        "baseBespokestagedc": 1.5572305974316023,
+        "baseBespokestagedcsr": 1.5774886877828054
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2411214953271028,
+        "baseBespokestagedc": 2.8713513513513513,
+        "baseBespokestagedcsr": 2.954393770856507
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1675651392632524,
+        "baseBespokestagedc": 1.5084155542658155,
+        "baseBespokestagedcsr": 1.516336056009335
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0716554888810448,
+        "baseBespokestagedc": 2.5641891891891895,
+        "baseBespokestagedcsr": 2.777676120768527
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0491004497751124,
+        "baseBespokestagedc": 1.3334921391138637,
+        "baseBespokestagedcsr": 1.44129763130793
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0548113933795227,
+        "baseBespokestagedc": 2.181152499204075,
+        "baseBespokestagedcsr": 2.261056105610561
+      }
+    },
+    "prop_InsertDelete": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0755007704160249,
+        "baseBespokestagedc": 1.493447445841134,
+        "baseBespokestagedcsr": 1.5265172225259707
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9613445378151261,
+        "baseBespokestagedc": 1.2790697674418605,
+        "baseBespokestagedcsr": 1.4813535911602211
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.02968347720733,
+        "baseBespokestagedc": 2.2132161458333335,
+        "baseBespokestagedcsr": 2.240197693574959
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0605782469022489,
+        "baseBespokestagedc": 1.4132395658156247,
+        "baseBespokestagedcsr": 1.3638241369135438
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8105640691229214,
+        "baseBespokestagedc": 2.779279279279279,
+        "baseBespokestagedcsr": 2.7233938205002453
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.1736842105263157,
+        "baseBespokestagedc": 3.8779342723004695,
+        "baseBespokestagedcsr": 4.0
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1051876153372975,
+        "baseBespokestagedc": 1.470267321331151,
+        "baseBespokestagedcsr": 1.4905973451327434
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0382304751501912,
+        "baseBespokestagedc": 2.747109826589595,
+        "baseBespokestagedcsr": 2.938176197836167
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1516754850088184,
+        "baseBespokestagedc": 2.0216718266253872,
+        "baseBespokestagedcsr": 2.169435215946844
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.048844537815126,
+        "baseBespokestagedc": 2.8692528735632186,
+        "baseBespokestagedcsr": 2.8692528735632186
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9421620046620046,
+        "baseBespokestagedc": 2.2447066990628253,
+        "baseBespokestagedcsr": 2.406773353181987
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1615256040115483,
+        "baseBespokestagedc": 2.4297520661157024,
+        "baseBespokestagedcsr": 2.5824324324324324
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0347003154574133,
+        "baseBespokestagedc": 2.7422201579191827,
+        "baseBespokestagedcsr": 2.6946599726152445
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0551659654043946,
+        "baseBespokestagedc": 1.4540183604445158,
+        "baseBespokestagedcsr": 1.4049175225645814
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1134751773049645,
+        "baseBespokestagedc": 1.8202898550724638,
+        "baseBespokestagedcsr": 1.8416422287390029
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0596061734965407,
+        "baseBespokestagedc": 1.3324410239250462,
+        "baseBespokestagedcsr": 1.382638888888889
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0704304080491895,
+        "baseBespokestagedc": 2.9416282642089095,
+        "baseBespokestagedcsr": 2.8497023809523814
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.133897461423594,
+        "baseBespokestagedc": 2.812345679012346,
+        "baseBespokestagedcsr": 2.8835443037974686
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1725417439703154,
+        "baseBespokestagedc": 4.077419354838709,
+        "baseBespokestagedcsr": 3.9915789473684207
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0029990003332223,
+        "baseBespokestagedc": 2.7922077922077926,
+        "baseBespokestagedcsr": 2.7044025157232703
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1002178649237473,
+        "baseBespokestagedc": 3.96078431372549,
+        "baseBespokestagedcsr": 4.114052953156823
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0711942257217848,
+        "baseBespokestagedc": 2.481003039513678,
+        "baseBespokestagedcsr": 2.466943709860219
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0694847462944082,
+        "baseBespokestagedc": 1.549130978075656,
+        "baseBespokestagedcsr": 1.5629799426934097
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.123789020452099,
+        "baseBespokestagedc": 2.7509881422924902,
+        "baseBespokestagedcsr": 3.0348837209302326
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.76076851564921,
+        "baseBespokestagedc": 2.758252427184466,
+        "baseBespokestagedcsr": 2.9004594180704446
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1265423995799424,
+        "baseBespokestagedc": 1.5191172999763984,
+        "baseBespokestagedcsr": 1.6434316353887402
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0803668396283335,
+        "baseBespokestagedc": 1.2371148265856016,
+        "baseBespokestagedcsr": 1.394113983182809
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.786687306501548,
+        "baseBespokestagedc": 2.838662075750123,
+        "baseBespokestagedcsr": 2.7758537758537756
+      }
+    },
+    "prop_InsertPost": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.996551724137931,
+        "baseBespokestagedc": 3.642857142857143,
+        "baseBespokestagedcsr": 3.819383259911895
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2837423312883434,
+        "baseBespokestagedc": 2.498507462686567,
+        "baseBespokestagedcsr": 2.4473684210526314
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0532091785833055,
+        "baseBespokestagedc": 1.6324742268041237,
+        "baseBespokestagedcsr": 1.5233285233285232
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0233949945593037,
+        "baseBespokestagedc": 3.2208904109589045,
+        "baseBespokestagedcsr": 3.1989795918367347
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.234215885947047,
+        "baseBespokestagedc": 2.1413427561837457,
+        "baseBespokestagedcsr": 1.9611650485436893
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.065252854812398,
+        "baseBespokestagedc": 3.2326732673267324,
+        "baseBespokestagedcsr": 3.270450751252086
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0418794688457609,
+        "baseBespokestagedc": 2.7932450935645825,
+        "baseBespokestagedcsr": 2.8531468531468525
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1969006381039196,
+        "baseBespokestagedc": 3.1261904761904757,
+        "baseBespokestagedcsr": 3.222085889570552
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0168937329700272,
+        "baseBespokestagedc": 3.2283737024221457,
+        "baseBespokestagedcsr": 3.514124293785311
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.0012594458438286,
+        "baseBespokestagedc": 3.9924623115577886,
+        "baseBespokestagedcsr": 4.192612137203166
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.16078431372549,
+        "baseBespokestagedc": 1.838509316770186,
+        "baseBespokestagedcsr": 1.9667774086378738
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0831292517006803,
+        "baseBespokestagedc": 2.377127500746491,
+        "baseBespokestagedcsr": 2.3757087436586093
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0498063087991145,
+        "baseBespokestagedc": 3.1722408026755855,
+        "baseBespokestagedcsr": 3.276338514680484
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9994992488733099,
+        "baseBespokestagedc": 2.930983847283407,
+        "baseBespokestagedcsr": 2.9702380952380953
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.1043478260869564,
+        "baseBespokestagedc": 3.739514348785872,
+        "baseBespokestagedcsr": 4.091787439613527
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.7775316455696202,
+        "baseBespokestagedc": 2.8834702258726894,
+        "baseBespokestagedcsr": 2.8297229219143576
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0859671302149176,
+        "baseBespokestagedc": 3.9223744292237437,
+        "baseBespokestagedcsr": 3.9860788863109047
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.8634059460200028,
+        "baseBespokestagedc": 2.7293200519705505,
+        "baseBespokestagedcsr": 2.7604029785370128
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2319371727748691,
+        "baseBespokestagedc": 2.801190476190476,
+        "baseBespokestagedcsr": 2.9266169154228856
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0699088145896658,
+        "baseBespokestagedc": 2.0346820809248554,
+        "baseBespokestagedcsr": 2.0346820809248554
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0411478072550082,
+        "baseBespokestagedc": 3.142156862745098,
+        "baseBespokestagedcsr": 3.199667221297837
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0766857646540324,
+        "baseBespokestagedc": 2.5447916666666663,
+        "baseBespokestagedcsr": 2.766704416761042
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1380670611439845,
+        "baseBespokestagedc": 2.9104665825977305,
+        "baseBespokestagedcsr": 2.917825537294564
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1637225333907797,
+        "baseBespokestagedc": 2.8491561181434597,
+        "baseBespokestagedcsr": 3.0145089285714284
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0779282115869018,
+        "baseBespokestagedc": 2.648742746615087,
+        "baseBespokestagedcsr": 2.6163546045089796
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.7979060913705585,
+        "baseBespokestagedc": 2.9136246786632394,
+        "baseBespokestagedcsr": 2.9076449461262186
+      }
+    }
+  },
+  "insert_3": {
+    "prop_InsertDelete": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1240530303030303,
+        "baseBespokestagedc": 1.911731088944306,
+        "baseBespokestagedcsr": 1.9787588728758874
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0634622606083366,
+        "baseBespokestagedc": 1.3832627808531424,
+        "baseBespokestagedcsr": 1.3787731256085687
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1037452017844174,
+        "baseBespokestagedc": 1.497396199859254,
+        "baseBespokestagedcsr": 1.5336600836096295
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.120019686360484,
+        "baseBespokestagedc": 1.9938669852648347,
+        "baseBespokestagedcsr": 2.0617716097681504
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.805921052631579,
+        "baseBespokestagedc": 2.727272727272727,
+        "baseBespokestagedcsr": 2.7797468354430377
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.096876913655848,
+        "baseBespokestagedc": 1.418659908126089,
+        "baseBespokestagedcsr": 1.3327380952380952
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1244323103982359,
+        "baseBespokestagedc": 1.959244350928552,
+        "baseBespokestagedcsr": 2.0355954757152364
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1557343063272245,
+        "baseBespokestagedc": 1.6967372778183587,
+        "baseBespokestagedcsr": 1.7537435510255444
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.010836437521165,
+        "baseBespokestagedc": 1.5727081138040042,
+        "baseBespokestagedcsr": 1.5996784565916398
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0974090114732922,
+        "baseBespokestagedc": 1.6472399635036497,
+        "baseBespokestagedcsr": 1.6576380121657293
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.066421360505708,
+        "baseBespokestagedc": 1.5145383893876458,
+        "baseBespokestagedcsr": 1.5080720480320213
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1095841300191205,
+        "baseBespokestagedc": 1.4467123714552819,
+        "baseBespokestagedcsr": 1.4596761515484986
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0123828055899522,
+        "baseBespokestagedc": 2.7136083451872923,
+        "baseBespokestagedcsr": 2.7876278616658547
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0590592950607098,
+        "baseBespokestagedc": 1.3877046648130986,
+        "baseBespokestagedcsr": 1.4983322214809875
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0719335652564246,
+        "baseBespokestagedc": 1.4346650645839591,
+        "baseBespokestagedcsr": 1.4661550268610897
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0933318946914112,
+        "baseBespokestagedc": 1.473248037220122,
+        "baseBespokestagedcsr": 1.4801343850423605
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1334538878842677,
+        "baseBespokestagedc": 1.9211279117286475,
+        "baseBespokestagedcsr": 2.0098332620778114
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1421458098459225,
+        "baseBespokestagedc": 1.9170039421813405,
+        "baseBespokestagedcsr": 1.9841684347968012
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1421713188395857,
+        "baseBespokestagedc": 1.7037340153452682,
+        "baseBespokestagedcsr": 1.786909871244635
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0640889830508473,
+        "baseBespokestagedc": 1.4303004414068063,
+        "baseBespokestagedcsr": 1.4572754968808936
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1128406855858388,
+        "baseBespokestagedc": 1.6770833333333333,
+        "baseBespokestagedcsr": 1.784536361178697
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0461179217746643,
+        "baseBespokestagedc": 3.3621013133208253,
+        "baseBespokestagedcsr": 3.548514851485148
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1363174722587925,
+        "baseBespokestagedc": 2.0303111768263995,
+        "baseBespokestagedcsr": 2.123356997258733
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.068384539147671,
+        "baseBespokestagedc": 2.1752666474488325,
+        "baseBespokestagedcsr": 2.239833778569308
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0041819132253005,
+        "baseBespokestagedc": 2.6423658872077027,
+        "baseBespokestagedcsr": 2.804379562043796
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.770628078817734,
+        "baseBespokestagedc": 2.741182078169685,
+        "baseBespokestagedcsr": 2.3823529411764706
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0985664082110784,
+        "baseBespokestagedc": 1.7362249845719826,
+        "baseBespokestagedcsr": 1.786465892597968
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1213182385109852,
+        "baseBespokestagedc": 1.7752715121136173,
+        "baseBespokestagedcsr": 1.8581081081081083
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0184455305060696,
+        "baseBespokestagedc": 1.689772430028773,
+        "baseBespokestagedcsr": 2.4894026974951826
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.113054896645205,
+        "baseBespokestagedc": 1.8159640635798202,
+        "baseBespokestagedcsr": 1.9034407823252444
+      }
+    },
+    "prop_InsertInsert": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.0985221674876846,
+        "baseBespokestagedc": 3.470468431771894,
+        "baseBespokestagedcsr": 3.610169491525424
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1763074484944531,
+        "baseBespokestagedc": 1.5651027938850817,
+        "baseBespokestagedcsr": 1.5877005347593582
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0978219335116546,
+        "baseBespokestagedc": 1.5057651991614256,
+        "baseBespokestagedcsr": 1.5257567711099311
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0756611511808796,
+        "baseBespokestagedc": 1.3197987159465556,
+        "baseBespokestagedcsr": 1.3028434395340869
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1116928446771377,
+        "baseBespokestagedc": 1.9361702127659575,
+        "baseBespokestagedcsr": 1.7404371584699452
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0355555555555556,
+        "baseBespokestagedc": 2.737151248164464,
+        "baseBespokestagedcsr": 2.794602698650675
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0316455696202531,
+        "baseBespokestagedc": 2.5173745173745172,
+        "baseBespokestagedcsr": 2.597609561752988
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.029927395077032,
+        "baseBespokestagedc": 2.584888888888889,
+        "baseBespokestagedcsr": 2.4436974789915964
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0435406698564595,
+        "baseBespokestagedc": 2.4314381270903014,
+        "baseBespokestagedcsr": 2.5389988358556463
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1126760563380282,
+        "baseBespokestagedc": 1.9700748129675811,
+        "baseBespokestagedcsr": 1.926829268292683
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0093178621659633,
+        "baseBespokestagedc": 2.5837083708370834,
+        "baseBespokestagedcsr": 2.6940403566400746
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0362400906002265,
+        "baseBespokestagedc": 2.723214285714286,
+        "baseBespokestagedcsr": 2.8864353312302837
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0922121356903967,
+        "baseBespokestagedc": 2.5176211453744495,
+        "baseBespokestagedcsr": 2.5685393258426967
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0178181206925532,
+        "baseBespokestagedc": 2.678018575851393,
+        "baseBespokestagedcsr": 2.8669507575757573
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.151105651105651,
+        "baseBespokestagedc": 1.5080472103004292,
+        "baseBespokestagedcsr": 1.5178185745140391
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0040392383150607,
+        "baseBespokestagedc": 3.169398907103825,
+        "baseBespokestagedcsr": 3.2162661737523104
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1056958308866704,
+        "baseBespokestagedc": 3.480591497227356,
+        "baseBespokestagedcsr": 3.8665297741273097
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0355097365406645,
+        "baseBespokestagedc": 2.9542483660130716,
+        "baseBespokestagedcsr": 3.033557046979866
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.182529335071708,
+        "baseBespokestagedc": 3.206896551724138,
+        "baseBespokestagedcsr": 3.848275862068965
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.208780943484353,
+        "baseBespokestagedc": 1.43141592920354,
+        "baseBespokestagedcsr": 1.461321287408244
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.030857142857143,
+        "baseBespokestagedc": 2.9285714285714284,
+        "baseBespokestagedcsr": 3.0576271186440676
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0692887029288702,
+        "baseBespokestagedc": 2.3671730270470546,
+        "baseBespokestagedcsr": 2.3804023845007447
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0758797653958945,
+        "baseBespokestagedc": 2.7175925925925926,
+        "baseBespokestagedcsr": 2.8467507274490784
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.133186813186813,
+        "baseBespokestagedc": 1.4540327129159616,
+        "baseBespokestagedcsr": 1.4330183435241801
+      }
+    },
+    "prop_InsertPost": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.141756997249636,
+        "baseBespokestagedc": 2.017726440988106,
+        "baseBespokestagedcsr": 2.12797008804728
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0612559393861565,
+        "baseBespokestagedc": 2.138163001293661,
+        "baseBespokestagedcsr": 2.274078150798019
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.081471332209106,
+        "baseBespokestagedc": 1.4843049327354259,
+        "baseBespokestagedcsr": 1.5511715797430081
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1471757396872249,
+        "baseBespokestagedc": 2.1250496053617884,
+        "baseBespokestagedcsr": 2.221331120943953
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.053763440860215,
+        "baseBespokestagedc": 1.7647720877884074,
+        "baseBespokestagedcsr": 1.7568627450980392
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0476718403547671,
+        "baseBespokestagedc": 1.3986186482486436,
+        "baseBespokestagedcsr": 1.3983886879316016
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1352040101935086,
+        "baseBespokestagedc": 2.040521494009866,
+        "baseBespokestagedcsr": 2.1441341373109064
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0830790689564989,
+        "baseBespokestagedc": 1.5967099344557254,
+        "baseBespokestagedcsr": 1.6317310218019436
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1187405159332322,
+        "baseBespokestagedc": 1.6132385120350108,
+        "baseBespokestagedcsr": 1.6841804683038264
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.12890625,
+        "baseBespokestagedc": 1.7083743842364532,
+        "baseBespokestagedcsr": 1.7348674337168586
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0917529802618722,
+        "baseBespokestagedc": 1.563313278298587,
+        "baseBespokestagedcsr": 1.6303808550999563
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0843432488676705,
+        "baseBespokestagedc": 1.3951803433611591,
+        "baseBespokestagedcsr": 1.414338176592687
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.6846497764530552,
+        "baseBespokestagedc": 2.7746686303387333,
+        "baseBespokestagedcsr": 2.5986206896551725
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1265648472709062,
+        "baseBespokestagedc": 1.3785232843137256,
+        "baseBespokestagedcsr": 1.4718678442917894
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0985046285307383,
+        "baseBespokestagedc": 1.4424185756584074,
+        "baseBespokestagedcsr": 1.481196991518643
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1138475316243144,
+        "baseBespokestagedc": 1.5032482248073729,
+        "baseBespokestagedcsr": 1.5423965276701288
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1316195696689033,
+        "baseBespokestagedc": 2.031041501752799,
+        "baseBespokestagedcsr": 2.110269063564799
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1329757660987017,
+        "baseBespokestagedc": 2.002717077118742,
+        "baseBespokestagedcsr": 2.0962725402396227
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1215629522431259,
+        "baseBespokestagedc": 1.7661804922515951,
+        "baseBespokestagedcsr": 1.7752834726835416
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0612747723620781,
+        "baseBespokestagedc": 1.4866446578631451,
+        "baseBespokestagedcsr": 1.519478527607362
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1102596091011703,
+        "baseBespokestagedc": 1.7536830252416253,
+        "baseBespokestagedcsr": 1.8642394014962596
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0303752233472305,
+        "baseBespokestagedc": 3.7204301075268815,
+        "baseBespokestagedcsr": 4.013921113689095
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1408868958644744,
+        "baseBespokestagedc": 2.1327868852459018,
+        "baseBespokestagedcsr": 2.228867344157614
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.016629401900503,
+        "baseBespokestagedc": 2.2460635998765053,
+        "baseBespokestagedcsr": 2.2769953051643195
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0472350230414746,
+        "baseBespokestagedc": 2.990131578947368,
+        "baseBespokestagedcsr": 2.922829581993569
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.7648538195535997,
+        "baseBespokestagedc": 2.6468646864686467,
+        "baseBespokestagedcsr": 2.7902584493041753
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.113859350214441,
+        "baseBespokestagedc": 1.7892600981502456,
+        "baseBespokestagedcsr": 1.870830866390369
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1414034557453026,
+        "baseBespokestagedc": 1.901636592530424,
+        "baseBespokestagedcsr": 1.9455607075390693
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0481247925655492,
+        "baseBespokestagedc": 2.7401301518438177,
+        "baseBespokestagedcsr": 2.724762726488352
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1277451423407139,
+        "baseBespokestagedc": 1.8704189462639584,
+        "baseBespokestagedcsr": 1.9467238689547581
+      }
+    },
+    "prop_UnionDeleteInsert": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1039051603905161,
+        "baseBespokestagedc": 1.8268897864974034,
+        "baseBespokestagedcsr": 1.7796514896008995
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.9780092592592593,
+        "baseBespokestagedc": 3.5237113402061855,
+        "baseBespokestagedcsr": 3.7152173913043476
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0609107037256063,
+        "baseBespokestagedc": 3.4566473988439306,
+        "baseBespokestagedcsr": 3.908496732026144
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2685571309424521,
+        "baseBespokestagedc": 3.342857142857143,
+        "baseBespokestagedcsr": 3.357615894039735
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0548592188919164,
+        "baseBespokestagedc": 2.953713123092574,
+        "baseBespokestagedcsr": 2.6959145775301763
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.060938452163315,
+        "baseBespokestagedc": 4.205314009661836,
+        "baseBespokestagedcsr": 4.011520737327189
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.4889018691588785,
+        "baseBespokestagedc": 4.911368015414258,
+        "baseBespokestagedcsr": 4.9980392156862745
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0003258921297051,
+        "baseBespokestagedc": 2.8395004625346902,
+        "baseBespokestagedcsr": 2.9486071085494716
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.185344827586207,
+        "baseBespokestagedc": 3.0631188118811883,
+        "baseBespokestagedcsr": 3.152866242038217
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1765924391506992,
+        "baseBespokestagedc": 3.182072829131653,
+        "baseBespokestagedcsr": 3.245714285714286
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.169211195928753,
+        "baseBespokestagedc": 4.199507389162561,
+        "baseBespokestagedcsr": 4.178921568627451
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.238356164383562,
+        "baseBespokestagedc": 4.147208121827411,
+        "baseBespokestagedcsr": 4.044554455445544
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0893883951907997,
+        "baseBespokestagedc": 3.0557184750733137,
+        "baseBespokestagedcsr": 3.133834586466165
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1340981012658229,
+        "baseBespokestagedc": 3.2728310502283104,
+        "baseBespokestagedcsr": 3.0402969247083775
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1986062717770036,
+        "baseBespokestagedc": 2.3243243243243246,
+        "baseBespokestagedcsr": 2.4055944055944054
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.806675479180436,
+        "baseBespokestagedc": 2.869816272965879,
+        "baseBespokestagedcsr": 2.93293991416309
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0805763073639274,
+        "baseBespokestagedc": 3.063540090771558,
+        "baseBespokestagedcsr": 2.8164116828929067
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2068965517241381,
+        "baseBespokestagedc": 1.6187253243090807,
+        "baseBespokestagedcsr": 1.6251415628539072
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0899379738111648,
+        "baseBespokestagedc": 2.603292181069959,
+        "baseBespokestagedcsr": 2.7564270152505443
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0716216216216217,
+        "baseBespokestagedc": 2.131720430107527,
+        "baseBespokestagedcsr": 2.3255131964809386
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.18,
+        "baseBespokestagedc": 2.1343669250645996,
+        "baseBespokestagedcsr": 2.353276353276353
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.980213089802131,
+        "baseBespokestagedc": 2.051681415929204,
+        "baseBespokestagedcsr": 2.9922560660815694
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9839034205231386,
+        "baseBespokestagedc": 2.9862595419847326,
+        "baseBespokestagedcsr": 3.201309328968903
+      }
+    }
+  },
+  "union_6": {
+    "prop_DeleteUnion": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2595381526104419,
+        "baseBespokestagedc": 3.499302649930265,
+        "baseBespokestagedcsr": 3.5894134477825466
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1918103448275863,
+        "baseBespokestagedc": 3.873905429071804,
+        "baseBespokestagedcsr": 4.551440329218107
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0812191684284709,
+        "baseBespokestagedc": 3.005386875612145,
+        "baseBespokestagedcsr": 3.1120689655172415
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.985818992989165,
+        "baseBespokestagedc": 2.9716618635926992,
+        "baseBespokestagedcsr": 3.0750497017892644
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0841018582243633,
+        "baseBespokestagedc": 2.404151404151404,
+        "baseBespokestagedcsr": 2.6420664206642064
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1758922068463218,
+        "baseBespokestagedc": 3.86244019138756,
+        "baseBespokestagedcsr": 3.871702637889688
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2,
+        "baseBespokestagedc": 2.185567010309278,
+        "baseBespokestagedcsr": 2.193103448275862
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9545889101338432,
+        "baseBespokestagedc": 3.4371772805507743,
+        "baseBespokestagedcsr": 3.3563025210084034
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0654008438818565,
+        "baseBespokestagedc": 1.5249119275289382,
+        "baseBespokestagedcsr": 1.7334096109839818
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1191615778181216,
+        "baseBespokestagedc": 3.071105072463768,
+        "baseBespokestagedcsr": 3.388805597201399
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1312881411842322,
+        "baseBespokestagedc": 2.9137638062871702,
+        "baseBespokestagedcsr": 3.2912667946257197
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2576632607729898,
+        "baseBespokestagedc": 3.5880861850443604,
+        "baseBespokestagedcsr": 3.9705469845722305
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.215725806451613,
+        "baseBespokestagedc": 2.2754716981132077,
+        "baseBespokestagedcsr": 2.421686746987952
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2260553790285973,
+        "baseBespokestagedc": 3.710164835164835,
+        "baseBespokestagedcsr": 3.659891598915989
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1194514615662217,
+        "baseBespokestagedc": 3.5944380069524913,
+        "baseBespokestagedcsr": 3.4505005561735267
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0688073394495412,
+        "baseBespokestagedc": 3.0172661870503594,
+        "baseBespokestagedcsr": 3.1314086610253855
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8222222222222222,
+        "baseBespokestagedc": 3.0208222103577147,
+        "baseBespokestagedcsr": 2.726746987951807
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.713720717979921,
+        "baseBespokestagedc": 2.9804232804232806,
+        "baseBespokestagedcsr": 3.0042666666666666
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0015259409969481,
+        "baseBespokestagedc": 3.491134751773049,
+        "baseBespokestagedcsr": 3.666666666666666
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0123749788099679,
+        "baseBespokestagedc": 3.091097308488613,
+        "baseBespokestagedcsr": 3.0641354540790147
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1953713670613562,
+        "baseBespokestagedc": 3.6172638436482085,
+        "baseBespokestagedcsr": 3.4921383647798745
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.056127703398558,
+        "baseBespokestagedc": 3.0842105263157897,
+        "baseBespokestagedcsr": 3.0642430278884465
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.9116751269035532,
+        "baseBespokestagedc": 2.952953476215369,
+        "baseBespokestagedcsr": 3.2881257275902214
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0365640307907629,
+        "baseBespokestagedc": 3.0604338842975207,
+        "baseBespokestagedcsr": 3.1004709576138145
+      }
+    },
+    "prop_UnionPost": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.223111555777889,
+        "baseBespokestagedc": 4.486238532110092,
+        "baseBespokestagedcsr": 4.478021978021978
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0085607276618513,
+        "baseBespokestagedc": 4.67741935483871,
+        "baseBespokestagedcsr": 4.784263959390863
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.7605504587155965,
+        "baseBespokestagedc": 5.699999999999999,
+        "baseBespokestagedcsr": 6.210355987055016
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0228891149542219,
+        "baseBespokestagedc": 3.134025974025974,
+        "baseBespokestagedcsr": 3.377939529675252
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0462638441048648,
+        "baseBespokestagedc": 2.9405043341213557,
+        "baseBespokestagedcsr": 3.211273666092943
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2237302977232924,
+        "baseBespokestagedc": 4.635157545605307,
+        "baseBespokestagedcsr": 4.87783595113438
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.162162162162162,
+        "baseBespokestagedc": 2.417670682730924,
+        "baseBespokestagedcsr": 2.4672131147540983
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0303030303030303,
+        "baseBespokestagedc": 4.287610619469027,
+        "baseBespokestagedcsr": 4.636363636363636
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1427466150870407,
+        "baseBespokestagedc": 4.299854439592431,
+        "baseBespokestagedcsr": 4.544615384615385
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0337946572256196,
+        "baseBespokestagedc": 3.0173790511977456,
+        "baseBespokestagedcsr": 3.2977412731006157
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0562120189061446,
+        "baseBespokestagedc": 3.2419689119170987,
+        "baseBespokestagedcsr": 3.2776322682032477
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1980246913580248,
+        "baseBespokestagedc": 3.9770491803278696,
+        "baseBespokestagedcsr": 4.710679611650486
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.288421052631579,
+        "baseBespokestagedc": 2.7443946188340806,
+        "baseBespokestagedcsr": 2.9004739336492893
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1343719571567674,
+        "baseBespokestagedc": 4.515503875968992,
+        "baseBespokestagedcsr": 4.4045368620037815
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1846758349705304,
+        "baseBespokestagedc": 4.5406626506024095,
+        "baseBespokestagedcsr": 4.894480519480519
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.109648331830478,
+        "baseBespokestagedc": 3.2903743315508023,
+        "baseBespokestagedcsr": 3.4126455906821964
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8251165889407064,
+        "baseBespokestagedc": 6.84019975031211,
+        "baseBespokestagedcsr": 6.755856966707769
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1052977953274103,
+        "baseBespokestagedc": 3.267509727626459,
+        "baseBespokestagedcsr": 3.522810697430519
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0074191838897721,
+        "baseBespokestagedc": 3.8954918032786883,
+        "baseBespokestagedcsr": 4.4312354312354305
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0632279534109816,
+        "baseBespokestagedc": 3.380952380952381,
+        "baseBespokestagedcsr": 3.0854659584741673
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1224382553862322,
+        "baseBespokestagedc": 4.487394957983192,
+        "baseBespokestagedcsr": 4.487394957983192
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0429222144358794,
+        "baseBespokestagedc": 3.26013143483023,
+        "baseBespokestagedcsr": 2.9602187966185975
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9987503905029679,
+        "baseBespokestagedc": 4.046835443037975,
+        "baseBespokestagedcsr": 4.361527967257844
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.7510153077163386,
+        "baseBespokestagedc": 5.538537549407113,
+        "baseBespokestagedcsr": 6.159340659340659
+      }
+    }
+  },
+  "union_7": {
+    "prop_DeleteUnion": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.085561497326203,
+        "baseBespokestagedc": 2.7560861423220975,
+        "baseBespokestagedcsr": 3.0741514360313316
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9767441860465115,
+        "baseBespokestagedc": 3.6660341555977225,
+        "baseBespokestagedcsr": 3.597765363128491
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0880854560394413,
+        "baseBespokestagedc": 3.1113721804511276,
+        "baseBespokestagedcsr": 2.9891647855530477
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.103303209722655,
+        "baseBespokestagedc": 3.347990543735224,
+        "baseBespokestagedcsr": 3.454146341463414
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1671371267270836,
+        "baseBespokestagedc": 2.9064002959674435,
+        "baseBespokestagedcsr": 2.9589453860640305
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.118179500254972,
+        "baseBespokestagedc": 2.5980450236966823,
+        "baseBespokestagedcsr": 2.675716900549115
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0545356371490282,
+        "baseBespokestagedc": 3.5252707581227436,
+        "baseBespokestagedcsr": 3.408376963350785
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0905898876404494,
+        "baseBespokestagedc": 1.6451271186440677,
+        "baseBespokestagedcsr": 1.7313266443701225
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0650067294751009,
+        "baseBespokestagedc": 2.4437924644842495,
+        "baseBespokestagedcsr": 2.5910281597904388
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1389005455308434,
+        "baseBespokestagedc": 3.204250295159386,
+        "baseBespokestagedcsr": 3.461734693877551
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0942467827403484,
+        "baseBespokestagedc": 3.043157894736842,
+        "baseBespokestagedcsr": 3.152671755725191
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.037467476149176,
+        "baseBespokestagedc": 2.977103036336486,
+        "baseBespokestagedcsr": 3.0115810674723065
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8406201550387598,
+        "baseBespokestagedc": 2.7506950880444854,
+        "baseBespokestagedcsr": 3.14406779661017
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0388989615955166,
+        "baseBespokestagedc": 2.8807129798903106,
+        "baseBespokestagedcsr": 2.8728350045578845
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1645569620253164,
+        "baseBespokestagedc": 2.084985835694051,
+        "baseBespokestagedcsr": 2.1710914454277286
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0817438692098091,
+        "baseBespokestagedc": 3.5008818342151673,
+        "baseBespokestagedcsr": 3.6759259259259256
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.1843640606767796,
+        "baseBespokestagedc": 4.313364055299539,
+        "baseBespokestagedcsr": 4.8877284595300265
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0694444444444444,
+        "baseBespokestagedc": 3.3,
+        "baseBespokestagedcsr": 3.3329633740288567
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.204686118479222,
+        "baseBespokestagedc": 3.385093167701863,
+        "baseBespokestagedcsr": 3.687415426251692
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0828632561758413,
+        "baseBespokestagedc": 2.997845988152935,
+        "baseBespokestagedcsr": 2.796082370668006
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.759697256385998,
+        "baseBespokestagedc": 2.6407950780880265,
+        "baseBespokestagedcsr": 3.0211153221440172
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0389294403892944,
+        "baseBespokestagedc": 4.145631067961165,
+        "baseBespokestagedcsr": 4.390745501285347
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1038425741257811,
+        "baseBespokestagedc": 2.5798632691112493,
+        "baseBespokestagedcsr": 2.481171548117155
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1346568839015967,
+        "baseBespokestagedc": 3.1522781774580335,
+        "baseBespokestagedcsr": 3.514705882352941
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2224554039874083,
+        "baseBespokestagedc": 3.8833333333333337,
+        "baseBespokestagedcsr": 3.7824675324675323
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1749469214437367,
+        "baseBespokestagedc": 3.382640586797066,
+        "baseBespokestagedcsr": 3.5383631713554986
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0999476713762428,
+        "baseBespokestagedc": 3.5209380234505865,
+        "baseBespokestagedcsr": 3.568760611205433
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2282891315652626,
+        "baseBespokestagedc": 3.650695517774343,
+        "baseBespokestagedcsr": 3.6848673946957877
+      }
+    },
+    "prop_UnionPost": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8766108247422681,
+        "baseBespokestagedc": 5.980492813141684,
+        "baseBespokestagedcsr": 6.559684684684685
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0588565022421526,
+        "baseBespokestagedc": 4.831202046035806,
+        "baseBespokestagedcsr": 4.806615776081425
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9759803921568628,
+        "baseBespokestagedc": 3.120689655172414,
+        "baseBespokestagedcsr": 3.1321447299423175
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0626531326566329,
+        "baseBespokestagedc": 3.1396070320579113,
+        "baseBespokestagedcsr": 3.314410480349345
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1055406346364272,
+        "baseBespokestagedc": 2.8950247460276115,
+        "baseBespokestagedcsr": 2.9844253490870036
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0924196649272178,
+        "baseBespokestagedc": 3.1049960967993755,
+        "baseBespokestagedcsr": 3.2844756399669692
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9886055344546935,
+        "baseBespokestagedc": 4.2669789227166275,
+        "baseBespokestagedcsr": 4.2078521939953815
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0568820224719102,
+        "baseBespokestagedc": 4.0079893475366175,
+        "baseBespokestagedcsr": 4.3
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1199474682620751,
+        "baseBespokestagedc": 3.020464384100748,
+        "baseBespokestagedcsr": 3.1250000000000004
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1064121493355832,
+        "baseBespokestagedc": 2.9133574007220218,
+        "baseBespokestagedcsr": 2.952716014635519
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.9533546325878592,
+        "baseBespokestagedc": 6.711306256860592,
+        "baseBespokestagedcsr": 6.808463251670378
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0208002119766826,
+        "baseBespokestagedc": 3.3239861949956855,
+        "baseBespokestagedcsr": 3.4198845983133603
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.9180275376240794,
+        "baseBespokestagedc": 6.510869565217391,
+        "baseBespokestagedcsr": 6.002004008016032
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0581574884199691,
+        "baseBespokestagedc": 3.449664429530201,
+        "baseBespokestagedcsr": 3.3196986006458555
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.258347978910369,
+        "baseBespokestagedc": 2.3171521035598706,
+        "baseBespokestagedcsr": 2.3475409836065575
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0687229437229437,
+        "baseBespokestagedc": 4.840686274509804,
+        "baseBespokestagedcsr": 4.603729603729604
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0854243795420264,
+        "baseBespokestagedc": 3.1714743589743586,
+        "baseBespokestagedcsr": 3.2283849918433924
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1389440254069074,
+        "baseBespokestagedc": 4.393568147013783,
+        "baseBespokestagedcsr": 4.642394822006473
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.094381035996488,
+        "baseBespokestagedc": 3.9321766561514195,
+        "baseBespokestagedcsr": 4.134328358208955
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1776732774483745,
+        "baseBespokestagedc": 7.067484662576688,
+        "baseBespokestagedcsr": 7.227101631116688
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0253452724237364,
+        "baseBespokestagedc": 3.1688555347091927,
+        "baseBespokestagedcsr": 3.3763118440779607
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1020313942751616,
+        "baseBespokestagedc": 3.2373417721518987,
+        "baseBespokestagedcsr": 2.7831325301204815
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1171996055782505,
+        "baseBespokestagedc": 3.342182890855457,
+        "baseBespokestagedcsr": 3.4602966841186737
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0915186661833998,
+        "baseBespokestagedc": 3.2451508620689653,
+        "baseBespokestagedcsr": 3.333148865522966
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0162778079218666,
+        "baseBespokestagedc": 3.934873949579832,
+        "baseBespokestagedcsr": 3.9514767932489456
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1237553342816502,
+        "baseBespokestagedc": 3.4994462901439642,
+        "baseBespokestagedcsr": 3.3670751198721365
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2654287274713272,
+        "baseBespokestagedc": 5.218468468468468,
+        "baseBespokestagedcsr": 5.543062200956937
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1239074550128536,
+        "baseBespokestagedc": 4.163809523809524,
+        "baseBespokestagedcsr": 4.3545816733067735
+      }
+    }
+  },
+  "union_8": {
+    "prop_DeleteUnion": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.16147859922179,
+        "baseBespokestagedc": 2.451795226283902,
+        "baseBespokestagedcsr": 2.6244613710554954
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1605951989946734,
+        "baseBespokestagedc": 2.5755981619394706,
+        "baseBespokestagedcsr": 2.7284721522811965
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1438118427187485,
+        "baseBespokestagedc": 1.99197040779502,
+        "baseBespokestagedcsr": 2.0923995451099318
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1650691681570975,
+        "baseBespokestagedc": 2.6994063224125973,
+        "baseBespokestagedcsr": 2.9150669418619515
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1499550788162587,
+        "baseBespokestagedc": 2.3538032878239066,
+        "baseBespokestagedcsr": 2.5036453085175743
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.099574681010758,
+        "baseBespokestagedc": 1.969086021505376,
+        "baseBespokestagedcsr": 1.9981814048647417
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1581344221105527,
+        "baseBespokestagedc": 2.5301039486774846,
+        "baseBespokestagedcsr": 2.7255257030932407
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1601782363977486,
+        "baseBespokestagedc": 2.1950894838041712,
+        "baseBespokestagedcsr": 2.346588663135426
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1473009613014542,
+        "baseBespokestagedc": 2.39471111797088,
+        "baseBespokestagedcsr": 2.5170884706900276
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0395003376097234,
+        "baseBespokestagedc": 1.4903194578896417,
+        "baseBespokestagedcsr": 1.6843544857768054
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1572021696912878,
+        "baseBespokestagedc": 2.2055520102105937,
+        "baseBespokestagedcsr": 2.393089599778424
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1469144778696718,
+        "baseBespokestagedc": 2.143075486117008,
+        "baseBespokestagedcsr": 2.2365086397873286
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1057975279576222,
+        "baseBespokestagedc": 1.761396929567561,
+        "baseBespokestagedcsr": 1.8910417715148464
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0486363636363636,
+        "baseBespokestagedc": 2.8458059210526314,
+        "baseBespokestagedcsr": 3.1444797819173105
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0564742589703588,
+        "baseBespokestagedc": 1.5165721110779338,
+        "baseBespokestagedcsr": 1.7072268907563024
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1625219519740855,
+        "baseBespokestagedc": 2.6623877300102112,
+        "baseBespokestagedcsr": 2.813787027860368
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1707248297545363,
+        "baseBespokestagedc": 2.7108484868270706,
+        "baseBespokestagedcsr": 2.9035596894887754
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.142403628117914,
+        "baseBespokestagedc": 1.808067757680161,
+        "baseBespokestagedcsr": 1.8734196043432991
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1693837728960785,
+        "baseBespokestagedc": 2.4809258847095483,
+        "baseBespokestagedcsr": 2.6274750141429375
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1399269803503302,
+        "baseBespokestagedc": 2.199984165940939,
+        "baseBespokestagedcsr": 2.3491419393017163
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1702063071372695,
+        "baseBespokestagedc": 2.6277332074878084,
+        "baseBespokestagedcsr": 2.831111236653296
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1194221705331455,
+        "baseBespokestagedc": 1.9632850241545892,
+        "baseBespokestagedcsr": 2.029744728079911
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1624699803507752,
+        "baseBespokestagedc": 2.5092879864902016,
+        "baseBespokestagedcsr": 2.6819173942243117
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0835201793721974,
+        "baseBespokestagedc": 3.54029304029304,
+        "baseBespokestagedcsr": 3.7316602316602316
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1325503355704696,
+        "baseBespokestagedc": 1.8865727262140446,
+        "baseBespokestagedcsr": 1.9840783833435394
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1674558484770923,
+        "baseBespokestagedc": 2.6577269195908326,
+        "baseBespokestagedcsr": 2.9022765032344724
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.133322739551883,
+        "baseBespokestagedc": 2.203274637009577,
+        "baseBespokestagedcsr": 2.3331970229819254
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1567502265176683,
+        "baseBespokestagedc": 2.4965371139900596,
+        "baseBespokestagedcsr": 2.6605305431337647
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1489472046468208,
+        "baseBespokestagedc": 2.2529491525423726,
+        "baseBespokestagedcsr": 2.4160971353787986
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1165306224648204,
+        "baseBespokestagedc": 2.0773315941488866,
+        "baseBespokestagedcsr": 2.148804934464148
+      }
+    },
+    "prop_InsertUnion": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.186046511627907,
+        "baseBespokestagedc": 1.7790697674418605,
+        "baseBespokestagedcsr": 1.8888888888888888
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1264308012486992,
+        "baseBespokestagedc": 2.9177897574123985,
+        "baseBespokestagedcsr": 3.1652046783625725
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0817275747508306,
+        "baseBespokestagedc": 2.8325358851674647,
+        "baseBespokestagedcsr": 2.6547085201793723
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1267946722020412,
+        "baseBespokestagedc": 2.994942528735632,
+        "baseBespokestagedcsr": 3.3319693094629153
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1344709897610923,
+        "baseBespokestagedc": 1.786136485760344,
+        "baseBespokestagedcsr": 1.8374792703150913
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.1187270501835984,
+        "baseBespokestagedc": 4.284653465346534,
+        "baseBespokestagedcsr": 4.316708229426434
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.100486223662885,
+        "baseBespokestagedc": 2.4202851587815943,
+        "baseBespokestagedcsr": 2.4838709677419355
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1215127092374457,
+        "baseBespokestagedc": 3.729896907216495,
+        "baseBespokestagedcsr": 3.760914760914761
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.156040268456376,
+        "baseBespokestagedc": 3.0406001765225072,
+        "baseBespokestagedcsr": 3.0758928571428577
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0741138560687433,
+        "baseBespokestagedc": 2.4154589371980677,
+        "baseBespokestagedcsr": 2.3720772619451034
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.16751269035533,
+        "baseBespokestagedc": 4.095923261390888,
+        "baseBespokestagedcsr": 4.447916666666667
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0125984251968505,
+        "baseBespokestagedc": 2.7207334273624824,
+        "baseBespokestagedcsr": 3.157119476268412
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0200254291163382,
+        "baseBespokestagedc": 2.5868601370415156,
+        "baseBespokestagedcsr": 2.6786310517529213
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1052848885218827,
+        "baseBespokestagedc": 3.123687281213536,
+        "baseBespokestagedcsr": 3.3504380475594493
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0875155537121526,
+        "baseBespokestagedc": 2.3793103448275863,
+        "baseBespokestagedcsr": 2.4596622889305815
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2483141610472037,
+        "baseBespokestagedc": 1.754180602006689,
+        "baseBespokestagedcsr": 1.8732142857142857
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0992626205331821,
+        "baseBespokestagedc": 4.012422360248448,
+        "baseBespokestagedcsr": 4.029106029106029
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0214129151913676,
+        "baseBespokestagedc": 2.857547169811321,
+        "baseBespokestagedcsr": 3.006451612903226
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1351931330472103,
+        "baseBespokestagedc": 1.7231270358306188,
+        "baseBespokestagedcsr": 1.8960573476702507
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2053358742258218,
+        "baseBespokestagedc": 3.1004901960784315,
+        "baseBespokestagedcsr": 3.2311621966794384
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0504409550440954,
+        "baseBespokestagedc": 1.518029219769972,
+        "baseBespokestagedcsr": 1.5473700887198987
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.291113791716928,
+        "baseBespokestagedc": 1.8866039952996474,
+        "baseBespokestagedcsr": 1.9045077105575325
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0432372505543237,
+        "baseBespokestagedc": 3.189830508474576,
+        "baseBespokestagedcsr": 3.1366666666666667
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9621826039978391,
+        "baseBespokestagedc": 3.5979797979797983,
+        "baseBespokestagedcsr": 3.940265486725664
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1050420168067228,
+        "baseBespokestagedc": 2.3002915451895043,
+        "baseBespokestagedcsr": 2.3765060240963853
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.049774540409296,
+        "baseBespokestagedc": 3.0265,
+        "baseBespokestagedcsr": 3.0204590818363273
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.7249842668344872,
+        "baseBespokestagedc": 2.7700859019706923,
+        "baseBespokestagedcsr": 2.8084016393442623
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0529039677975847,
+        "baseBespokestagedc": 3.684104627766599,
+        "baseBespokestagedcsr": 3.721544715447154
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.034839412084921,
+        "baseBespokestagedc": 3.3468309859154926,
+        "baseBespokestagedcsr": 3.2440273037542657
+      }
+    },
+    "prop_UnionDeleteInsert": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.163471700442024,
+        "baseBespokestagedc": 2.501816372231899,
+        "baseBespokestagedcsr": 2.6714963865665298
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1522668306363322,
+        "baseBespokestagedc": 2.409886456307634,
+        "baseBespokestagedcsr": 2.4923605929866675
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1630937449750762,
+        "baseBespokestagedc": 2.5316682533460266,
+        "baseBespokestagedcsr": 2.651728891104789
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1320324844743321,
+        "baseBespokestagedc": 2.07517682721455,
+        "baseBespokestagedcsr": 2.2059434300035803
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1581297510407416,
+        "baseBespokestagedc": 2.5120418562080786,
+        "baseBespokestagedcsr": 2.6838840562788255
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.10581946300571,
+        "baseBespokestagedc": 1.8468093740488996,
+        "baseBespokestagedcsr": 1.88135593220339
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1576002944423998,
+        "baseBespokestagedc": 2.462445847904379,
+        "baseBespokestagedcsr": 2.6253756260434056
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0604441650953278,
+        "baseBespokestagedc": 1.5176911544227887,
+        "baseBespokestagedcsr": 1.5559483553642792
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1634403068085601,
+        "baseBespokestagedc": 2.5558939382887154,
+        "baseBespokestagedcsr": 2.7283433910842905
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.164856663123681,
+        "baseBespokestagedc": 2.3842540042880564,
+        "baseBespokestagedcsr": 2.566139541197231
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1431508305961862,
+        "baseBespokestagedc": 2.244559922052615,
+        "baseBespokestagedcsr": 2.3710728814390043
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0914826498422714,
+        "baseBespokestagedc": 1.605568445475638,
+        "baseBespokestagedcsr": 1.6526030886801466
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1609254011844319,
+        "baseBespokestagedc": 2.504053671872545,
+        "baseBespokestagedcsr": 2.6804298832789533
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1364584963739761,
+        "baseBespokestagedc": 2.25480047616583,
+        "baseBespokestagedcsr": 2.3934183056806946
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.143203245862401,
+        "baseBespokestagedc": 2.193503220386446,
+        "baseBespokestagedcsr": 2.292227554723165
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.150201835338707,
+        "baseBespokestagedc": 2.407362129856017,
+        "baseBespokestagedcsr": 2.5620157279981495
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0843341339738457,
+        "baseBespokestagedc": 2.380199179847686,
+        "baseBespokestagedcsr": 2.4119916889284654
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1581623241872263,
+        "baseBespokestagedc": 2.4376152576919345,
+        "baseBespokestagedcsr": 2.5964436173787186
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0882958640810023,
+        "baseBespokestagedc": 1.6960417223856645,
+        "baseBespokestagedcsr": 1.6994506230738309
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1879406146058589,
+        "baseBespokestagedc": 2.519310656850245,
+        "baseBespokestagedcsr": 2.696484779115582
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1562298933129833,
+        "baseBespokestagedc": 2.383466995681678,
+        "baseBespokestagedcsr": 2.5446881380491337
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1546062086806552,
+        "baseBespokestagedc": 2.148492344721535,
+        "baseBespokestagedcsr": 2.235633783219702
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.135315440382539,
+        "baseBespokestagedc": 2.071122054168132,
+        "baseBespokestagedcsr": 2.1959424181397775
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1529299398842634,
+        "baseBespokestagedc": 2.4077202862841727,
+        "baseBespokestagedcsr": 2.561762686474003
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1625808648280558,
+        "baseBespokestagedc": 2.522333312105967,
+        "baseBespokestagedcsr": 2.7063284911925876
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1418586179507546,
+        "baseBespokestagedc": 2.2138493917150046,
+        "baseBespokestagedcsr": 2.2890504750278646
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1615608989375368,
+        "baseBespokestagedc": 2.3746215164061053,
+        "baseBespokestagedcsr": 2.5721026739399617
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1618415478039825,
+        "baseBespokestagedc": 2.4756755672357413,
+        "baseBespokestagedcsr": 2.6306196840826246
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1503580920692245,
+        "baseBespokestagedc": 2.2700884814028908,
+        "baseBespokestagedcsr": 2.4599765716516986
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1597569316567582,
+        "baseBespokestagedc": 2.4327217547247897,
+        "baseBespokestagedcsr": 2.564166690900631
+      }
+    },
+    "prop_UnionModel": {
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.235202492211838,
+        "baseBespokestagedc": 2.2657142857142856,
+        "baseBespokestagedcsr": 2.0813648293963256
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1894904458598727,
+        "baseBespokestagedc": 2.4735099337748343,
+        "baseBespokestagedcsr": 2.3126934984520124
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0813539192399049,
+        "baseBespokestagedc": 3.8498942917547567,
+        "baseBespokestagedcsr": 4.064732142857142
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1680427391937833,
+        "baseBespokestagedc": 3.185430463576159,
+        "baseBespokestagedcsr": 3.354253835425384
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1104166666666668,
+        "baseBespokestagedc": 3.3054263565891477,
+        "baseBespokestagedcsr": 3.3841269841269845
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2879512831665942,
+        "baseBespokestagedc": 3.525,
+        "baseBespokestagedcsr": 3.7151819322459225
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1239422598307616,
+        "baseBespokestagedc": 3.1847672778561353,
+        "baseBespokestagedcsr": 3.5615141955835963
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1386742578283855,
+        "baseBespokestagedc": 1.710445937690898,
+        "baseBespokestagedcsr": 1.5659955257270692
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2104300091491307,
+        "baseBespokestagedc": 3.4999999999999996,
+        "baseBespokestagedcsr": 3.375
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.9557157569515964,
+        "baseBespokestagedc": 3.1844605925097818,
+        "baseBespokestagedcsr": 3.135388002201431
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2025373810602626,
+        "baseBespokestagedc": 3.5624161073825507,
+        "baseBespokestagedcsr": 3.376590330788804
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1661049590755899,
+        "baseBespokestagedc": 3.170157068062827,
+        "baseBespokestagedcsr": 3.2336448598130842
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1582644628099175,
+        "baseBespokestagedc": 1.6488235294117648,
+        "baseBespokestagedcsr": 1.7185775597792765
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.015882019285309,
+        "baseBespokestagedc": 3.3728813559322033,
+        "baseBespokestagedcsr": 3.3539325842696632
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0896249391134922,
+        "baseBespokestagedc": 3.0518417462482943,
+        "baseBespokestagedcsr": 3.2048710601719193
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.8904933814681106,
+        "baseBespokestagedc": 4.363888888888888,
+        "baseBespokestagedcsr": 4.425352112676056
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.420401854714065,
+        "baseBespokestagedc": 4.526011560693641,
+        "baseBespokestagedcsr": 4.9245283018867925
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0875299760191846,
+        "baseBespokestagedc": 1.6091070372560614,
+        "baseBespokestagedcsr": 1.6167557932263814
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.936272160996646,
+        "baseBespokestagedc": 3.0388802488335926,
+        "baseBespokestagedcsr": 3.0483619344773794
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0595369349503858,
+        "baseBespokestagedc": 3.198003327787022,
+        "baseBespokestagedcsr": 3.3778558875219686
+      }
+    },
+    "prop_UnionPost": {
+      "42": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9920976015527521,
+        "baseBespokestagedc": 3.198927134555208,
+        "baseBespokestagedcsr": 3.1621741051701284
+      },
+      "666": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1078998073217725,
+        "baseBespokestagedc": 1.8449197860962567,
+        "baseBespokestagedcsr": 1.996527777777778
+      },
+      "777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.112139645596403,
+        "baseBespokestagedc": 1.8680586406041757,
+        "baseBespokestagedcsr": 1.909049636803874
+      },
+      "1729": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1293400781788918,
+        "baseBespokestagedc": 2.2325,
+        "baseBespokestagedcsr": 2.3357508025205087
+      },
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.125655717859737,
+        "baseBespokestagedc": 1.9412665274878218,
+        "baseBespokestagedcsr": 2.0418679549114334
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0822093023255812,
+        "baseBespokestagedc": 2.6440340909090905,
+        "baseBespokestagedcsr": 2.629838937552981
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1367351006577635,
+        "baseBespokestagedc": 2.052177042101475,
+        "baseBespokestagedcsr": 2.1572311183961665
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0881690845422711,
+        "baseBespokestagedc": 2.8185941043083904,
+        "baseBespokestagedcsr": 2.794155427103404
+      },
+      "31337": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1125512166569114,
+        "baseBespokestagedc": 1.8652740782279549,
+        "baseBespokestagedcsr": 2.016825829922692
+      },
+      "31415": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.137466307277628,
+        "baseBespokestagedc": 2.8669976482884767,
+        "baseBespokestagedcsr": 3.0002734481815696
+      },
+      "54321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1008002246244561,
+        "baseBespokestagedc": 2.9745827010622157,
+        "baseBespokestagedcsr": 3.160419185812173
+      },
+      "101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.146201435288295,
+        "baseBespokestagedc": 2.311046801716395,
+        "baseBespokestagedcsr": 2.4385595451195115
+      },
+      "112358": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0049454545454546,
+        "baseBespokestagedc": 3.162013729977117,
+        "baseBespokestagedcsr": 3.2806267806267813
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1653024955570574,
+        "baseBespokestagedc": 2.738851629603483,
+        "baseBespokestagedcsr": 2.937780021455165
+      },
+      "271828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1670546541120879,
+        "baseBespokestagedc": 2.58834861678354,
+        "baseBespokestagedcsr": 2.677481068154643
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.152328301084414,
+        "baseBespokestagedc": 2.4491142443962404,
+        "baseBespokestagedcsr": 2.608741696351208
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.070287995437696,
+        "baseBespokestagedc": 3.0716039279869065,
+        "baseBespokestagedcsr": 3.2385677308024157
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1711812458581843,
+        "baseBespokestagedc": 2.4724140946052287,
+        "baseBespokestagedcsr": 2.627729764891739
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.118802279064129,
+        "baseBespokestagedc": 2.4610666666666665,
+        "baseBespokestagedcsr": 2.9049417689644317
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1341935483870969,
+        "baseBespokestagedc": 2.8148471615720525,
+        "baseBespokestagedcsr": 2.8648888888888893
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1524487880293746,
+        "baseBespokestagedc": 2.29261862917399,
+        "baseBespokestagedcsr": 2.426694570398791
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1620039327851268,
+        "baseBespokestagedc": 2.3583673469387754,
+        "baseBespokestagedcsr": 2.5448761867475773
+      },
+      "123581321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1403704676826065,
+        "baseBespokestagedc": 2.1649831649831652,
+        "baseBespokestagedcsr": 2.265857478465153
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1083817573516463,
+        "baseBespokestagedc": 1.8570585632099128,
+        "baseBespokestagedcsr": 1.9379618226600985
+      },
+      "987654321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.131118410424856,
+        "baseBespokestagedc": 2.274853801169591,
+        "baseBespokestagedcsr": 2.399040657834628
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1821654428929163,
+        "baseBespokestagedc": 2.878714278331869,
+        "baseBespokestagedcsr": 3.0166793025018954
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0692733215991954,
+        "baseBespokestagedc": 2.6812736443883987,
+        "baseBespokestagedcsr": 3.132596685082873
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1490730900932813,
+        "baseBespokestagedc": 2.2026935264825713,
+        "baseBespokestagedcsr": 2.3600097004971503
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0461896929824561,
+        "baseBespokestagedc": 3.135990139687757,
+        "baseBespokestagedcsr": 3.3129340277777777
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1626101187367248,
+        "baseBespokestagedc": 2.5729367342220852,
+        "baseBespokestagedcsr": 2.7066309987029835
+      }
+    },
+    "prop_UnionUnionAssoc": {
+      "1984": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.4074074074074074,
+        "baseBespokestagedc": 2.7844827586206895,
+        "baseBespokestagedcsr": 2.796536796536796
+      },
+      "2001": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.234251968503937,
+        "baseBespokestagedc": 2.3749999999999996,
+        "baseBespokestagedcsr": 2.2717391304347827
+      },
+      "6174": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0419161676646707,
+        "baseBespokestagedc": 4.089743589743589,
+        "baseBespokestagedcsr": 3.8666666666666667
+      },
+      "12345": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.063778580024067,
+        "baseBespokestagedc": 5.2607361963190185,
+        "baseBespokestagedcsr": 5.586319218241043
+      },
+      "123321": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.242627345844504,
+        "baseBespokestagedc": 5.039156626506024,
+        "baseBespokestagedcsr": 5.2281249999999995
+      },
+      "999999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1385927505330489,
+        "baseBespokestagedc": 2.1532258064516125,
+        "baseBespokestagedcsr": 2.4608294930875574
+      },
+      "1618033": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0294280955024986,
+        "baseBespokestagedc": 4.175675675675675,
+        "baseBespokestagedcsr": 4.566502463054187
+      },
+      "3141592": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.25,
+        "baseBespokestagedc": 2.382978723404255,
+        "baseBespokestagedcsr": 2.745098039215686
+      },
+      "7777777": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1882352941176468,
+        "baseBespokestagedc": 2.006622516556291,
+        "baseBespokestagedcsr": 2.269662921348315
+      },
+      "8008135": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 2.29331514324693,
+        "baseBespokestagedc": 4.900874635568513,
+        "baseBespokestagedcsr": 5.511475409836065
+      },
+      "8675309": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 0.9708588957055216,
+        "baseBespokestagedc": 4.395833333333334,
+        "baseBespokestagedcsr": 4.426573426573427
+      },
+      "12121212": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1707717569786535,
+        "baseBespokestagedc": 2.425170068027211,
+        "baseBespokestagedcsr": 2.3
+      },
+      "867530999": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.0883668903803132,
+        "baseBespokestagedc": 3.7640232108317218,
+        "baseBespokestagedcsr": 4.028985507246377
+      },
+      "1010101010": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1926770708283314,
+        "baseBespokestagedc": 5.341397849462366,
+        "baseBespokestagedcsr": 5.550279329608939
+      },
+      "1234567890": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2147239263803682,
+        "baseBespokestagedc": 2.4444444444444446,
+        "baseBespokestagedcsr": 2.2247191011235956
+      },
+      "2718281828": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1288201160541587,
+        "baseBespokestagedc": 3.8243774574049803,
+        "baseBespokestagedcsr": 4.115655853314528
+      },
+      "9876543210": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.1798063623789765,
+        "baseBespokestagedc": 2.699367088607595,
+        "baseBespokestagedcsr": 2.93127147766323
+      },
+      "314159265359": {
+        "baseBespoke": 1.0,
+        "baseBespokestaged": 1.2674650698602794,
+        "baseBespokestagedc": 2.2359154929577465,
+        "baseBespokestagedcsr": 2.4053030303030303
+      }
+    }
+  }
+}

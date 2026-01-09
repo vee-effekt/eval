@@ -1,5 +1,20 @@
+#!/usr/bin/env python3
+"""
+Clean ETNA benchmark results by removing entries with very short times or all-timeout.
+
+Usage:
+    python clean_under5ms_or_timeout.py --source precomputed --system BST
+    python clean_under5ms_or_timeout.py --source precomputed --system STLC
+    python clean_under5ms_or_timeout.py --source fresh --system BST
+"""
+
 import json
 import argparse
+from pathlib import Path
+
+# Base directory for eval data
+EVAL_DIR = Path(__file__).parent.parent
+
 
 def clean_json(input_file, cleaned_output, removed_output):
     with open(input_file, 'r') as f:
@@ -73,13 +88,44 @@ def clean_json(input_file, cleaned_output, removed_output):
         json.dump(removed_data, f, indent=2)
 
 def main():
-    parser = argparse.ArgumentParser(description="Clean JSON and extract removed items.")
-    parser.add_argument("--input", required=True, help="Input JSON file")
-    parser.add_argument("--output", required=True, help="Path to write cleaned JSON")
-    parser.add_argument("--filtered", required=True, help="Path to write removed entries")
+    parser = argparse.ArgumentParser(description="Clean ETNA benchmark results.")
+    parser.add_argument(
+        "--source",
+        choices=["precomputed", "fresh"],
+        required=True,
+        help="Data source: 'precomputed' or 'fresh'"
+    )
+    parser.add_argument(
+        "--system",
+        choices=["BST", "STLC"],
+        required=True,
+        help="Benchmark system to clean"
+    )
     args = parser.parse_args()
 
-    clean_json(args.input, args.output, args.filtered)
+    # Determine input and output paths based on source
+    input_dir = EVAL_DIR / "parsed_4.2_data" / args.source / "parsed"
+    output_dir = EVAL_DIR / "parsed_4.2_data" / args.source / "cleaned"
+
+    input_file = input_dir / f"{args.system.lower()}_results.json"
+
+    if not input_file.exists():
+        print(f"Error: Input file not found: {input_file}")
+        return 1
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    cleaned_output = output_dir / f"{args.system.lower()}_results_cleaned.json"
+    removed_output = output_dir / f"{args.system.lower()}_results_removed.json"
+
+    print(f"Cleaning {args.system} data from {input_file}...")
+    clean_json(input_file, cleaned_output, removed_output)
+
+    print(f"Cleaned results saved to {cleaned_output}")
+    print(f"Removed entries saved to {removed_output}")
+
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    exit(main())

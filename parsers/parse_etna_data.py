@@ -1,8 +1,23 @@
+#!/usr/bin/env python3
+"""
+Parser for ETNA benchmark results (BST and STLC mutation testing).
+
+Usage:
+    python parse_etna_data.py --source precomputed --system BST
+    python parse_etna_data.py --source precomputed --system STLC
+    python parse_etna_data.py --source fresh --system BST
+"""
+
 import os
 import re
 import json
 import argparse
+from pathlib import Path
 from collections import defaultdict
+
+# Base directory for eval data
+EVAL_DIR = Path(__file__).parent.parent
+
 
 def parse_results(system_name, base_dir):
     strategy_order = [
@@ -10,7 +25,7 @@ def parse_results(system_name, base_dir):
         "baseBespoke", "baseBespokestaged", "baseBespokestagedc", "baseBespokestagedcsr",
         "baseBespokesingle", "baseBespokesinglestaged", "baseBespokesinglestagedc", "baseBespokesinglestagedcsr"
     ]
-    
+
     seed_dirs = []
     for item in os.listdir(base_dir):
         if os.path.isdir(os.path.join(base_dir, item)) and item.startswith(f"oc3-{system_name.lower()}-"):
@@ -20,7 +35,7 @@ def parse_results(system_name, base_dir):
                 seed_dirs.append((seed, os.path.join(base_dir, item)))
 
     results = defaultdict(lambda: defaultdict(lambda: {}))
-    
+
     for seed, seed_dir in seed_dirs:
         for root, _, files in os.walk(seed_dir):
             for file in files:
@@ -57,7 +72,7 @@ def parse_results(system_name, base_dir):
 
                         except Exception as e:
                             print(f"Error processing file {file}: {e}")
-    
+
     sorted_results = {}
     for mutant in sorted(results.keys()):
         sorted_results[mutant] = {}
@@ -72,17 +87,45 @@ def parse_results(system_name, base_dir):
                         sorted_results[mutant][prop][strategy_seed] = None
     return sorted_results
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Parse BST or STLC benchmark results.")
-    parser.add_argument("system", choices=["BST", "STLC"], help="Benchmark system to parse (BST or STLC)")
-    parser.add_argument("directory", help="Base directory containing seed folders")
-    parser.add_argument("--output", help="Output JSON file name (default: <system>.json)")
+
+def main():
+    parser = argparse.ArgumentParser(description="Parse ETNA benchmark results (BST or STLC).")
+    parser.add_argument(
+        "--source",
+        choices=["precomputed", "fresh"],
+        required=True,
+        help="Data source: 'precomputed' or 'fresh'"
+    )
+    parser.add_argument(
+        "--system",
+        choices=["BST", "STLC"],
+        required=True,
+        help="Benchmark system to parse"
+    )
     args = parser.parse_args()
 
-    parsed_results = parse_results(args.system, args.directory)
+    # Determine input and output paths based on source
+    input_dir = EVAL_DIR / "4.2_data" / args.source
+    output_dir = EVAL_DIR / "parsed_4.2_data" / args.source / "parsed"
 
-    output_file = args.output or f"{args.system.lower()}_results.json"
+    if not input_dir.exists():
+        print(f"Error: Input directory not found: {input_dir}")
+        return 1
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    print(f"Parsing {args.system} data from {input_dir}...")
+    parsed_results = parse_results(args.system, input_dir)
+
+    output_file = output_dir / f"{args.system.lower()}_results.json"
     with open(output_file, "w") as f:
         json.dump(parsed_results, f, indent=2)
 
     print(f"Results saved to {output_file}")
+    print(f"Parsed {len(parsed_results)} mutants")
+
+    return 0
+
+
+if __name__ == "__main__":
+    exit(main())

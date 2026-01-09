@@ -105,7 +105,9 @@ def main():
     args = parser.parse_args()
 
     # Determine input and output paths based on source
-    input_dir = EVAL_DIR / "4.2_data" / args.source
+    # Data is organized in system-specific subdirectories
+    system_subdir = f"{args.system.lower()}-experiments-precomp" if args.source == "precomputed" else f"{args.system.lower()}-experiments"
+    input_dir = EVAL_DIR / "4.2_data" / args.source / system_subdir
     output_dir = EVAL_DIR / "parsed_4.2_data" / args.source / "parsed"
 
     if not input_dir.exists():

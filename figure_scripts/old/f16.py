@@ -1,34 +1,15 @@
-#!/usr/bin/env python3
-"""
-Plot Scala benchmark results from JSON files.
-Figure 16: Runtime comparison across benchmark sizes.
-
-Usage:
-    python f16.py --source precomputed -o fig16.png
-    python f16.py --source fresh -o fig16.png
-"""
-
 import os
 import json
 import argparse
-from pathlib import Path
-import matplotlib
-matplotlib.use('Agg')  # Use non-interactive backend
 import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter
-
-# Base directory for eval data
-EVAL_DIR = Path(__file__).parent.parent
-
 
 def normalize_title(name):
     return {
         "BoolListBespoke": "Bool List",
         "BstBespoke": "BST (Single-Pass)",
-        "BstType": "BST (Repeated Insert)",
         "Term": "STLC"
     }.get(name, name)
-
 
 def load_data_from_directory(directory):
     merged = {}
@@ -52,13 +33,8 @@ def load_data_from_directory(directory):
     print("Loaded benchmarks:", list(merged.keys()))
     return merged
 
-
-def plot(parsed_data, output_path):
-    # Order: Bool List, BST Single Pass, BST Repeated Insert, STLC
-    benchmark_order = ["Bool List", "BST (Single-Pass)", "BST (Repeated Insert)", "STLC"]
-    # Filter to only include benchmarks we have data for
-    benchmark_order = [b for b in benchmark_order if b in parsed_data]
-
+def plot(parsed_data):
+    benchmark_order = ["Bool List", "BST (Single-Pass)", "STLC"]
     variant_order = ["SC", "ScAllegro"]
     n_values = [10, 100, 1000, 10000]
 
@@ -67,10 +43,7 @@ def plot(parsed_data, output_path):
         "ScAllegro": ("o", "#23b6de", "--"),
     }
 
-    n_benchmarks = len(benchmark_order)
-    fig, axes = plt.subplots(1, n_benchmarks, figsize=(2.0 * n_benchmarks, 2.25), sharey=True)
-    if n_benchmarks == 1:
-        axes = [axes]
+    fig, axes = plt.subplots(1, 3, figsize=(5.5, 2.25), sharey=True)
 
     def plot_data(ax, data, title):
         for variant in variant_order:
@@ -103,52 +76,15 @@ def plot(parsed_data, output_path):
     fig.tight_layout(rect=[0.02, 0.05, 1, 0.91])
     fig.supylabel('Run time (ns)', y=0.45, x=0.04, fontsize=10)
     fig.supxlabel('Size', fontsize=10)
-
-    plt.savefig(output_path, dpi=150, bbox_inches='tight')
-    print(f"Saved figure to {output_path}")
-
+    plt.show()
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Plot Scala benchmark results (Figure 16)."
-    )
-    parser.add_argument(
-        "--source",
-        choices=["precomputed", "fresh"],
-        required=True,
-        help="Data source: 'precomputed' or 'fresh'"
-    )
-    parser.add_argument(
-        "-o", "--output",
-        help="Output file path (default: figures/{source}/fig16.png)"
-    )
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dir", help="Path to directory containing JSON files")
     args = parser.parse_args()
 
-    # Determine input directory based on source
-    data_dir = EVAL_DIR / "parsed_4.1_data_scala" / args.source
-
-    # Determine output path
-    if args.output:
-        output_path = Path(args.output)
-    else:
-        output_dir = EVAL_DIR / "figures" / args.source
-        output_dir.mkdir(parents=True, exist_ok=True)
-        output_path = output_dir / "fig16.png"
-
-    if not data_dir.exists():
-        print(f"Error: Data directory not found: {data_dir}")
-        print("Run the parser first: python parsers/parse_results_scala_csv.py --source", args.source)
-        return 1
-
-    parsed_data = load_data_from_directory(data_dir)
-
-    if not parsed_data:
-        print(f"Error: No data found in {data_dir}")
-        return 1
-
-    plot(parsed_data, output_path)
-    return 0
-
+    parsed_data = load_data_from_directory(args.directory)
+    plot(parsed_data)
 
 if __name__ == "__main__":
-    exit(main())
+    main()

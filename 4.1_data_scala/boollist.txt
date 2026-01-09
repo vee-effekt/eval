@@ -1,9 +1,0 @@
-[info] Benchmark                                 Mode  Cnt         Score          Error  Units
-[info] GenBm.generateBoolListBespoke10           avgt    5      3924.090 ±      206.204  ns/op
-[info] GenBm.generateBoolListBespoke100          avgt    5     37357.923 ±     1563.142  ns/op
-[info] GenBm.generateBoolListBespoke1000         avgt    5    369547.061 ±    14684.514  ns/op
-[info] GenBm.generateBoolListBespoke10000        avgt    5   6090663.843 ±  7614091.702  ns/op
-[info] GenBm.generateBoolListBespokeStaged10     avgt    5       572.025 ±       23.044  ns/op
-[info] GenBm.generateBoolListBespokeStaged100    avgt    5      4654.392 ±      163.227  ns/op
-[info] GenBm.generateBoolListBespokeStaged1000   avgt    5     45080.302 ±     1509.830  ns/op
-[info] GenBm.generateBoolListBespokeStaged10000  avgt    5    454101.866 ±    22870.939  ns/op

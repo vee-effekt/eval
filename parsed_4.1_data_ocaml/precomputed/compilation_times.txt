@@ -1,0 +1,9 @@
+Compilation Times
+========================================
+
+boollist: 44.121 ms
+BST Repated Insert: 57.238 ms
+BST Type: 62.227 ms
+BST Single Pass: 64.312 ms
+STLC Type: 55.847 ms
+STLC Bespoke: 66.773 ms

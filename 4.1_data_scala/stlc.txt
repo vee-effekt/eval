@@ -1,9 +1,0 @@
-[info] Benchmark                                 Mode  Cnt         Score          Error  Units
-[info] GenBm.generateTerm10                      avgt    5      5210.395 ±      265.059  ns/op
-[info] GenBm.generateTerm100                     avgt    5     43361.955 ±     2408.038  ns/op
-[info] GenBm.generateTerm1000                    avgt    5    335514.379 ±    12285.881  ns/op
-[info] GenBm.generateTerm10000                   avgt    5   5102299.930 ±   308309.754  ns/op
-[info] GenBm.generateTermStaged10                avgt    5       959.075 ±       38.288  ns/op
-[info] GenBm.generateTermStaged100               avgt    5      7056.242 ±      438.322  ns/op
-[info] GenBm.generateTermStaged1000              avgt    5     43161.725 ±     1789.932  ns/op
-[info] GenBm.generateTermStaged10000             avgt    5    526159.887 ±    26739.730  ns/op

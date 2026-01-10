@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Parser for OCaml benchmark output files.
+Parser for results_ocaml.txt benchmark output.
 Generates JSON files for f14.py plotting and a separate compilation times file.
 
 Usage:
@@ -17,16 +17,6 @@ from collections import defaultdict
 # Base directory for eval data
 EVAL_DIR = Path(__file__).parent.parent
 
-# Mapping of result files to benchmark groups
-RESULT_FILES = {
-    'results_bst.txt': 'bst_bespoke',
-    'results_bsttype.txt': 'bst_type',
-    'results_bstsingle.txt': 'bst_single',
-    'results_stlc.txt': 'stlc_bespoke',
-    'results_stlctype.txt': 'stlc_type',
-    'results_boollist.txt': 'boollist_bespoke',
-}
-
 
 def parse_time_ns(s):
     """Convert a time string like '1_234.56ns' to a float."""
@@ -39,13 +29,19 @@ def parse_time_ns(s):
         return None
 
 
-def parse_benchmark_name(name, expected_group):
+def parse_benchmark_name(name):
     """
     Parse benchmark names and return (group, variant, size).
-    
-    Handles two formats:
-    1. With group prefix: 'bst_bespoke_baseBespoke:n=10' -> ('bst_bespoke', 'base', 10)
-    2. Without group prefix: 'bst_baseBespoke:n=10' -> ('bst_bespoke', 'base', 10)
+
+    Examples:
+        'boollist_base:n=10' -> ('boollist_bespoke', 'base', 10)
+        'boollist_staged_sr:n=100' -> ('boollist_bespoke', 'base_Staged_SR', 100)
+        'bst_baseBespoke:n=10' -> ('bst_bespoke', 'base', 10)
+        'bst_baseBespoke_Staged_SR:n=10' -> ('bst_bespoke', 'base_Staged_SR', 10)
+        'bst_baseSingleBespoke:n=10' -> ('bst_single', 'base', 10)
+        'bst_baseType:n=10' -> ('bst_type', 'base', 10)
+        'stlc_baseBespoke:n=10' -> ('stlc_bespoke', 'base', 10)
+        'stlc_baseType:n=10' -> ('stlc_type', 'base', 10)
     """
     match = re.match(r'(.+?):n=(\d+)', name)
     if not match:
@@ -54,20 +50,9 @@ def parse_benchmark_name(name, expected_group):
     full_name, size = match.groups()
     size = int(size)
 
-    # Remove expected group prefix if present
-    # e.g., "bst_bespoke_baseBespoke" -> "baseBespoke"
-    for group_name in ['bst_bespoke_', 'bst_type_', 'bst_single_', 'stlc_bespoke_', 'stlc_type_', 'boollist_bespoke_']:
-        if full_name.startswith(group_name):
-            full_name = full_name[len(group_name):]
-            break
-
     # Handle boollist benchmarks (different naming convention)
-    if full_name.startswith('boollist_') or full_name in ['base', 'staged_sr', 'staged_csr']:
-        if full_name.startswith('boollist_'):
-            rest = full_name[len('boollist_'):]
-        else:
-            rest = full_name
-            
+    if full_name.startswith('boollist_'):
+        rest = full_name[len('boollist_'):]
         if rest == 'base':
             return 'boollist_bespoke', 'base', size
         elif rest == 'staged_sr':
@@ -76,11 +61,8 @@ def parse_benchmark_name(name, expected_group):
             return 'boollist_bespoke', 'base_Staged_CSR', size
 
     # Handle bst benchmarks
-    elif full_name.startswith('bst_') or full_name.startswith('base'):
-        if full_name.startswith('bst_'):
-            rest = full_name[len('bst_'):]
-        else:
-            rest = full_name
+    elif full_name.startswith('bst_'):
+        rest = full_name[len('bst_'):]
 
         # BST Single Pass
         if rest.startswith('baseSingleBespoke'):
@@ -113,11 +95,8 @@ def parse_benchmark_name(name, expected_group):
                 return 'bst_type', 'base_Staged_CSR', size
 
     # Handle stlc benchmarks
-    elif full_name.startswith('stlc_') or full_name.startswith('base'):
-        if full_name.startswith('stlc_'):
-            rest = full_name[len('stlc_'):]
-        else:
-            rest = full_name
+    elif full_name.startswith('stlc_'):
+        rest = full_name[len('stlc_'):]
 
         # STLC Bespoke
         if rest.startswith('baseBespoke'):
@@ -161,52 +140,6 @@ def parse_compilation_times(lines):
     return times
 
 
-def parse_benchmark_file(file_path, expected_group):
-    """Parse a single benchmark results file."""
-    if not file_path.exists():
-        print(f"Warning: File not found: {file_path}")
-        return {}, {}
-    
-    with file_path.open() as f:
-        lines = f.readlines()
-    
-    # Parse benchmark data
-    result = defaultdict(dict)
-    
-    for line in lines:
-        if not line.startswith('│ '):
-            continue
-        
-        parts = [col.strip() for col in line.strip('│ \n').split('│')]
-        if len(parts) < 2:
-            continue
-        
-        name, time_str = parts[0], parts[1]
-        
-        # Skip header rows
-        if name == 'Name' or 'Time' in name:
-            continue
-        
-        group, variant, size = parse_benchmark_name(name, expected_group)
-        if not group or not variant or size is None:
-            continue
-        
-        # Only keep results from the expected group
-        if group != expected_group:
-            continue
-        
-        time_val = parse_time_ns(time_str)
-        if time_val is not None:
-            if variant not in result:
-                result[variant] = {}
-            result[variant][size] = time_val
-    
-    # Parse compilation times
-    compilation_times = parse_compilation_times(lines)
-    
-    return dict(result), compilation_times
-
-
 def main():
     parser = argparse.ArgumentParser(
         description="Parse OCaml benchmark results into JSON format."
@@ -222,53 +155,76 @@ def main():
     # Determine input and output paths based on source
     input_dir = EVAL_DIR / "4.1_data_ocaml" / args.source
     output_dir = EVAL_DIR / "parsed_4.1_data_ocaml" / args.source
-    
+
+    input_path = input_dir / "results_ocaml.txt"
+
+    if not input_path.exists():
+        print(f"Error: Input file not found: {input_path}")
+        return 1
+
+    # Read the file
+    with input_path.open() as f:
+        lines = f.readlines()
+
+    # Parse benchmark data
+    result = defaultdict(lambda: defaultdict(dict))
+
+    for line in lines:
+        if not line.startswith('│ '):
+            continue
+
+        parts = [col.strip() for col in line.strip('│ \n').split('│')]
+        if len(parts) < 2:
+            continue
+
+        name, time_str = parts[0], parts[1]
+
+        # Skip header rows
+        if name == 'Name' or 'Time' in name:
+            continue
+
+        group, variant, size = parse_benchmark_name(name)
+        if not group or not variant or size is None:
+            continue
+
+        time_val = parse_time_ns(time_str)
+        if time_val is not None:
+            result[group][variant][size] = time_val
+
+    # Write JSON files for each benchmark group
     output_dir.mkdir(parents=True, exist_ok=True)
-    
-    all_results = {}
-    all_compilation_times = {}
-    
-    # Parse each benchmark file
-    for filename, group in RESULT_FILES.items():
-        input_path = input_dir / filename
-        print(f"Processing {filename}...")
-        
-        group_data, comp_times = parse_benchmark_file(input_path, group)
-        
-        if group_data:
-            all_results[group] = group_data
-            all_compilation_times.update(comp_times)
-            
-            # Write individual JSON file for this group
-            json_data = {
-                group: {
-                    variant: {
-                        size: variant_data[size]
-                        for size in sorted(variant_data)
-                    }
-                    for variant, variant_data in sorted(group_data.items())
+
+    for group, group_data in sorted(result.items()):
+        json_data = {
+            group: {
+                variant: {
+                    size: variant_data[size]
+                    for size in sorted(variant_data)
                 }
+                for variant, variant_data in sorted(group_data.items())
             }
-            
-            output_file = output_dir / f"{group}.json"
-            with output_file.open('w') as f:
-                json.dump(json_data, f, indent=4)
-            print(f"  Wrote {output_file}")
-    
-    # Write compilation times
-    if all_compilation_times:
+        }
+
+        output_file = output_dir / f"{group}.json"
+        with output_file.open('w') as f:
+            json.dump(json_data, f, indent=4)
+        print(f"Wrote {output_file}")
+
+    # Parse and write compilation times
+    compilation_times = parse_compilation_times(lines)
+    if compilation_times:
         comp_file = output_dir / 'compilation_times.txt'
         with comp_file.open('w') as f:
             f.write("Compilation Times\n")
             f.write("=" * 40 + "\n\n")
-            for name, time_ms in all_compilation_times.items():
+            for name, time_ms in compilation_times.items():
                 f.write(f"{name}: {time_ms:.3f} ms\n")
         print(f"Wrote {comp_file}")
-    
-    print(f"\nParsed {len(all_results)} benchmark groups from {args.source} data")
-    for group in sorted(all_results.keys()):
-        print(f"  - {group}: {len(all_results[group])} variants")
-    
+
+    print(f"\nParsed {len(result)} benchmark groups from {args.source} data")
+    for group in sorted(result.keys()):
+        print(f"  - {group}: {len(result[group])} variants")
+
     return 0
 
 

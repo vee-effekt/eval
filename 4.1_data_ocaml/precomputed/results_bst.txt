@@ -1,0 +1,17 @@
+Estimated testing time 1m (12 benchmarks x 5s). Change using '-quota'.
+┌────────────────────────────────────────────┬────────────────┬─────────────┬────────────┬────────────┬─────────────┬──────────┐
+│ Name                                       │       Time/Run │     mWd/Run │   mjWd/Run │   Prom/Run │     mGC/Run │ mjGC/Run │
+├────────────────────────────────────────────┼────────────────┼─────────────┼────────────┼────────────┼─────────────┼──────────┤
+│ bst_bespoke_baseBespoke:n=10               │     3_223.69ns │   1_297.18w │      0.17w │      0.17w │     4.95e-3 │          │
+│ bst_bespoke_baseBespoke:n=100              │    21_875.77ns │  10_043.20w │      8.25w │      8.25w │    38.36e-3 │  0.05e-3 │
+│ bst_bespoke_baseBespoke:n=1000             │   172_216.91ns │  85_409.95w │    597.02w │    493.31w │   326.69e-3 │  2.79e-3 │
+│ bst_bespoke_baseBespoke:n=10000            │ 1_935_512.45ns │ 883_694.97w │ 21_625.25w │ 20_311.38w │ 3_399.06e-3 │ 68.09e-3 │
+│ bst_bespoke_baseBespoke_Staged_SR:n=10     │     2_659.33ns │     955.28w │            │            │     3.64e-3 │          │
+│ bst_bespoke_baseBespoke_Staged_SR:n=100    │    18_915.39ns │   8_139.40w │      3.74w │      3.74w │    31.05e-3 │  0.02e-3 │
+│ bst_bespoke_baseBespoke_Staged_SR:n=1000   │   153_206.28ns │  73_176.81w │    331.85w │    229.52w │   280.80e-3 │  1.11e-3 │
+│ bst_bespoke_baseBespoke_Staged_SR:n=10000  │ 1_821_594.39ns │ 794_114.17w │ 15_153.71w │ 13_699.94w │ 3_057.96e-3 │ 41.34e-3 │
+│ bst_bespoke_baseBespoke_Staged_CSR:n=10    │       557.90ns │     112.55w │            │            │     0.43e-3 │          │
+│ bst_bespoke_baseBespoke_Staged_CSR:n=100   │     4_307.63ns │   1_172.21w │      1.29w │      1.29w │     4.47e-3 │          │
+│ bst_bespoke_baseBespoke_Staged_CSR:n=1000  │    38_934.40ns │  10_969.27w │    214.55w │    111.55w │    42.23e-3 │  0.52e-3 │
+│ bst_bespoke_baseBespoke_Staged_CSR:n=10000 │   526_969.06ns │ 137_579.17w │ 10_215.56w │  8_860.68w │   553.00e-3 │ 21.14e-3 │
+└────────────────────────────────────────────┴────────────────┴─────────────┴────────────┴────────────┴─────────────┴──────────┘

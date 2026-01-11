@@ -54,8 +54,8 @@ def load_data_from_directory(directory):
 
 
 def plot(parsed_data, output_path):
-    # Order: Bool List, BST Single Pass, BST Repeated Insert, STLC
-    benchmark_order = ["Bool List", "BST (Single-Pass)", "BST (Repeated Insert)", "STLC"]
+    # Order: Bool List, BST Single Pass, STLC
+    benchmark_order = ["Bool List", "BST (Single-Pass)", "STLC"]
     # Filter to only include benchmarks we have data for
     benchmark_order = [b for b in benchmark_order if b in parsed_data]
 

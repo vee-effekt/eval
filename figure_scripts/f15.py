@@ -1,5 +1,22 @@
+#!/usr/bin/env python3
+"""
+Plot OCaml speedup analysis (Figure 15).
+Static data showing speedup from AllegrOCaml and CSplitMix.
+
+Usage:
+    python f15.py --source precomputed
+    python f15.py --source fresh
+"""
+
+import argparse
+import matplotlib
+matplotlib.use('Agg')  # Use non-interactive backend
 import matplotlib.pyplot as plt
 import pandas as pd
+from pathlib import Path
+
+# Base directory for eval data
+EVAL_DIR = Path(__file__).parent.parent
 
 data2 = {
     "Name": ["BST (RI)", "STLC", "Bool List", "BST (SP)"],
@@ -50,4 +67,35 @@ for ax in (ax1, ax2):
 
 plt.subplots_adjust(left=0.08, right=0.98, wspace=0.3)
 
-plt.show()
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Plot OCaml speedup analysis (Figure 15)."
+    )
+    parser.add_argument(
+        "--source",
+        choices=["precomputed", "fresh"],
+        required=True,
+        help="Data source: 'precomputed' or 'fresh'"
+    )
+    parser.add_argument(
+        "-o", "--output",
+        help="Output file path (default: figures/{source}/fig15.png)"
+    )
+    args = parser.parse_args()
+
+    # Determine output path
+    if args.output:
+        output_path = Path(args.output)
+    else:
+        output_dir = EVAL_DIR / "figures" / args.source
+        output_dir.mkdir(parents=True, exist_ok=True)
+        output_path = output_dir / "fig15.png"
+
+    plt.savefig(output_path, dpi=150, bbox_inches='tight')
+    print(f"Saved figure to {output_path}")
+    return 0
+
+
+if __name__ == "__main__":
+    exit(main())

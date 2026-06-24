@@ -21,7 +21,7 @@ EVAL_DIR = Path(__file__).parent.parent
 data2 = {
     "Name": ["BST (RI)", "STLC", "Bool List", "BST (SP)"],
     "RandCalls": [353, 211, 100, 271],
-    "Speedup": [4.4824, 1.0923, 1.000339, 4.2746]
+    "Speedup": [4.35, 1.09, 0.97, 4.148]
 }
 
 df1 = pd.DataFrame(data2)
@@ -29,7 +29,7 @@ df1 = pd.DataFrame(data2)
 data1 = {
     "Name": ["BST (RI)", "STLC", "Bool List", "BST (SP)"],
     "Binds": [2, 670, 300, 188],
-    "Speedup": [1.18, 5.24, 2.77, 2.22]
+    "Speedup": [1.16, 5.26, 3.30, 2.20]
 }
 df2 = pd.DataFrame(data1)
 

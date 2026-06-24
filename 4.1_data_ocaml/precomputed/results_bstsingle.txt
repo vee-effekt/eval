@@ -2,16 +2,16 @@ Estimated testing time 1m (12 benchmarks x 5s). Change using '-quota'.
 ┌─────────────────────────────────────────────────┬──────────────┬─────────────┬──────────┬──────────┬───────────┬──────────┐
 │ Name                                            │     Time/Run │     mWd/Run │ mjWd/Run │ Prom/Run │   mGC/Run │ mjGC/Run │
 ├─────────────────────────────────────────────────┼──────────────┼─────────────┼──────────┼──────────┼───────────┼──────────┤
-│ bst_single_baseSingleBespoke:n=10               │   3_420.99ns │   2_424.05w │    0.84w │    0.84w │   9.25e-3 │          │
-│ bst_single_baseSingleBespoke:n=100              │  24_731.14ns │  16_869.84w │   14.46w │   14.46w │  64.38e-3 │  0.09e-3 │
-│ bst_single_baseSingleBespoke:n=1000             │ 103_054.78ns │  68_565.48w │  141.61w │  141.61w │ 262.16e-3 │  0.69e-3 │
-│ bst_single_baseSingleBespoke:n=10000            │ 285_621.84ns │ 185_006.99w │  817.78w │  817.78w │ 707.64e-3 │  3.56e-3 │
-│ bst_single_baseSingleBespoke_Staged_SR:n=10     │   1_542.50ns │     555.45w │          │          │   2.12e-3 │          │
-│ bst_single_baseSingleBespoke_Staged_SR:n=100    │  11_153.09ns │   4_029.41w │    1.06w │    1.06w │  15.37e-3 │          │
-│ bst_single_baseSingleBespoke_Staged_SR:n=1000   │  46_745.64ns │  16_704.59w │   20.19w │   20.19w │  63.73e-3 │  0.07e-3 │
-│ bst_single_baseSingleBespoke_Staged_SR:n=10000  │ 128_183.21ns │  45_448.81w │  146.84w │  146.84w │ 173.20e-3 │  0.46e-3 │
-│ bst_single_baseSingleBespoke_Staged_CSR:n=10    │     378.40ns │      45.59w │          │          │   0.17e-3 │          │
-│ bst_single_baseSingleBespoke_Staged_CSR:n=100   │   2_650.23ns │     335.66w │          │          │   1.28e-3 │          │
-│ bst_single_baseSingleBespoke_Staged_CSR:n=1000  │  11_030.68ns │   1_396.61w │    1.69w │    1.69w │   5.33e-3 │          │
-│ bst_single_baseSingleBespoke_Staged_CSR:n=10000 │  30_298.64ns │   3_805.03w │   12.83w │   12.83w │  14.53e-3 │  0.03e-3 │
+│ bst_single_baseSingleBespoke:n=10               │   3_414.82ns │   2_422.78w │    0.83w │    0.83w │   9.24e-3 │          │
+│ bst_single_baseSingleBespoke:n=100              │  24_666.80ns │  16_879.86w │   14.45w │   14.45w │  64.40e-3 │  0.09e-3 │
+│ bst_single_baseSingleBespoke:n=1000             │ 102_581.68ns │  68_467.59w │  140.95w │  140.95w │ 261.84e-3 │  0.71e-3 │
+│ bst_single_baseSingleBespoke:n=10000            │ 284_178.97ns │ 185_030.08w │  815.32w │  815.32w │ 707.32e-3 │  3.64e-3 │
+│ bst_single_baseSingleBespoke_Staged_SR:n=10     │   1_550.89ns │     555.76w │          │          │   2.12e-3 │          │
+│ bst_single_baseSingleBespoke_Staged_SR:n=100    │  11_228.64ns │   4_029.00w │    1.07w │    1.07w │  15.37e-3 │          │
+│ bst_single_baseSingleBespoke_Staged_SR:n=1000   │  46_878.30ns │  16_671.77w │   19.61w │   19.61w │  63.69e-3 │  0.07e-3 │
+│ bst_single_baseSingleBespoke_Staged_SR:n=10000  │ 128_810.50ns │  45_360.56w │  147.05w │  147.05w │ 173.23e-3 │  0.48e-3 │
+│ bst_single_baseSingleBespoke_Staged_CSR:n=10    │     382.03ns │      45.59w │          │          │   0.17e-3 │          │
+│ bst_single_baseSingleBespoke_Staged_CSR:n=100   │   2_707.04ns │     335.72w │          │          │   1.28e-3 │          │
+│ bst_single_baseSingleBespoke_Staged_CSR:n=1000  │  11_156.30ns │   1_397.31w │    1.69w │    1.69w │   5.33e-3 │          │
+│ bst_single_baseSingleBespoke_Staged_CSR:n=10000 │  30_574.02ns │   3_805.26w │   12.79w │   12.79w │  14.53e-3 │  0.03e-3 │
 └─────────────────────────────────────────────────┴──────────────┴─────────────┴──────────┴──────────┴───────────┴──────────┘
